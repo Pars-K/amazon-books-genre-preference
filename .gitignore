@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+*.pyc
+*.tmp
+*.partial
+*.jsonl.gz
+/data/
+books_user_review_counts.csv
+notebooks/feasibility_exploration.ipynb
+reports/.phase1-audit-*.log
