@@ -1,0 +1,22 @@
+scheme,fold,genre,train,test
+user,0,Fantasy,126,63
+user,0,Science Fiction,196,99
+user,0,Romance,736,368
+user,0,Mystery,632,316
+user,0,Thriller,5486,2743
+user,0,Philosophy,6,4
+user,0,Science,128,65
+user,1,Fantasy,126,63
+user,1,Science Fiction,197,98
+user,1,Romance,736,368
+user,1,Mystery,632,316
+user,1,Thriller,5486,2743
+user,1,Philosophy,7,3
+user,1,Science,129,64
+user,2,Fantasy,126,63
+user,2,Science Fiction,197,98
+user,2,Romance,736,368
+user,2,Mystery,632,316
+user,2,Thriller,5486,2743
+user,2,Philosophy,7,3
+user,2,Science,129,64

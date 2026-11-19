@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-19",
+  "role": "Exploratory assessment requested after the prior feasibility results; not an untouched confirmatory experiment",
+  "target_groups": ["Mystery", "Thriller", "Romance"],
+  "source": "Same existing development sample, one review per author and independent preference after removing the input-book history",
+  "schemes": ["Three book-disjoint folds on all three target groups", "Same three folds restricted to reviews of Thriller books, preserving the existing independently measured preference"],
+  "models": "Same unweighted logistic style/words/combined models, diagnostic context models, and count-based naive Bayes as the previous study",
+  "primary_algorithm": "Naive Bayes, selected before running the three-group experiment based on the previous feasibility study; model comparison is exploratory",
+  "preprocessing_and_tuning": "Exactly the existing fold-local functions and regularization grid, no additional features or options",
+  "metrics": "Macro-F1, balanced accuracy, per-group precision/recall/F1, majority and frequency-based baselines",
+  "uncertainty": "2000 paired bootstrap resamples of book titles, out-of-fold predictions fixed",
+  "analyst_feasibility_criterion": "On the full three-group cohort, primary macro-F1 >=0.50, balanced accuracy >=0.50, each class recall >=0.30, and >=0.10 improvement over both baselines in both metrics with paired 95% lower bounds >0",
+  "interpretation": "Passing the predictive criterion supports a three-group research question in this cohort. Prediction from stable personal writing style independently of book topic requires additional support. The common-input-genre subset is reported separately and will be substantially imbalanced.",
+  "final_test": "Not read",
+  "scope_change": "Do not silently replace the current amendment before reporting this assessment. Preserve original Phase 1 files."
+}

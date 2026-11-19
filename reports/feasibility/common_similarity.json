@@ -1,0 +1,27 @@
+{
+  "training_users": 674,
+  "evaluation_users": 157,
+  "maximum_cosine": 0.4794848776484812,
+  "median_cosine": 0.21195557562669473,
+  "cosine_p95": 0.3197219779998691,
+  "at_least_point8": 0,
+  "at_least_point6": 0,
+  "shared_titles": 0,
+  "shared_authors": 0,
+  "identical_normalized_bodies": 0,
+  "heldout_rating_by_preference": {
+    "Romance": {
+      "5.0": 93,
+      "3.0": 9,
+      "4.0": 30,
+      "1.0": 3
+    },
+    "Science Fiction": {
+      "5.0": 7,
+      "4.0": 6,
+      "2.0": 1,
+      "1.0": 2,
+      "3.0": 6
+    }
+  }
+}

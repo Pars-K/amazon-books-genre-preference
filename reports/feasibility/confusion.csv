@@ -1,0 +1,1021 @@
+scheme,model,actual,predicted,users
+book,style,Fantasy,Fantasy,0
+book,style,Fantasy,Science Fiction,0
+book,style,Fantasy,Romance,9
+book,style,Fantasy,Mystery,0
+book,style,Fantasy,Thriller,179
+book,style,Fantasy,Philosophy,0
+book,style,Fantasy,Science,1
+book,style,Science Fiction,Fantasy,0
+book,style,Science Fiction,Science Fiction,0
+book,style,Science Fiction,Romance,6
+book,style,Science Fiction,Mystery,0
+book,style,Science Fiction,Thriller,285
+book,style,Science Fiction,Philosophy,0
+book,style,Science Fiction,Science,4
+book,style,Romance,Fantasy,0
+book,style,Romance,Science Fiction,0
+book,style,Romance,Romance,87
+book,style,Romance,Mystery,0
+book,style,Romance,Thriller,1017
+book,style,Romance,Philosophy,0
+book,style,Romance,Science,0
+book,style,Mystery,Fantasy,0
+book,style,Mystery,Science Fiction,0
+book,style,Mystery,Romance,4
+book,style,Mystery,Mystery,0
+book,style,Mystery,Thriller,944
+book,style,Mystery,Philosophy,0
+book,style,Mystery,Science,0
+book,style,Thriller,Fantasy,0
+book,style,Thriller,Science Fiction,0
+book,style,Thriller,Romance,85
+book,style,Thriller,Mystery,0
+book,style,Thriller,Thriller,8137
+book,style,Thriller,Philosophy,0
+book,style,Thriller,Science,7
+book,style,Philosophy,Fantasy,0
+book,style,Philosophy,Science Fiction,0
+book,style,Philosophy,Romance,0
+book,style,Philosophy,Mystery,0
+book,style,Philosophy,Thriller,9
+book,style,Philosophy,Philosophy,0
+book,style,Philosophy,Science,1
+book,style,Science,Fantasy,0
+book,style,Science,Science Fiction,1
+book,style,Science,Romance,2
+book,style,Science,Mystery,0
+book,style,Science,Thriller,179
+book,style,Science,Philosophy,0
+book,style,Science,Science,11
+book,words,Fantasy,Fantasy,0
+book,words,Fantasy,Science Fiction,1
+book,words,Fantasy,Romance,10
+book,words,Fantasy,Mystery,0
+book,words,Fantasy,Thriller,178
+book,words,Fantasy,Philosophy,0
+book,words,Fantasy,Science,0
+book,words,Science Fiction,Fantasy,0
+book,words,Science Fiction,Science Fiction,15
+book,words,Science Fiction,Romance,0
+book,words,Science Fiction,Mystery,0
+book,words,Science Fiction,Thriller,280
+book,words,Science Fiction,Philosophy,0
+book,words,Science Fiction,Science,0
+book,words,Romance,Fantasy,0
+book,words,Romance,Science Fiction,0
+book,words,Romance,Romance,423
+book,words,Romance,Mystery,3
+book,words,Romance,Thriller,678
+book,words,Romance,Philosophy,0
+book,words,Romance,Science,0
+book,words,Mystery,Fantasy,0
+book,words,Mystery,Science Fiction,0
+book,words,Mystery,Romance,11
+book,words,Mystery,Mystery,163
+book,words,Mystery,Thriller,774
+book,words,Mystery,Philosophy,0
+book,words,Mystery,Science,0
+book,words,Thriller,Fantasy,0
+book,words,Thriller,Science Fiction,3
+book,words,Thriller,Romance,154
+book,words,Thriller,Mystery,20
+book,words,Thriller,Thriller,8050
+book,words,Thriller,Philosophy,0
+book,words,Thriller,Science,2
+book,words,Philosophy,Fantasy,0
+book,words,Philosophy,Science Fiction,0
+book,words,Philosophy,Romance,0
+book,words,Philosophy,Mystery,0
+book,words,Philosophy,Thriller,10
+book,words,Philosophy,Philosophy,0
+book,words,Philosophy,Science,0
+book,words,Science,Fantasy,0
+book,words,Science,Science Fiction,0
+book,words,Science,Romance,0
+book,words,Science,Mystery,0
+book,words,Science,Thriller,164
+book,words,Science,Philosophy,0
+book,words,Science,Science,29
+book,combined,Fantasy,Fantasy,1
+book,combined,Fantasy,Science Fiction,1
+book,combined,Fantasy,Romance,14
+book,combined,Fantasy,Mystery,1
+book,combined,Fantasy,Thriller,171
+book,combined,Fantasy,Philosophy,0
+book,combined,Fantasy,Science,1
+book,combined,Science Fiction,Fantasy,0
+book,combined,Science Fiction,Science Fiction,19
+book,combined,Science Fiction,Romance,0
+book,combined,Science Fiction,Mystery,0
+book,combined,Science Fiction,Thriller,275
+book,combined,Science Fiction,Philosophy,0
+book,combined,Science Fiction,Science,1
+book,combined,Romance,Fantasy,0
+book,combined,Romance,Science Fiction,0
+book,combined,Romance,Romance,438
+book,combined,Romance,Mystery,6
+book,combined,Romance,Thriller,660
+book,combined,Romance,Philosophy,0
+book,combined,Romance,Science,0
+book,combined,Mystery,Fantasy,0
+book,combined,Mystery,Science Fiction,0
+book,combined,Mystery,Romance,12
+book,combined,Mystery,Mystery,168
+book,combined,Mystery,Thriller,768
+book,combined,Mystery,Philosophy,0
+book,combined,Mystery,Science,0
+book,combined,Thriller,Fantasy,0
+book,combined,Thriller,Science Fiction,2
+book,combined,Thriller,Romance,169
+book,combined,Thriller,Mystery,25
+book,combined,Thriller,Thriller,8026
+book,combined,Thriller,Philosophy,0
+book,combined,Thriller,Science,7
+book,combined,Philosophy,Fantasy,0
+book,combined,Philosophy,Science Fiction,0
+book,combined,Philosophy,Romance,0
+book,combined,Philosophy,Mystery,0
+book,combined,Philosophy,Thriller,7
+book,combined,Philosophy,Philosophy,0
+book,combined,Philosophy,Science,3
+book,combined,Science,Fantasy,0
+book,combined,Science,Science Fiction,1
+book,combined,Science,Romance,0
+book,combined,Science,Mystery,0
+book,combined,Science,Thriller,140
+book,combined,Science,Philosophy,0
+book,combined,Science,Science,52
+book,context,Fantasy,Fantasy,85
+book,context,Fantasy,Science Fiction,10
+book,context,Fantasy,Romance,7
+book,context,Fantasy,Mystery,1
+book,context,Fantasy,Thriller,84
+book,context,Fantasy,Philosophy,0
+book,context,Fantasy,Science,2
+book,context,Science Fiction,Fantasy,18
+book,context,Science Fiction,Science Fiction,167
+book,context,Science Fiction,Romance,2
+book,context,Science Fiction,Mystery,2
+book,context,Science Fiction,Thriller,106
+book,context,Science Fiction,Philosophy,0
+book,context,Science Fiction,Science,0
+book,context,Romance,Fantasy,12
+book,context,Romance,Science Fiction,6
+book,context,Romance,Romance,634
+book,context,Romance,Mystery,9
+book,context,Romance,Thriller,443
+book,context,Romance,Philosophy,0
+book,context,Romance,Science,0
+book,context,Mystery,Fantasy,6
+book,context,Mystery,Science Fiction,2
+book,context,Mystery,Romance,6
+book,context,Mystery,Mystery,561
+book,context,Mystery,Thriller,373
+book,context,Mystery,Philosophy,0
+book,context,Mystery,Science,0
+book,context,Thriller,Fantasy,19
+book,context,Thriller,Science Fiction,24
+book,context,Thriller,Romance,123
+book,context,Thriller,Mystery,405
+book,context,Thriller,Thriller,7649
+book,context,Thriller,Philosophy,0
+book,context,Thriller,Science,9
+book,context,Philosophy,Fantasy,0
+book,context,Philosophy,Science Fiction,0
+book,context,Philosophy,Romance,0
+book,context,Philosophy,Mystery,0
+book,context,Philosophy,Thriller,9
+book,context,Philosophy,Philosophy,1
+book,context,Philosophy,Science,0
+book,context,Science,Fantasy,0
+book,context,Science,Science Fiction,0
+book,context,Science,Romance,0
+book,context,Science,Mystery,0
+book,context,Science,Thriller,98
+book,context,Science,Philosophy,0
+book,context,Science,Science,95
+book,context_style,Fantasy,Fantasy,82
+book,context_style,Fantasy,Science Fiction,10
+book,context_style,Fantasy,Romance,7
+book,context_style,Fantasy,Mystery,1
+book,context_style,Fantasy,Thriller,87
+book,context_style,Fantasy,Philosophy,0
+book,context_style,Fantasy,Science,2
+book,context_style,Science Fiction,Fantasy,18
+book,context_style,Science Fiction,Science Fiction,166
+book,context_style,Science Fiction,Romance,5
+book,context_style,Science Fiction,Mystery,2
+book,context_style,Science Fiction,Thriller,104
+book,context_style,Science Fiction,Philosophy,0
+book,context_style,Science Fiction,Science,0
+book,context_style,Romance,Fantasy,13
+book,context_style,Romance,Science Fiction,5
+book,context_style,Romance,Romance,643
+book,context_style,Romance,Mystery,9
+book,context_style,Romance,Thriller,434
+book,context_style,Romance,Philosophy,0
+book,context_style,Romance,Science,0
+book,context_style,Mystery,Fantasy,3
+book,context_style,Mystery,Science Fiction,2
+book,context_style,Mystery,Romance,5
+book,context_style,Mystery,Mystery,510
+book,context_style,Mystery,Thriller,428
+book,context_style,Mystery,Philosophy,0
+book,context_style,Mystery,Science,0
+book,context_style,Thriller,Fantasy,19
+book,context_style,Thriller,Science Fiction,23
+book,context_style,Thriller,Romance,136
+book,context_style,Thriller,Mystery,355
+book,context_style,Thriller,Thriller,7688
+book,context_style,Thriller,Philosophy,0
+book,context_style,Thriller,Science,8
+book,context_style,Philosophy,Fantasy,0
+book,context_style,Philosophy,Science Fiction,0
+book,context_style,Philosophy,Romance,0
+book,context_style,Philosophy,Mystery,0
+book,context_style,Philosophy,Thriller,9
+book,context_style,Philosophy,Philosophy,1
+book,context_style,Philosophy,Science,0
+book,context_style,Science,Fantasy,0
+book,context_style,Science,Science Fiction,0
+book,context_style,Science,Romance,1
+book,context_style,Science,Mystery,0
+book,context_style,Science,Thriller,101
+book,context_style,Science,Philosophy,0
+book,context_style,Science,Science,91
+book,context_words,Fantasy,Fantasy,91
+book,context_words,Fantasy,Science Fiction,10
+book,context_words,Fantasy,Romance,7
+book,context_words,Fantasy,Mystery,0
+book,context_words,Fantasy,Thriller,79
+book,context_words,Fantasy,Philosophy,0
+book,context_words,Fantasy,Science,2
+book,context_words,Science Fiction,Fantasy,18
+book,context_words,Science Fiction,Science Fiction,166
+book,context_words,Science Fiction,Romance,1
+book,context_words,Science Fiction,Mystery,0
+book,context_words,Science Fiction,Thriller,110
+book,context_words,Science Fiction,Philosophy,0
+book,context_words,Science Fiction,Science,0
+book,context_words,Romance,Fantasy,12
+book,context_words,Romance,Science Fiction,6
+book,context_words,Romance,Romance,715
+book,context_words,Romance,Mystery,7
+book,context_words,Romance,Thriller,364
+book,context_words,Romance,Philosophy,0
+book,context_words,Romance,Science,0
+book,context_words,Mystery,Fantasy,5
+book,context_words,Mystery,Science Fiction,2
+book,context_words,Mystery,Romance,11
+book,context_words,Mystery,Mystery,493
+book,context_words,Mystery,Thriller,437
+book,context_words,Mystery,Philosophy,0
+book,context_words,Mystery,Science,0
+book,context_words,Thriller,Fantasy,22
+book,context_words,Thriller,Science Fiction,24
+book,context_words,Thriller,Romance,141
+book,context_words,Thriller,Mystery,197
+book,context_words,Thriller,Thriller,7833
+book,context_words,Thriller,Philosophy,0
+book,context_words,Thriller,Science,12
+book,context_words,Philosophy,Fantasy,0
+book,context_words,Philosophy,Science Fiction,0
+book,context_words,Philosophy,Romance,0
+book,context_words,Philosophy,Mystery,0
+book,context_words,Philosophy,Thriller,10
+book,context_words,Philosophy,Philosophy,0
+book,context_words,Philosophy,Science,0
+book,context_words,Science,Fantasy,0
+book,context_words,Science,Science Fiction,0
+book,context_words,Science,Romance,0
+book,context_words,Science,Mystery,0
+book,context_words,Science,Thriller,95
+book,context_words,Science,Philosophy,0
+book,context_words,Science,Science,98
+book,context_combined,Fantasy,Fantasy,89
+book,context_combined,Fantasy,Science Fiction,10
+book,context_combined,Fantasy,Romance,6
+book,context_combined,Fantasy,Mystery,0
+book,context_combined,Fantasy,Thriller,82
+book,context_combined,Fantasy,Philosophy,0
+book,context_combined,Fantasy,Science,2
+book,context_combined,Science Fiction,Fantasy,18
+book,context_combined,Science Fiction,Science Fiction,166
+book,context_combined,Science Fiction,Romance,1
+book,context_combined,Science Fiction,Mystery,1
+book,context_combined,Science Fiction,Thriller,109
+book,context_combined,Science Fiction,Philosophy,0
+book,context_combined,Science Fiction,Science,0
+book,context_combined,Romance,Fantasy,11
+book,context_combined,Romance,Science Fiction,5
+book,context_combined,Romance,Romance,696
+book,context_combined,Romance,Mystery,7
+book,context_combined,Romance,Thriller,385
+book,context_combined,Romance,Philosophy,0
+book,context_combined,Romance,Science,0
+book,context_combined,Mystery,Fantasy,4
+book,context_combined,Mystery,Science Fiction,2
+book,context_combined,Mystery,Romance,9
+book,context_combined,Mystery,Mystery,505
+book,context_combined,Mystery,Thriller,428
+book,context_combined,Mystery,Philosophy,0
+book,context_combined,Mystery,Science,0
+book,context_combined,Thriller,Fantasy,22
+book,context_combined,Thriller,Science Fiction,22
+book,context_combined,Thriller,Romance,144
+book,context_combined,Thriller,Mystery,219
+book,context_combined,Thriller,Thriller,7813
+book,context_combined,Thriller,Philosophy,0
+book,context_combined,Thriller,Science,9
+book,context_combined,Philosophy,Fantasy,0
+book,context_combined,Philosophy,Science Fiction,0
+book,context_combined,Philosophy,Romance,0
+book,context_combined,Philosophy,Mystery,0
+book,context_combined,Philosophy,Thriller,9
+book,context_combined,Philosophy,Philosophy,0
+book,context_combined,Philosophy,Science,1
+book,context_combined,Science,Fantasy,0
+book,context_combined,Science,Science Fiction,0
+book,context_combined,Science,Romance,0
+book,context_combined,Science,Mystery,0
+book,context_combined,Science,Thriller,100
+book,context_combined,Science,Philosophy,0
+book,context_combined,Science,Science,93
+book,naive_bayes,Fantasy,Fantasy,3
+book,naive_bayes,Fantasy,Science Fiction,11
+book,naive_bayes,Fantasy,Romance,26
+book,naive_bayes,Fantasy,Mystery,6
+book,naive_bayes,Fantasy,Thriller,141
+book,naive_bayes,Fantasy,Philosophy,0
+book,naive_bayes,Fantasy,Science,2
+book,naive_bayes,Science Fiction,Fantasy,1
+book,naive_bayes,Science Fiction,Science Fiction,81
+book,naive_bayes,Science Fiction,Romance,6
+book,naive_bayes,Science Fiction,Mystery,4
+book,naive_bayes,Science Fiction,Thriller,196
+book,naive_bayes,Science Fiction,Philosophy,0
+book,naive_bayes,Science Fiction,Science,7
+book,naive_bayes,Romance,Fantasy,1
+book,naive_bayes,Romance,Science Fiction,1
+book,naive_bayes,Romance,Romance,827
+book,naive_bayes,Romance,Mystery,13
+book,naive_bayes,Romance,Thriller,261
+book,naive_bayes,Romance,Philosophy,0
+book,naive_bayes,Romance,Science,1
+book,naive_bayes,Mystery,Fantasy,3
+book,naive_bayes,Mystery,Science Fiction,2
+book,naive_bayes,Mystery,Romance,65
+book,naive_bayes,Mystery,Mystery,339
+book,naive_bayes,Mystery,Thriller,535
+book,naive_bayes,Mystery,Philosophy,0
+book,naive_bayes,Mystery,Science,4
+book,naive_bayes,Thriller,Fantasy,9
+book,naive_bayes,Thriller,Science Fiction,63
+book,naive_bayes,Thriller,Romance,595
+book,naive_bayes,Thriller,Mystery,236
+book,naive_bayes,Thriller,Thriller,7247
+book,naive_bayes,Thriller,Philosophy,0
+book,naive_bayes,Thriller,Science,79
+book,naive_bayes,Philosophy,Fantasy,0
+book,naive_bayes,Philosophy,Science Fiction,0
+book,naive_bayes,Philosophy,Romance,0
+book,naive_bayes,Philosophy,Mystery,1
+book,naive_bayes,Philosophy,Thriller,4
+book,naive_bayes,Philosophy,Philosophy,0
+book,naive_bayes,Philosophy,Science,5
+book,naive_bayes,Science,Fantasy,0
+book,naive_bayes,Science,Science Fiction,4
+book,naive_bayes,Science,Romance,0
+book,naive_bayes,Science,Mystery,2
+book,naive_bayes,Science,Thriller,55
+book,naive_bayes,Science,Philosophy,0
+book,naive_bayes,Science,Science,132
+book,majority,Fantasy,Fantasy,0
+book,majority,Fantasy,Science Fiction,0
+book,majority,Fantasy,Romance,0
+book,majority,Fantasy,Mystery,0
+book,majority,Fantasy,Thriller,189
+book,majority,Fantasy,Philosophy,0
+book,majority,Fantasy,Science,0
+book,majority,Science Fiction,Fantasy,0
+book,majority,Science Fiction,Science Fiction,0
+book,majority,Science Fiction,Romance,0
+book,majority,Science Fiction,Mystery,0
+book,majority,Science Fiction,Thriller,295
+book,majority,Science Fiction,Philosophy,0
+book,majority,Science Fiction,Science,0
+book,majority,Romance,Fantasy,0
+book,majority,Romance,Science Fiction,0
+book,majority,Romance,Romance,0
+book,majority,Romance,Mystery,0
+book,majority,Romance,Thriller,1104
+book,majority,Romance,Philosophy,0
+book,majority,Romance,Science,0
+book,majority,Mystery,Fantasy,0
+book,majority,Mystery,Science Fiction,0
+book,majority,Mystery,Romance,0
+book,majority,Mystery,Mystery,0
+book,majority,Mystery,Thriller,948
+book,majority,Mystery,Philosophy,0
+book,majority,Mystery,Science,0
+book,majority,Thriller,Fantasy,0
+book,majority,Thriller,Science Fiction,0
+book,majority,Thriller,Romance,0
+book,majority,Thriller,Mystery,0
+book,majority,Thriller,Thriller,8229
+book,majority,Thriller,Philosophy,0
+book,majority,Thriller,Science,0
+book,majority,Philosophy,Fantasy,0
+book,majority,Philosophy,Science Fiction,0
+book,majority,Philosophy,Romance,0
+book,majority,Philosophy,Mystery,0
+book,majority,Philosophy,Thriller,10
+book,majority,Philosophy,Philosophy,0
+book,majority,Philosophy,Science,0
+book,majority,Science,Fantasy,0
+book,majority,Science,Science Fiction,0
+book,majority,Science,Romance,0
+book,majority,Science,Mystery,0
+book,majority,Science,Thriller,193
+book,majority,Science,Philosophy,0
+book,majority,Science,Science,0
+book,prior_random,Fantasy,Fantasy,3
+book,prior_random,Fantasy,Science Fiction,4
+book,prior_random,Fantasy,Romance,21
+book,prior_random,Fantasy,Mystery,19
+book,prior_random,Fantasy,Thriller,140
+book,prior_random,Fantasy,Philosophy,0
+book,prior_random,Fantasy,Science,2
+book,prior_random,Science Fiction,Fantasy,4
+book,prior_random,Science Fiction,Science Fiction,8
+book,prior_random,Science Fiction,Romance,36
+book,prior_random,Science Fiction,Mystery,27
+book,prior_random,Science Fiction,Thriller,217
+book,prior_random,Science Fiction,Philosophy,0
+book,prior_random,Science Fiction,Science,3
+book,prior_random,Romance,Fantasy,16
+book,prior_random,Romance,Science Fiction,25
+book,prior_random,Romance,Romance,110
+book,prior_random,Romance,Mystery,98
+book,prior_random,Romance,Thriller,832
+book,prior_random,Romance,Philosophy,1
+book,prior_random,Romance,Science,22
+book,prior_random,Mystery,Fantasy,18
+book,prior_random,Mystery,Science Fiction,27
+book,prior_random,Mystery,Romance,111
+book,prior_random,Mystery,Mystery,70
+book,prior_random,Mystery,Thriller,705
+book,prior_random,Mystery,Philosophy,1
+book,prior_random,Mystery,Science,16
+book,prior_random,Thriller,Fantasy,145
+book,prior_random,Thriller,Science Fiction,237
+book,prior_random,Thriller,Romance,841
+book,prior_random,Thriller,Mystery,701
+book,prior_random,Thriller,Thriller,6144
+book,prior_random,Thriller,Philosophy,5
+book,prior_random,Thriller,Science,156
+book,prior_random,Philosophy,Fantasy,0
+book,prior_random,Philosophy,Science Fiction,0
+book,prior_random,Philosophy,Romance,0
+book,prior_random,Philosophy,Mystery,4
+book,prior_random,Philosophy,Thriller,6
+book,prior_random,Philosophy,Philosophy,0
+book,prior_random,Philosophy,Science,0
+book,prior_random,Science,Fantasy,6
+book,prior_random,Science,Science Fiction,6
+book,prior_random,Science,Romance,14
+book,prior_random,Science,Mystery,16
+book,prior_random,Science,Thriller,145
+book,prior_random,Science,Philosophy,1
+book,prior_random,Science,Science,5
+user,style,Fantasy,Fantasy,0
+user,style,Fantasy,Science Fiction,0
+user,style,Fantasy,Romance,10
+user,style,Fantasy,Mystery,0
+user,style,Fantasy,Thriller,178
+user,style,Fantasy,Philosophy,0
+user,style,Fantasy,Science,1
+user,style,Science Fiction,Fantasy,0
+user,style,Science Fiction,Science Fiction,0
+user,style,Science Fiction,Romance,7
+user,style,Science Fiction,Mystery,0
+user,style,Science Fiction,Thriller,285
+user,style,Science Fiction,Philosophy,0
+user,style,Science Fiction,Science,3
+user,style,Romance,Fantasy,0
+user,style,Romance,Science Fiction,0
+user,style,Romance,Romance,84
+user,style,Romance,Mystery,0
+user,style,Romance,Thriller,1019
+user,style,Romance,Philosophy,0
+user,style,Romance,Science,1
+user,style,Mystery,Fantasy,0
+user,style,Mystery,Science Fiction,0
+user,style,Mystery,Romance,6
+user,style,Mystery,Mystery,0
+user,style,Mystery,Thriller,942
+user,style,Mystery,Philosophy,0
+user,style,Mystery,Science,0
+user,style,Thriller,Fantasy,1
+user,style,Thriller,Science Fiction,0
+user,style,Thriller,Romance,80
+user,style,Thriller,Mystery,0
+user,style,Thriller,Thriller,8141
+user,style,Thriller,Philosophy,0
+user,style,Thriller,Science,7
+user,style,Philosophy,Fantasy,0
+user,style,Philosophy,Science Fiction,0
+user,style,Philosophy,Romance,0
+user,style,Philosophy,Mystery,0
+user,style,Philosophy,Thriller,9
+user,style,Philosophy,Philosophy,0
+user,style,Philosophy,Science,1
+user,style,Science,Fantasy,0
+user,style,Science,Science Fiction,1
+user,style,Science,Romance,2
+user,style,Science,Mystery,0
+user,style,Science,Thriller,179
+user,style,Science,Philosophy,0
+user,style,Science,Science,11
+user,words,Fantasy,Fantasy,0
+user,words,Fantasy,Science Fiction,1
+user,words,Fantasy,Romance,8
+user,words,Fantasy,Mystery,1
+user,words,Fantasy,Thriller,179
+user,words,Fantasy,Philosophy,0
+user,words,Fantasy,Science,0
+user,words,Science Fiction,Fantasy,0
+user,words,Science Fiction,Science Fiction,14
+user,words,Science Fiction,Romance,0
+user,words,Science Fiction,Mystery,0
+user,words,Science Fiction,Thriller,281
+user,words,Science Fiction,Philosophy,0
+user,words,Science Fiction,Science,0
+user,words,Romance,Fantasy,0
+user,words,Romance,Science Fiction,0
+user,words,Romance,Romance,404
+user,words,Romance,Mystery,2
+user,words,Romance,Thriller,698
+user,words,Romance,Philosophy,0
+user,words,Romance,Science,0
+user,words,Mystery,Fantasy,0
+user,words,Mystery,Science Fiction,0
+user,words,Mystery,Romance,13
+user,words,Mystery,Mystery,154
+user,words,Mystery,Thriller,781
+user,words,Mystery,Philosophy,0
+user,words,Mystery,Science,0
+user,words,Thriller,Fantasy,0
+user,words,Thriller,Science Fiction,2
+user,words,Thriller,Romance,155
+user,words,Thriller,Mystery,19
+user,words,Thriller,Thriller,8051
+user,words,Thriller,Philosophy,0
+user,words,Thriller,Science,2
+user,words,Philosophy,Fantasy,0
+user,words,Philosophy,Science Fiction,0
+user,words,Philosophy,Romance,0
+user,words,Philosophy,Mystery,0
+user,words,Philosophy,Thriller,10
+user,words,Philosophy,Philosophy,0
+user,words,Philosophy,Science,0
+user,words,Science,Fantasy,0
+user,words,Science,Science Fiction,0
+user,words,Science,Romance,0
+user,words,Science,Mystery,0
+user,words,Science,Thriller,160
+user,words,Science,Philosophy,0
+user,words,Science,Science,33
+user,combined,Fantasy,Fantasy,2
+user,combined,Fantasy,Science Fiction,1
+user,combined,Fantasy,Romance,10
+user,combined,Fantasy,Mystery,1
+user,combined,Fantasy,Thriller,175
+user,combined,Fantasy,Philosophy,0
+user,combined,Fantasy,Science,0
+user,combined,Science Fiction,Fantasy,2
+user,combined,Science Fiction,Science Fiction,21
+user,combined,Science Fiction,Romance,1
+user,combined,Science Fiction,Mystery,0
+user,combined,Science Fiction,Thriller,270
+user,combined,Science Fiction,Philosophy,0
+user,combined,Science Fiction,Science,1
+user,combined,Romance,Fantasy,0
+user,combined,Romance,Science Fiction,1
+user,combined,Romance,Romance,448
+user,combined,Romance,Mystery,6
+user,combined,Romance,Thriller,649
+user,combined,Romance,Philosophy,0
+user,combined,Romance,Science,0
+user,combined,Mystery,Fantasy,0
+user,combined,Mystery,Science Fiction,0
+user,combined,Mystery,Romance,10
+user,combined,Mystery,Mystery,165
+user,combined,Mystery,Thriller,772
+user,combined,Mystery,Philosophy,0
+user,combined,Mystery,Science,1
+user,combined,Thriller,Fantasy,0
+user,combined,Thriller,Science Fiction,2
+user,combined,Thriller,Romance,173
+user,combined,Thriller,Mystery,24
+user,combined,Thriller,Thriller,8019
+user,combined,Thriller,Philosophy,0
+user,combined,Thriller,Science,11
+user,combined,Philosophy,Fantasy,0
+user,combined,Philosophy,Science Fiction,0
+user,combined,Philosophy,Romance,0
+user,combined,Philosophy,Mystery,0
+user,combined,Philosophy,Thriller,8
+user,combined,Philosophy,Philosophy,0
+user,combined,Philosophy,Science,2
+user,combined,Science,Fantasy,0
+user,combined,Science,Science Fiction,3
+user,combined,Science,Romance,0
+user,combined,Science,Mystery,0
+user,combined,Science,Thriller,136
+user,combined,Science,Philosophy,0
+user,combined,Science,Science,54
+user,context,Fantasy,Fantasy,85
+user,context,Fantasy,Science Fiction,10
+user,context,Fantasy,Romance,6
+user,context,Fantasy,Mystery,1
+user,context,Fantasy,Thriller,85
+user,context,Fantasy,Philosophy,0
+user,context,Fantasy,Science,2
+user,context,Science Fiction,Fantasy,19
+user,context,Science Fiction,Science Fiction,164
+user,context,Science Fiction,Romance,2
+user,context,Science Fiction,Mystery,2
+user,context,Science Fiction,Thriller,108
+user,context,Science Fiction,Philosophy,0
+user,context,Science Fiction,Science,0
+user,context,Romance,Fantasy,12
+user,context,Romance,Science Fiction,5
+user,context,Romance,Romance,634
+user,context,Romance,Mystery,9
+user,context,Romance,Thriller,444
+user,context,Romance,Philosophy,0
+user,context,Romance,Science,0
+user,context,Mystery,Fantasy,5
+user,context,Mystery,Science Fiction,2
+user,context,Mystery,Romance,6
+user,context,Mystery,Mystery,555
+user,context,Mystery,Thriller,380
+user,context,Mystery,Philosophy,0
+user,context,Mystery,Science,0
+user,context,Thriller,Fantasy,22
+user,context,Thriller,Science Fiction,24
+user,context,Thriller,Romance,123
+user,context,Thriller,Mystery,413
+user,context,Thriller,Thriller,7639
+user,context,Thriller,Philosophy,0
+user,context,Thriller,Science,8
+user,context,Philosophy,Fantasy,0
+user,context,Philosophy,Science Fiction,0
+user,context,Philosophy,Romance,0
+user,context,Philosophy,Mystery,0
+user,context,Philosophy,Thriller,9
+user,context,Philosophy,Philosophy,1
+user,context,Philosophy,Science,0
+user,context,Science,Fantasy,0
+user,context,Science,Science Fiction,0
+user,context,Science,Romance,0
+user,context,Science,Mystery,0
+user,context,Science,Thriller,100
+user,context,Science,Philosophy,0
+user,context,Science,Science,93
+user,context_style,Fantasy,Fantasy,81
+user,context_style,Fantasy,Science Fiction,10
+user,context_style,Fantasy,Romance,7
+user,context_style,Fantasy,Mystery,1
+user,context_style,Fantasy,Thriller,88
+user,context_style,Fantasy,Philosophy,0
+user,context_style,Fantasy,Science,2
+user,context_style,Science Fiction,Fantasy,15
+user,context_style,Science Fiction,Science Fiction,164
+user,context_style,Science Fiction,Romance,5
+user,context_style,Science Fiction,Mystery,2
+user,context_style,Science Fiction,Thriller,109
+user,context_style,Science Fiction,Philosophy,0
+user,context_style,Science Fiction,Science,0
+user,context_style,Romance,Fantasy,9
+user,context_style,Romance,Science Fiction,5
+user,context_style,Romance,Romance,640
+user,context_style,Romance,Mystery,8
+user,context_style,Romance,Thriller,442
+user,context_style,Romance,Philosophy,0
+user,context_style,Romance,Science,0
+user,context_style,Mystery,Fantasy,4
+user,context_style,Mystery,Science Fiction,2
+user,context_style,Mystery,Romance,6
+user,context_style,Mystery,Mystery,508
+user,context_style,Mystery,Thriller,428
+user,context_style,Mystery,Philosophy,0
+user,context_style,Mystery,Science,0
+user,context_style,Thriller,Fantasy,17
+user,context_style,Thriller,Science Fiction,23
+user,context_style,Thriller,Romance,131
+user,context_style,Thriller,Mystery,368
+user,context_style,Thriller,Thriller,7682
+user,context_style,Thriller,Philosophy,0
+user,context_style,Thriller,Science,8
+user,context_style,Philosophy,Fantasy,0
+user,context_style,Philosophy,Science Fiction,0
+user,context_style,Philosophy,Romance,0
+user,context_style,Philosophy,Mystery,0
+user,context_style,Philosophy,Thriller,10
+user,context_style,Philosophy,Philosophy,0
+user,context_style,Philosophy,Science,0
+user,context_style,Science,Fantasy,0
+user,context_style,Science,Science Fiction,0
+user,context_style,Science,Romance,1
+user,context_style,Science,Mystery,0
+user,context_style,Science,Thriller,101
+user,context_style,Science,Philosophy,0
+user,context_style,Science,Science,91
+user,context_words,Fantasy,Fantasy,89
+user,context_words,Fantasy,Science Fiction,10
+user,context_words,Fantasy,Romance,7
+user,context_words,Fantasy,Mystery,1
+user,context_words,Fantasy,Thriller,80
+user,context_words,Fantasy,Philosophy,0
+user,context_words,Fantasy,Science,2
+user,context_words,Science Fiction,Fantasy,18
+user,context_words,Science Fiction,Science Fiction,166
+user,context_words,Science Fiction,Romance,1
+user,context_words,Science Fiction,Mystery,2
+user,context_words,Science Fiction,Thriller,108
+user,context_words,Science Fiction,Philosophy,0
+user,context_words,Science Fiction,Science,0
+user,context_words,Romance,Fantasy,11
+user,context_words,Romance,Science Fiction,6
+user,context_words,Romance,Romance,711
+user,context_words,Romance,Mystery,8
+user,context_words,Romance,Thriller,368
+user,context_words,Romance,Philosophy,0
+user,context_words,Romance,Science,0
+user,context_words,Mystery,Fantasy,5
+user,context_words,Mystery,Science Fiction,2
+user,context_words,Mystery,Romance,11
+user,context_words,Mystery,Mystery,503
+user,context_words,Mystery,Thriller,427
+user,context_words,Mystery,Philosophy,0
+user,context_words,Mystery,Science,0
+user,context_words,Thriller,Fantasy,23
+user,context_words,Thriller,Science Fiction,23
+user,context_words,Thriller,Romance,141
+user,context_words,Thriller,Mystery,186
+user,context_words,Thriller,Thriller,7844
+user,context_words,Thriller,Philosophy,0
+user,context_words,Thriller,Science,12
+user,context_words,Philosophy,Fantasy,0
+user,context_words,Philosophy,Science Fiction,0
+user,context_words,Philosophy,Romance,0
+user,context_words,Philosophy,Mystery,0
+user,context_words,Philosophy,Thriller,10
+user,context_words,Philosophy,Philosophy,0
+user,context_words,Philosophy,Science,0
+user,context_words,Science,Fantasy,0
+user,context_words,Science,Science Fiction,0
+user,context_words,Science,Romance,0
+user,context_words,Science,Mystery,0
+user,context_words,Science,Thriller,97
+user,context_words,Science,Philosophy,0
+user,context_words,Science,Science,96
+user,context_combined,Fantasy,Fantasy,86
+user,context_combined,Fantasy,Science Fiction,10
+user,context_combined,Fantasy,Romance,9
+user,context_combined,Fantasy,Mystery,1
+user,context_combined,Fantasy,Thriller,81
+user,context_combined,Fantasy,Philosophy,0
+user,context_combined,Fantasy,Science,2
+user,context_combined,Science Fiction,Fantasy,18
+user,context_combined,Science Fiction,Science Fiction,166
+user,context_combined,Science Fiction,Romance,1
+user,context_combined,Science Fiction,Mystery,2
+user,context_combined,Science Fiction,Thriller,108
+user,context_combined,Science Fiction,Philosophy,0
+user,context_combined,Science Fiction,Science,0
+user,context_combined,Romance,Fantasy,9
+user,context_combined,Romance,Science Fiction,6
+user,context_combined,Romance,Romance,700
+user,context_combined,Romance,Mystery,8
+user,context_combined,Romance,Thriller,381
+user,context_combined,Romance,Philosophy,0
+user,context_combined,Romance,Science,0
+user,context_combined,Mystery,Fantasy,5
+user,context_combined,Mystery,Science Fiction,2
+user,context_combined,Mystery,Romance,11
+user,context_combined,Mystery,Mystery,492
+user,context_combined,Mystery,Thriller,438
+user,context_combined,Mystery,Philosophy,0
+user,context_combined,Mystery,Science,0
+user,context_combined,Thriller,Fantasy,23
+user,context_combined,Thriller,Science Fiction,22
+user,context_combined,Thriller,Romance,143
+user,context_combined,Thriller,Mystery,190
+user,context_combined,Thriller,Thriller,7839
+user,context_combined,Thriller,Philosophy,0
+user,context_combined,Thriller,Science,12
+user,context_combined,Philosophy,Fantasy,0
+user,context_combined,Philosophy,Science Fiction,0
+user,context_combined,Philosophy,Romance,0
+user,context_combined,Philosophy,Mystery,0
+user,context_combined,Philosophy,Thriller,7
+user,context_combined,Philosophy,Philosophy,0
+user,context_combined,Philosophy,Science,3
+user,context_combined,Science,Fantasy,0
+user,context_combined,Science,Science Fiction,0
+user,context_combined,Science,Romance,0
+user,context_combined,Science,Mystery,0
+user,context_combined,Science,Thriller,92
+user,context_combined,Science,Philosophy,0
+user,context_combined,Science,Science,101
+user,naive_bayes,Fantasy,Fantasy,4
+user,naive_bayes,Fantasy,Science Fiction,9
+user,naive_bayes,Fantasy,Romance,25
+user,naive_bayes,Fantasy,Mystery,5
+user,naive_bayes,Fantasy,Thriller,145
+user,naive_bayes,Fantasy,Philosophy,0
+user,naive_bayes,Fantasy,Science,1
+user,naive_bayes,Science Fiction,Fantasy,0
+user,naive_bayes,Science Fiction,Science Fiction,89
+user,naive_bayes,Science Fiction,Romance,4
+user,naive_bayes,Science Fiction,Mystery,7
+user,naive_bayes,Science Fiction,Thriller,188
+user,naive_bayes,Science Fiction,Philosophy,0
+user,naive_bayes,Science Fiction,Science,7
+user,naive_bayes,Romance,Fantasy,1
+user,naive_bayes,Romance,Science Fiction,0
+user,naive_bayes,Romance,Romance,828
+user,naive_bayes,Romance,Mystery,13
+user,naive_bayes,Romance,Thriller,261
+user,naive_bayes,Romance,Philosophy,0
+user,naive_bayes,Romance,Science,1
+user,naive_bayes,Mystery,Fantasy,2
+user,naive_bayes,Mystery,Science Fiction,1
+user,naive_bayes,Mystery,Romance,70
+user,naive_bayes,Mystery,Mystery,337
+user,naive_bayes,Mystery,Thriller,534
+user,naive_bayes,Mystery,Philosophy,0
+user,naive_bayes,Mystery,Science,4
+user,naive_bayes,Thriller,Fantasy,9
+user,naive_bayes,Thriller,Science Fiction,51
+user,naive_bayes,Thriller,Romance,604
+user,naive_bayes,Thriller,Mystery,227
+user,naive_bayes,Thriller,Thriller,7264
+user,naive_bayes,Thriller,Philosophy,0
+user,naive_bayes,Thriller,Science,74
+user,naive_bayes,Philosophy,Fantasy,0
+user,naive_bayes,Philosophy,Science Fiction,0
+user,naive_bayes,Philosophy,Romance,0
+user,naive_bayes,Philosophy,Mystery,0
+user,naive_bayes,Philosophy,Thriller,4
+user,naive_bayes,Philosophy,Philosophy,0
+user,naive_bayes,Philosophy,Science,6
+user,naive_bayes,Science,Fantasy,0
+user,naive_bayes,Science,Science Fiction,5
+user,naive_bayes,Science,Romance,0
+user,naive_bayes,Science,Mystery,1
+user,naive_bayes,Science,Thriller,50
+user,naive_bayes,Science,Philosophy,0
+user,naive_bayes,Science,Science,137
+user,majority,Fantasy,Fantasy,0
+user,majority,Fantasy,Science Fiction,0
+user,majority,Fantasy,Romance,0
+user,majority,Fantasy,Mystery,0
+user,majority,Fantasy,Thriller,189
+user,majority,Fantasy,Philosophy,0
+user,majority,Fantasy,Science,0
+user,majority,Science Fiction,Fantasy,0
+user,majority,Science Fiction,Science Fiction,0
+user,majority,Science Fiction,Romance,0
+user,majority,Science Fiction,Mystery,0
+user,majority,Science Fiction,Thriller,295
+user,majority,Science Fiction,Philosophy,0
+user,majority,Science Fiction,Science,0
+user,majority,Romance,Fantasy,0
+user,majority,Romance,Science Fiction,0
+user,majority,Romance,Romance,0
+user,majority,Romance,Mystery,0
+user,majority,Romance,Thriller,1104
+user,majority,Romance,Philosophy,0
+user,majority,Romance,Science,0
+user,majority,Mystery,Fantasy,0
+user,majority,Mystery,Science Fiction,0
+user,majority,Mystery,Romance,0
+user,majority,Mystery,Mystery,0
+user,majority,Mystery,Thriller,948
+user,majority,Mystery,Philosophy,0
+user,majority,Mystery,Science,0
+user,majority,Thriller,Fantasy,0
+user,majority,Thriller,Science Fiction,0
+user,majority,Thriller,Romance,0
+user,majority,Thriller,Mystery,0
+user,majority,Thriller,Thriller,8229
+user,majority,Thriller,Philosophy,0
+user,majority,Thriller,Science,0
+user,majority,Philosophy,Fantasy,0
+user,majority,Philosophy,Science Fiction,0
+user,majority,Philosophy,Romance,0
+user,majority,Philosophy,Mystery,0
+user,majority,Philosophy,Thriller,10
+user,majority,Philosophy,Philosophy,0
+user,majority,Philosophy,Science,0
+user,majority,Science,Fantasy,0
+user,majority,Science,Science Fiction,0
+user,majority,Science,Romance,0
+user,majority,Science,Mystery,0
+user,majority,Science,Thriller,193
+user,majority,Science,Philosophy,0
+user,majority,Science,Science,0
+user,prior_random,Fantasy,Fantasy,4
+user,prior_random,Fantasy,Science Fiction,4
+user,prior_random,Fantasy,Romance,24
+user,prior_random,Fantasy,Mystery,12
+user,prior_random,Fantasy,Thriller,141
+user,prior_random,Fantasy,Philosophy,0
+user,prior_random,Fantasy,Science,4
+user,prior_random,Science Fiction,Fantasy,11
+user,prior_random,Science Fiction,Science Fiction,9
+user,prior_random,Science Fiction,Romance,32
+user,prior_random,Science Fiction,Mystery,12
+user,prior_random,Science Fiction,Thriller,227
+user,prior_random,Science Fiction,Philosophy,0
+user,prior_random,Science Fiction,Science,4
+user,prior_random,Romance,Fantasy,19
+user,prior_random,Romance,Science Fiction,28
+user,prior_random,Romance,Romance,123
+user,prior_random,Romance,Mystery,91
+user,prior_random,Romance,Thriller,822
+user,prior_random,Romance,Philosophy,0
+user,prior_random,Romance,Science,21
+user,prior_random,Mystery,Fantasy,23
+user,prior_random,Mystery,Science Fiction,31
+user,prior_random,Mystery,Romance,106
+user,prior_random,Mystery,Mystery,92
+user,prior_random,Mystery,Thriller,681
+user,prior_random,Mystery,Philosophy,0
+user,prior_random,Mystery,Science,15
+user,prior_random,Thriller,Fantasy,131
+user,prior_random,Thriller,Science Fiction,231
+user,prior_random,Thriller,Romance,827
+user,prior_random,Thriller,Mystery,714
+user,prior_random,Thriller,Thriller,6164
+user,prior_random,Thriller,Philosophy,5
+user,prior_random,Thriller,Science,157
+user,prior_random,Philosophy,Fantasy,0
+user,prior_random,Philosophy,Science Fiction,0
+user,prior_random,Philosophy,Romance,1
+user,prior_random,Philosophy,Mystery,0
+user,prior_random,Philosophy,Thriller,9
+user,prior_random,Philosophy,Philosophy,0
+user,prior_random,Philosophy,Science,0
+user,prior_random,Science,Fantasy,2
+user,prior_random,Science,Science Fiction,6
+user,prior_random,Science,Romance,20
+user,prior_random,Science,Mystery,17
+user,prior_random,Science,Thriller,143
+user,prior_random,Science,Philosophy,0
+user,prior_random,Science,Science,5
+common,style,Romance,Romance,134
+common,style,Romance,Science Fiction,1
+common,style,Science Fiction,Romance,19
+common,style,Science Fiction,Science Fiction,3
+common,words,Romance,Romance,134
+common,words,Romance,Science Fiction,1
+common,words,Science Fiction,Romance,11
+common,words,Science Fiction,Science Fiction,11
+common,combined,Romance,Romance,132
+common,combined,Romance,Science Fiction,3
+common,combined,Science Fiction,Romance,8
+common,combined,Science Fiction,Science Fiction,14
+common,context,Romance,Romance,135
+common,context,Romance,Science Fiction,0
+common,context,Science Fiction,Romance,22
+common,context,Science Fiction,Science Fiction,0
+common,context_style,Romance,Romance,133
+common,context_style,Romance,Science Fiction,2
+common,context_style,Science Fiction,Romance,21
+common,context_style,Science Fiction,Science Fiction,1
+common,context_words,Romance,Romance,134
+common,context_words,Romance,Science Fiction,1
+common,context_words,Science Fiction,Romance,11
+common,context_words,Science Fiction,Science Fiction,11
+common,context_combined,Romance,Romance,132
+common,context_combined,Romance,Science Fiction,3
+common,context_combined,Science Fiction,Romance,8
+common,context_combined,Science Fiction,Science Fiction,14
+common,naive_bayes,Romance,Romance,129
+common,naive_bayes,Romance,Science Fiction,6
+common,naive_bayes,Science Fiction,Romance,3
+common,naive_bayes,Science Fiction,Science Fiction,19
+common,majority,Romance,Romance,135
+common,majority,Romance,Science Fiction,0
+common,majority,Science Fiction,Romance,22
+common,majority,Science Fiction,Science Fiction,0
+common,prior_random,Romance,Romance,120
+common,prior_random,Romance,Science Fiction,15
+common,prior_random,Science Fiction,Romance,18
+common,prior_random,Science Fiction,Science Fiction,4

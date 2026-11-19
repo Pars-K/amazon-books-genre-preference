@@ -1,0 +1,19 @@
+{
+  "flags": {
+    "nonlatin_gt_10pct": 6,
+    "contains_replacement_character": 1,
+    "contains_url": 7
+  },
+  "raw_token_distribution": {
+    "p0": 20.0,
+    "p5": 23.0,
+    "p25": 44.0,
+    "p50": 85.0,
+    "p75": 172.0,
+    "p95": 395.0,
+    "p99": 677.0,
+    "p100": 2717.0,
+    "reviews": 11912,
+    "over_1000_words": 23
+  }
+}

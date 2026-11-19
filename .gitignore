@@ -9,3 +9,6 @@ __pycache__/
 books_user_review_counts.csv
 notebooks/feasibility_exploration.ipynb
 reports/.phase1-audit-*.log
+*.log
+/PROJECT_JOURNEY_FA.md
+/reports/phase2/work-log-fa.md

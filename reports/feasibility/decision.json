@@ -1,0 +1,10 @@
+{
+  "main_gate": false,
+  "context_gate": false,
+  "common_genre_gate": true,
+  "continue_preference_objective": false,
+  "philosophy_adequate": false,
+  "thresholds_registered_before_fit": true,
+  "final_test_opened": false,
+  "validation_is_development": true
+}

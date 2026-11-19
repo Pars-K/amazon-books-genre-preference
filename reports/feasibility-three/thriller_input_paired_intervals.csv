@@ -1,0 +1,7 @@
+scheme,model,baseline,metric,difference,low,high
+thriller_input,naive_bayes,majority,macro_f1,-0.00011951753606809223,-0.0002427668810854197,-2.9278783476374696e-05
+thriller_input,naive_bayes,majority,balanced_accuracy,-0.00023899145605543737,-0.00048528965726413187,-5.856043913254894e-05
+thriller_input,naive_bayes,prior_random,macro_f1,-0.015062018453816217,-0.03365554224490532,0.0007746405503192736
+thriller_input,naive_bayes,prior_random,balanced_accuracy,-0.012008969208762543,-0.032029609445427105,0.005035444000804943
+thriller_input,context_combined,context,macro_f1,0.0,0.0,0.0
+thriller_input,context_combined,context,balanced_accuracy,0.0,0.0,0.0

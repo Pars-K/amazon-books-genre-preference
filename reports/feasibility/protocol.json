@@ -1,0 +1,42 @@
+{
+  "version": "preference-feasibility-v1",
+  "date": "2026-11-19",
+  "question": "Can a single review predict an unseen author's independently measured genre preference?",
+  "status_at_registration": "No predictive model results have been computed for this protocol.",
+  "data": {
+    "primary": "Existing development sample, one review per author, only single preferences retained after removing the entire input-book history from preference evidence",
+    "primary_groups": ["Fantasy", "Science Fiction", "Romance", "Mystery", "Thriller", "Philosophy", "Science"],
+    "outer_primary": "3 book-disjoint folds using SHA256 of book identifier",
+    "outer_sensitivity": "3 author-stratified folds",
+    "inner": "One deterministic book-disjoint approximately 20% holdout within each outer training fold",
+    "common_input_genre": "Train on existing development Romance/Science Fiction authors' thriller reviews, evaluate on separate existing validation authors' thriller reviews; remove training titles and exact normalized bodies seen in evaluation",
+    "final_test": "Not opened. Existing validation has already been used in EDA and is not a pristine final test."
+  },
+  "models": {
+    "main": "Unweighted L2 multinomial logistic regression",
+    "feature_sets": ["style", "words", "combined", "context", "context_style", "context_words", "context_combined"],
+    "primary_feature_set": "combined",
+    "style": "All 29 frozen metrics, log1p, training median imputation, training IQR or SD scaling, clip to [-5,5], divide by sqrt(29)",
+    "words": "Existing fixed tokenizer, unigrams and bigrams, training-only DF >=5 and <=65%, maximum 12000 terms, log TF and smoothed IDF, unit row norm. No SVD.",
+    "context": "Diagnostic only: book genre indicators, log review token count and its square; no rating, identity, or preference history is an input",
+    "regularization_grid": [0.0001, 0.001, 0.01],
+    "selection": "Inner macro-F1, choose stronger regularization on ties",
+    "secondary_algorithm": "Multinomial naive Bayes on lexical counts, Laplace smoothing 1, empirical class priors",
+    "baselines": ["training majority", "random training class frequencies with fixed random settings"],
+    "no_class_weights": true,
+    "all_preprocessing": "Refit separately on inner training and outer training; no existing full-development TFIDF fit is reused"
+  },
+  "evaluation": {
+    "primary_metrics": ["macro-F1", "balanced accuracy"],
+    "secondary": ["accuracy", "per-genre precision recall F1", "confusion counts", "six adequately represented genres, described separately"],
+    "uncertainty": "2000 paired bootstrap resamples of book titles, holding out-of-fold predictions fixed; model-training uncertainty is not fully represented",
+    "practical_threshold_status": "Analyst-chosen feasibility criteria, not universal statistical standards or a user-specified deployment requirement",
+    "main_gate": "Book-disjoint combined macro-F1 >=0.40 AND balanced accuracy >=0.40 AND >=0.05 absolute improvement over both baselines for both metrics AND paired 95% lower bounds above zero",
+    "context_gate": "Context plus combined features improves on context alone by >=0.05 in both metrics AND paired 95% lower bounds above zero",
+    "common_genre_gate": "Combined features improve on majority AND length-only logistic baseline by >=0.05 in both metrics with paired 95% lower bounds above zero in the separate-author/title common-genre comparison",
+    "continue": "Main gate AND (context gate OR common-genre gate). This is evidence to continue within represented genres, not a deployment claim.",
+    "underrepresented_genre": "Fewer than 50 independently labelled authors precludes a positive adequacy claim for that genre",
+    "negative": "If continuation gate is not met, do not commit to full preference prediction phases; assess a replacement objective. This does not prove all language representations or all populations lack an association.",
+    "no_result_chasing": "No adding vocabulary filters, embeddings, regularization options, labels or thresholds in response to predictive outcomes within this experiment"
+  }
+}

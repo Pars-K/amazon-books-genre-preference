@@ -1,0 +1,505 @@
+genre,minimum_books,minimum_share_mapped,minimum_active_quarters,coverage_filter,users
+Fantasy,2,0.25,1,all,32372
+Fantasy,2,0.25,1,coverage>=50%,14985
+Fantasy,2,0.25,2,all,23110
+Fantasy,2,0.25,2,coverage>=50%,9713
+Fantasy,2,0.25,4,all,4031
+Fantasy,2,0.25,4,coverage>=50%,1177
+Fantasy,2,0.5,1,all,25621
+Fantasy,2,0.5,1,coverage>=50%,12875
+Fantasy,2,0.5,2,all,17411
+Fantasy,2,0.5,2,coverage>=50%,8006
+Fantasy,2,0.5,4,all,2430
+Fantasy,2,0.5,4,coverage>=50%,808
+Fantasy,2,0.75,1,all,16237
+Fantasy,2,0.75,1,coverage>=50%,9190
+Fantasy,2,0.75,2,all,10359
+Fantasy,2,0.75,2,coverage>=50%,5428
+Fantasy,2,0.75,4,all,1075
+Fantasy,2,0.75,4,coverage>=50%,432
+Fantasy,3,0.25,1,all,13942
+Fantasy,3,0.25,1,coverage>=50%,5699
+Fantasy,3,0.25,2,all,11365
+Fantasy,3,0.25,2,coverage>=50%,4204
+Fantasy,3,0.25,4,all,4031
+Fantasy,3,0.25,4,coverage>=50%,1177
+Fantasy,3,0.5,1,all,10216
+Fantasy,3,0.5,1,coverage>=50%,4625
+Fantasy,3,0.5,2,all,7938
+Fantasy,3,0.5,2,coverage>=50%,3245
+Fantasy,3,0.5,4,all,2430
+Fantasy,3,0.5,4,coverage>=50%,808
+Fantasy,3,0.75,1,all,6480
+Fantasy,3,0.75,1,coverage>=50%,3380
+Fantasy,3,0.75,2,all,4649
+Fantasy,3,0.75,2,coverage>=50%,2209
+Fantasy,3,0.75,4,all,1075
+Fantasy,3,0.75,4,coverage>=50%,432
+Fantasy,5,0.25,1,all,5195
+Fantasy,5,0.25,1,coverage>=50%,1747
+Fantasy,5,0.25,2,all,4676
+Fantasy,5,0.25,2,coverage>=50%,1462
+Fantasy,5,0.25,4,all,3269
+Fantasy,5,0.25,4,coverage>=50%,896
+Fantasy,5,0.5,1,all,3448
+Fantasy,5,0.5,1,coverage>=50%,1302
+Fantasy,5,0.5,2,all,2990
+Fantasy,5,0.5,2,coverage>=50%,1045
+Fantasy,5,0.5,4,all,1916
+Fantasy,5,0.5,4,coverage>=50%,589
+Fantasy,5,0.75,1,all,1773
+Fantasy,5,0.75,1,coverage>=50%,814
+Fantasy,5,0.75,2,all,1435
+Fantasy,5,0.75,2,coverage>=50%,614
+Fantasy,5,0.75,4,all,804
+Fantasy,5,0.75,4,coverage>=50%,298
+Fantasy,10,0.25,1,all,1470
+Fantasy,10,0.25,1,coverage>=50%,411
+Fantasy,10,0.25,2,all,1414
+Fantasy,10,0.25,2,coverage>=50%,386
+Fantasy,10,0.25,4,all,1245
+Fantasy,10,0.25,4,coverage>=50%,317
+Fantasy,10,0.5,1,all,864
+Fantasy,10,0.5,1,coverage>=50%,263
+Fantasy,10,0.5,2,all,816
+Fantasy,10,0.5,2,coverage>=50%,240
+Fantasy,10,0.5,4,all,681
+Fantasy,10,0.5,4,coverage>=50%,185
+Fantasy,10,0.75,1,all,346
+Fantasy,10,0.75,1,coverage>=50%,121
+Fantasy,10,0.75,2,all,311
+Fantasy,10,0.75,2,coverage>=50%,103
+Fantasy,10,0.75,4,all,241
+Fantasy,10,0.75,4,coverage>=50%,70
+Science Fiction,2,0.25,1,all,25905
+Science Fiction,2,0.25,1,coverage>=50%,13211
+Science Fiction,2,0.25,2,all,18854
+Science Fiction,2,0.25,2,coverage>=50%,9025
+Science Fiction,2,0.25,4,all,3706
+Science Fiction,2,0.25,4,coverage>=50%,1534
+Science Fiction,2,0.5,1,all,21428
+Science Fiction,2,0.5,1,coverage>=50%,11841
+Science Fiction,2,0.5,2,all,15163
+Science Fiction,2,0.5,2,coverage>=50%,7969
+Science Fiction,2,0.5,4,all,2712
+Science Fiction,2,0.5,4,coverage>=50%,1312
+Science Fiction,2,0.75,1,all,14176
+Science Fiction,2,0.75,1,coverage>=50%,8627
+Science Fiction,2,0.75,2,all,9597
+Science Fiction,2,0.75,2,coverage>=50%,5600
+Science Fiction,2,0.75,4,all,1525
+Science Fiction,2,0.75,4,coverage>=50%,855
+Science Fiction,3,0.25,1,all,11753
+Science Fiction,3,0.25,1,coverage>=50%,5660
+Science Fiction,3,0.25,2,all,9715
+Science Fiction,3,0.25,2,coverage>=50%,4446
+Science Fiction,3,0.25,4,all,3706
+Science Fiction,3,0.25,4,coverage>=50%,1534
+Science Fiction,3,0.5,1,all,9444
+Science Fiction,3,0.5,1,coverage>=50%,5050
+Science Fiction,3,0.5,2,all,7617
+Science Fiction,3,0.5,2,coverage>=50%,3912
+Science Fiction,3,0.5,4,all,2712
+Science Fiction,3,0.5,4,coverage>=50%,1312
+Science Fiction,3,0.75,1,all,6447
+Science Fiction,3,0.75,1,coverage>=50%,3830
+Science Fiction,3,0.75,2,all,4969
+Science Fiction,3,0.75,2,coverage>=50%,2849
+Science Fiction,3,0.75,4,all,1525
+Science Fiction,3,0.75,4,coverage>=50%,855
+Science Fiction,5,0.25,1,all,4640
+Science Fiction,5,0.25,1,coverage>=50%,2157
+Science Fiction,5,0.25,2,all,4216
+Science Fiction,5,0.25,2,coverage>=50%,1885
+Science Fiction,5,0.25,4,all,3065
+Science Fiction,5,0.25,4,coverage>=50%,1269
+Science Fiction,5,0.5,1,all,3584
+Science Fiction,5,0.5,1,coverage>=50%,1904
+Science Fiction,5,0.5,2,all,3194
+Science Fiction,5,0.5,2,coverage>=50%,1647
+Science Fiction,5,0.5,4,all,2223
+Science Fiction,5,0.5,4,coverage>=50%,1087
+Science Fiction,5,0.75,1,all,2187
+Science Fiction,5,0.75,1,coverage>=50%,1336
+Science Fiction,5,0.75,2,all,1892
+Science Fiction,5,0.75,2,coverage>=50%,1125
+Science Fiction,5,0.75,4,all,1239
+Science Fiction,5,0.75,4,coverage>=50%,708
+Science Fiction,10,0.25,1,all,1391
+Science Fiction,10,0.25,1,coverage>=50%,625
+Science Fiction,10,0.25,2,all,1329
+Science Fiction,10,0.25,2,coverage>=50%,584
+Science Fiction,10,0.25,4,all,1185
+Science Fiction,10,0.25,4,coverage>=50%,496
+Science Fiction,10,0.5,1,all,1022
+Science Fiction,10,0.5,1,coverage>=50%,543
+Science Fiction,10,0.5,2,all,965
+Science Fiction,10,0.5,2,coverage>=50%,504
+Science Fiction,10,0.5,4,all,841
+Science Fiction,10,0.5,4,coverage>=50%,425
+Science Fiction,10,0.75,1,all,605
+Science Fiction,10,0.75,1,coverage>=50%,379
+Science Fiction,10,0.75,2,all,561
+Science Fiction,10,0.75,2,coverage>=50%,347
+Science Fiction,10,0.75,4,all,465
+Science Fiction,10,0.75,4,coverage>=50%,278
+Romance,2,0.25,1,all,33707
+Romance,2,0.25,1,coverage>=50%,18850
+Romance,2,0.25,2,all,26359
+Romance,2,0.25,2,coverage>=50%,14320
+Romance,2,0.25,4,all,8485
+Romance,2,0.25,4,coverage>=50%,4621
+Romance,2,0.5,1,all,27699
+Romance,2,0.5,1,coverage>=50%,16148
+Romance,2,0.5,2,all,21173
+Romance,2,0.5,2,coverage>=50%,12003
+Romance,2,0.5,4,all,6546
+Romance,2,0.5,4,coverage>=50%,3711
+Romance,2,0.75,1,all,18742
+Romance,2,0.75,1,coverage>=50%,11576
+Romance,2,0.75,2,all,13860
+Romance,2,0.75,2,coverage>=50%,8327
+Romance,2,0.75,4,all,3998
+Romance,2,0.75,4,coverage>=50%,2361
+Romance,3,0.25,1,all,19155
+Romance,3,0.25,1,coverage>=50%,10603
+Romance,3,0.25,2,all,16964
+Romance,3,0.25,2,coverage>=50%,9215
+Romance,3,0.25,4,all,8485
+Romance,3,0.25,4,coverage>=50%,4621
+Romance,3,0.5,1,all,15439
+Romance,3,0.5,1,coverage>=50%,8882
+Romance,3,0.5,2,all,13460
+Romance,3,0.5,2,coverage>=50%,7597
+Romance,3,0.5,4,all,6546
+Romance,3,0.5,4,coverage>=50%,3711
+Romance,3,0.75,1,all,10663
+Romance,3,0.75,1,coverage>=50%,6454
+Romance,3,0.75,2,all,9029
+Romance,3,0.75,2,coverage>=50%,5335
+Romance,3,0.75,4,all,3998
+Romance,3,0.75,4,coverage>=50%,2361
+Romance,5,0.25,1,all,10105
+Romance,5,0.25,1,coverage>=50%,5685
+Romance,5,0.25,2,all,9629
+Romance,5,0.25,2,coverage>=50%,5401
+Romance,5,0.25,4,all,7540
+Romance,5,0.25,4,coverage>=50%,4161
+Romance,5,0.5,1,all,8026
+Romance,5,0.5,1,coverage>=50%,4693
+Romance,5,0.5,2,all,7602
+Romance,5,0.5,2,coverage>=50%,4432
+Romance,5,0.5,4,all,5840
+Romance,5,0.5,4,coverage>=50%,3351
+Romance,5,0.75,1,all,5090
+Romance,5,0.75,1,coverage>=50%,3113
+Romance,5,0.75,2,all,4762
+Romance,5,0.75,2,coverage>=50%,2893
+Romance,5,0.75,4,all,3559
+Romance,5,0.75,4,coverage>=50%,2114
+Romance,10,0.25,1,all,4153
+Romance,10,0.25,1,coverage>=50%,2418
+Romance,10,0.25,2,all,4074
+Romance,10,0.25,2,coverage>=50%,2377
+Romance,10,0.25,4,all,3782
+Romance,10,0.25,4,coverage>=50%,2194
+Romance,10,0.5,1,all,3361
+Romance,10,0.5,1,coverage>=50%,2016
+Romance,10,0.5,2,all,3295
+Romance,10,0.5,2,coverage>=50%,1980
+Romance,10,0.5,4,all,3032
+Romance,10,0.5,4,coverage>=50%,1812
+Romance,10,0.75,1,all,2108
+Romance,10,0.75,1,coverage>=50%,1291
+Romance,10,0.75,2,all,2058
+Romance,10,0.75,2,coverage>=50%,1262
+Romance,10,0.75,4,all,1863
+Romance,10,0.75,4,coverage>=50%,1136
+Mystery,2,0.25,1,all,81703
+Mystery,2,0.25,1,coverage>=50%,50713
+Mystery,2,0.25,2,all,64885
+Mystery,2,0.25,2,coverage>=50%,39610
+Mystery,2,0.25,4,all,15092
+Mystery,2,0.25,4,coverage>=50%,9101
+Mystery,2,0.5,1,all,61409
+Mystery,2,0.5,1,coverage>=50%,39631
+Mystery,2,0.5,2,all,47331
+Mystery,2,0.5,2,coverage>=50%,30123
+Mystery,2,0.5,4,all,10227
+Mystery,2,0.5,4,coverage>=50%,6720
+Mystery,2,0.75,1,all,37085
+Mystery,2,0.75,1,coverage>=50%,25654
+Mystery,2,0.75,2,all,27734
+Mystery,2,0.75,2,coverage>=50%,19003
+Mystery,2,0.75,4,all,5892
+Mystery,2,0.75,4,coverage>=50%,4378
+Mystery,3,0.25,1,all,39307
+Mystery,3,0.25,1,coverage>=50%,24017
+Mystery,3,0.25,2,all,34807
+Mystery,3,0.25,2,coverage>=50%,21042
+Mystery,3,0.25,4,all,15092
+Mystery,3,0.25,4,coverage>=50%,9101
+Mystery,3,0.5,1,all,28626
+Mystery,3,0.5,1,coverage>=50%,18499
+Mystery,3,0.5,2,all,24782
+Mystery,3,0.5,2,coverage>=50%,15886
+Mystery,3,0.5,4,all,10227
+Mystery,3,0.5,4,coverage>=50%,6720
+Mystery,3,0.75,1,all,18606
+Mystery,3,0.75,1,coverage>=50%,12969
+Mystery,3,0.75,2,all,15629
+Mystery,3,0.75,2,coverage>=50%,10844
+Mystery,3,0.75,4,all,5892
+Mystery,3,0.75,4,coverage>=50%,4378
+Mystery,5,0.25,1,all,17135
+Mystery,5,0.25,1,coverage>=50%,10582
+Mystery,5,0.25,2,all,16056
+Mystery,5,0.25,2,coverage>=50%,9862
+Mystery,5,0.25,4,all,12523
+Mystery,5,0.25,4,coverage>=50%,7651
+Mystery,5,0.5,1,all,12252
+Mystery,5,0.5,1,coverage>=50%,8154
+Mystery,5,0.5,2,all,11293
+Mystery,5,0.5,2,coverage>=50%,7497
+Mystery,5,0.5,4,all,8548
+Mystery,5,0.5,4,coverage>=50%,5704
+Mystery,5,0.75,1,all,7394
+Mystery,5,0.75,1,coverage>=50%,5490
+Mystery,5,0.75,2,all,6685
+Mystery,5,0.75,2,coverage>=50%,4974
+Mystery,5,0.75,4,all,4920
+Mystery,5,0.75,4,coverage>=50%,3731
+Mystery,10,0.25,1,all,5910
+Mystery,10,0.25,1,coverage>=50%,3722
+Mystery,10,0.25,2,all,5737
+Mystery,10,0.25,2,coverage>=50%,3601
+Mystery,10,0.25,4,all,5284
+Mystery,10,0.25,4,coverage>=50%,3311
+Mystery,10,0.5,1,all,4189
+Mystery,10,0.5,1,coverage>=50%,2922
+Mystery,10,0.5,2,all,4037
+Mystery,10,0.5,2,coverage>=50%,2811
+Mystery,10,0.5,4,all,3659
+Mystery,10,0.5,4,coverage>=50%,2563
+Mystery,10,0.75,1,all,2559
+Mystery,10,0.75,1,coverage>=50%,2025
+Mystery,10,0.75,2,all,2447
+Mystery,10,0.75,2,coverage>=50%,1938
+Mystery,10,0.75,4,all,2192
+Mystery,10,0.75,4,coverage>=50%,1749
+Thriller,2,0.25,1,all,472618
+Thriller,2,0.25,1,coverage>=50%,358816
+Thriller,2,0.25,2,all,412613
+Thriller,2,0.25,2,coverage>=50%,313533
+Thriller,2,0.25,4,all,117569
+Thriller,2,0.25,4,coverage>=50%,91575
+Thriller,2,0.5,1,all,454524
+Thriller,2,0.5,1,coverage>=50%,351165
+Thriller,2,0.5,2,all,396578
+Thriller,2,0.5,2,coverage>=50%,306812
+Thriller,2,0.5,4,all,112192
+Thriller,2,0.5,4,coverage>=50%,89415
+Thriller,2,0.75,1,all,392832
+Thriller,2,0.75,1,coverage>=50%,315852
+Thriller,2,0.75,2,all,343238
+Thriller,2,0.75,2,coverage>=50%,276458
+Thriller,2,0.75,4,all,97518
+Thriller,2,0.75,4,coverage>=50%,81757
+Thriller,3,0.25,1,all,251685
+Thriller,3,0.25,1,coverage>=50%,193363
+Thriller,3,0.25,2,all,239345
+Thriller,3,0.25,2,coverage>=50%,184295
+Thriller,3,0.25,4,all,117569
+Thriller,3,0.25,4,coverage>=50%,91575
+Thriller,3,0.5,1,all,241067
+Thriller,3,0.5,1,coverage>=50%,188977
+Thriller,3,0.5,2,all,229233
+Thriller,3,0.5,2,coverage>=50%,180130
+Thriller,3,0.5,4,all,112192
+Thriller,3,0.5,4,coverage>=50%,89415
+Thriller,3,0.75,1,all,214573
+Thriller,3,0.75,1,coverage>=50%,175004
+Thriller,3,0.75,2,all,203875
+Thriller,3,0.75,2,coverage>=50%,166739
+Thriller,3,0.75,4,all,97518
+Thriller,3,0.75,4,coverage>=50%,81757
+Thriller,5,0.25,1,all,112960
+Thriller,5,0.25,1,coverage>=50%,87959
+Thriller,5,0.25,2,all,110772
+Thriller,5,0.25,2,coverage>=50%,86389
+Thriller,5,0.25,4,all,95873
+Thriller,5,0.25,4,coverage>=50%,75035
+Thriller,5,0.5,1,all,107657
+Thriller,5,0.5,1,coverage>=50%,85776
+Thriller,5,0.5,2,all,105562
+Thriller,5,0.5,2,coverage>=50%,84250
+Thriller,5,0.5,4,all,91336
+Thriller,5,0.5,4,coverage>=50%,73203
+Thriller,5,0.75,1,all,92993
+Thriller,5,0.75,1,coverage>=50%,78156
+Thriller,5,0.75,2,all,91164
+Thriller,5,0.75,2,coverage>=50%,76755
+Thriller,5,0.75,4,all,78953
+Thriller,5,0.75,4,coverage>=50%,66784
+Thriller,10,0.25,1,all,37294
+Thriller,10,0.25,1,coverage>=50%,29377
+Thriller,10,0.25,2,all,36923
+Thriller,10,0.25,2,coverage>=50%,29095
+Thriller,10,0.25,4,all,35695
+Thriller,10,0.25,4,coverage>=50%,28173
+Thriller,10,0.5,1,all,35329
+Thriller,10,0.5,1,coverage>=50%,28578
+Thriller,10,0.5,2,all,34972
+Thriller,10,0.5,2,coverage>=50%,28303
+Thriller,10,0.5,4,all,33809
+Thriller,10,0.5,4,coverage>=50%,27412
+Thriller,10,0.75,1,all,30023
+Thriller,10,0.75,1,coverage>=50%,25916
+Thriller,10,0.75,2,all,29708
+Thriller,10,0.75,2,coverage>=50%,25658
+Thriller,10,0.75,4,all,28764
+Thriller,10,0.75,4,coverage>=50%,24884
+Philosophy,2,0.25,1,all,3454
+Philosophy,2,0.25,1,coverage>=50%,743
+Philosophy,2,0.25,2,all,2435
+Philosophy,2,0.25,2,coverage>=50%,460
+Philosophy,2,0.25,4,all,318
+Philosophy,2,0.25,4,coverage>=50%,27
+Philosophy,2,0.5,1,all,3025
+Philosophy,2,0.5,1,coverage>=50%,711
+Philosophy,2,0.5,2,all,2089
+Philosophy,2,0.5,2,coverage>=50%,438
+Philosophy,2,0.5,4,all,262
+Philosophy,2,0.5,4,coverage>=50%,26
+Philosophy,2,0.75,1,all,2205
+Philosophy,2,0.75,1,coverage>=50%,610
+Philosophy,2,0.75,2,all,1479
+Philosophy,2,0.75,2,coverage>=50%,371
+Philosophy,2,0.75,4,all,172
+Philosophy,2,0.75,4,coverage>=50%,23
+Philosophy,3,0.25,1,all,1118
+Philosophy,3,0.25,1,coverage>=50%,161
+Philosophy,3,0.25,2,all,923
+Philosophy,3,0.25,2,coverage>=50%,125
+Philosophy,3,0.25,4,all,318
+Philosophy,3,0.25,4,coverage>=50%,27
+Philosophy,3,0.5,1,all,967
+Philosophy,3,0.5,1,coverage>=50%,154
+Philosophy,3,0.5,2,all,783
+Philosophy,3,0.5,2,coverage>=50%,119
+Philosophy,3,0.5,4,all,262
+Philosophy,3,0.5,4,coverage>=50%,26
+Philosophy,3,0.75,1,all,737
+Philosophy,3,0.75,1,coverage>=50%,141
+Philosophy,3,0.75,2,all,582
+Philosophy,3,0.75,2,coverage>=50%,107
+Philosophy,3,0.75,4,all,172
+Philosophy,3,0.75,4,coverage>=50%,23
+Philosophy,5,0.25,1,all,374
+Philosophy,5,0.25,1,coverage>=50%,39
+Philosophy,5,0.25,2,all,336
+Philosophy,5,0.25,2,coverage>=50%,33
+Philosophy,5,0.25,4,all,256
+Philosophy,5,0.25,4,coverage>=50%,21
+Philosophy,5,0.5,1,all,321
+Philosophy,5,0.5,1,coverage>=50%,39
+Philosophy,5,0.5,2,all,285
+Philosophy,5,0.5,2,coverage>=50%,33
+Philosophy,5,0.5,4,all,215
+Philosophy,5,0.5,4,coverage>=50%,21
+Philosophy,5,0.75,1,all,229
+Philosophy,5,0.75,1,coverage>=50%,36
+Philosophy,5,0.75,2,all,196
+Philosophy,5,0.75,2,coverage>=50%,30
+Philosophy,5,0.75,4,all,140
+Philosophy,5,0.75,4,coverage>=50%,19
+Philosophy,10,0.25,1,all,103
+Philosophy,10,0.25,1,coverage>=50%,4
+Philosophy,10,0.25,2,all,95
+Philosophy,10,0.25,2,coverage>=50%,4
+Philosophy,10,0.25,4,all,86
+Philosophy,10,0.25,4,coverage>=50%,3
+Philosophy,10,0.5,1,all,83
+Philosophy,10,0.5,1,coverage>=50%,4
+Philosophy,10,0.5,2,all,76
+Philosophy,10,0.5,2,coverage>=50%,4
+Philosophy,10,0.5,4,all,69
+Philosophy,10,0.5,4,coverage>=50%,3
+Philosophy,10,0.75,1,all,56
+Philosophy,10,0.75,1,coverage>=50%,3
+Philosophy,10,0.75,2,all,49
+Philosophy,10,0.75,2,coverage>=50%,3
+Philosophy,10,0.75,4,all,42
+Philosophy,10,0.75,4,coverage>=50%,2
+Science,2,0.25,1,all,35141
+Science,2,0.25,1,coverage>=50%,12651
+Science,2,0.25,2,all,22456
+Science,2,0.25,2,coverage>=50%,6743
+Science,2,0.25,4,all,2950
+Science,2,0.25,4,coverage>=50%,597
+Science,2,0.5,1,all,32935
+Science,2,0.5,1,coverage>=50%,12338
+Science,2,0.5,2,all,20685
+Science,2,0.5,2,coverage>=50%,6528
+Science,2,0.5,4,all,2622
+Science,2,0.5,4,coverage>=50%,581
+Science,2,0.75,1,all,27966
+Science,2,0.75,1,coverage>=50%,11309
+Science,2,0.75,2,all,17062
+Science,2,0.75,2,coverage>=50%,5871
+Science,2,0.75,4,all,2113
+Science,2,0.75,4,coverage>=50%,547
+Science,3,0.25,1,all,12349
+Science,3,0.25,1,coverage>=50%,3655
+Science,3,0.25,2,all,9751
+Science,3,0.25,2,coverage>=50%,2557
+Science,3,0.25,4,all,2950
+Science,3,0.25,4,coverage>=50%,597
+Science,3,0.5,1,all,11478
+Science,3,0.5,1,coverage>=50%,3577
+Science,3,0.5,2,all,8946
+Science,3,0.5,2,coverage>=50%,2489
+Science,3,0.5,4,all,2622
+Science,3,0.5,4,coverage>=50%,581
+Science,3,0.75,1,all,10088
+Science,3,0.75,1,coverage>=50%,3405
+Science,3,0.75,2,all,7708
+Science,3,0.75,2,coverage>=50%,2347
+Science,3,0.75,4,all,2113
+Science,3,0.75,4,coverage>=50%,547
+Science,5,0.25,1,all,3712
+Science,5,0.25,1,coverage>=50%,955
+Science,5,0.25,2,all,3301
+Science,5,0.25,2,coverage>=50%,800
+Science,5,0.25,4,all,2280
+Science,5,0.25,4,coverage>=50%,466
+Science,5,0.5,1,all,3396
+Science,5,0.5,1,coverage>=50%,936
+Science,5,0.5,2,all,2996
+Science,5,0.5,2,coverage>=50%,783
+Science,5,0.5,4,all,2028
+Science,5,0.5,4,coverage>=50%,454
+Science,5,0.75,1,all,2881
+Science,5,0.75,1,coverage>=50%,892
+Science,5,0.75,2,all,2509
+Science,5,0.75,2,coverage>=50%,742
+Science,5,0.75,4,all,1641
+Science,5,0.75,4,coverage>=50%,430
+Science,10,0.25,1,all,824
+Science,10,0.25,1,coverage>=50%,153
+Science,10,0.25,2,all,794
+Science,10,0.25,2,coverage>=50%,144
+Science,10,0.25,4,all,712
+Science,10,0.25,4,coverage>=50%,123
+Science,10,0.5,1,all,736
+Science,10,0.5,1,coverage>=50%,152
+Science,10,0.5,2,all,706
+Science,10,0.5,2,coverage>=50%,143
+Science,10,0.5,4,all,628
+Science,10,0.5,4,coverage>=50%,122
+Science,10,0.75,1,all,614
+Science,10,0.75,1,coverage>=50%,151
+Science,10,0.75,2,all,585
+Science,10,0.75,2,coverage>=50%,142
+Science,10,0.75,4,all,512
+Science,10,0.75,4,coverage>=50%,122

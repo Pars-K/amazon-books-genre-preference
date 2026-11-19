@@ -1,0 +1,16 @@
+{
+  "actual_sample_users": 1800,
+  "actual_sample_silhouette": 0.046684977177741664,
+  "simulation_repeats": 39,
+  "single_gaussian_silhouette_median": 0.04208176810402042,
+  "single_gaussian_p05": 0.03894451934821701,
+  "single_gaussian_p95": 0.04407614314885853,
+  "diagnostic_exceedance_fraction": 0.02564102564102564,
+  "validation_users": 2569,
+  "validation_empty_vectors": 1,
+  "validation_silhouette": 0.052547162337847356,
+  "validation_cluster_sizes": [
+    1279,
+    1290
+  ]
+}

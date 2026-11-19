@@ -1,0 +1,22 @@
+scheme,fold,genre,train,test
+book,0,Fantasy,124,65
+book,0,Science Fiction,205,90
+book,0,Romance,715,389
+book,0,Mystery,632,316
+book,0,Thriller,5475,2754
+book,0,Philosophy,5,5
+book,0,Science,129,64
+book,1,Fantasy,132,57
+book,1,Science Fiction,187,108
+book,1,Romance,760,344
+book,1,Mystery,619,329
+book,1,Thriller,5448,2781
+book,1,Philosophy,6,4
+book,1,Science,117,76
+book,2,Fantasy,122,67
+book,2,Science Fiction,198,97
+book,2,Romance,733,371
+book,2,Mystery,645,303
+book,2,Thriller,5535,2694
+book,2,Philosophy,9,1
+book,2,Science,140,53

@@ -1,0 +1,32 @@
+{
+  "rating": {
+    "median": 5.0,
+    "scale": 1.0,
+    "missing": 0
+  },
+  "review_age_days": {
+    "median": 2269.0,
+    "scale": 2131.0,
+    "missing": 0
+  },
+  "log_helpful": {
+    "median": 0.0,
+    "scale": 0.6931471805599453,
+    "missing": 0
+  },
+  "log_price": {
+    "median": 2.39698576841553,
+    "scale": 0.5548312401029127,
+    "missing": 4972
+  },
+  "review_tokens": {
+    "median": 4.454347296253507,
+    "scale": 1.3466291047274597,
+    "missing": 0
+  },
+  "eligible_reviews": {
+    "median": 3.1354942159291497,
+    "scale": 1.1239300966523995,
+    "missing": 0
+  }
+}

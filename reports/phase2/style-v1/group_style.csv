@@ -1,0 +1,2089 @@
+scope,preference_group,users,reviews,metric,valid_users,p25,median,p75
+all_reviews,ALL,11912,405815,words_per_review,11912,58.426692,99.618182,170.426901
+all_reviews,ALL,11912,405815,sentences_per_review,11912,4.387097,6.488088,10.141543
+all_reviews,ALL,11912,405815,paragraphs_per_review,11912,1.0,1.120345,2.2
+all_reviews,ALL,11912,405815,words_per_paragraph,11912,46.083736,63.396824,88.625
+all_reviews,ALL,11912,405815,mean_sentence_words,11912,12.463605,14.904055,17.727124
+all_reviews,ALL,11912,405815,question_ending_pct,11912,0.416667,1.754386,3.90625
+all_reviews,ALL,11912,405815,vocabulary_diversity_20_pct,11912,90.816327,91.643836,92.372881
+all_reviews,ALL,11912,405815,first_singular_per_1000_words,11912,21.663262,33.715744,47.154963
+all_reviews,ALL,11912,405815,first_plural_per_1000_words,11912,0.802488,1.848429,3.514056
+all_reviews,ALL,11912,405815,second_person_per_1000_words,11912,3.939819,7.495318,12.547673
+all_reviews,ALL,11912,405815,contractions_per_1000_words,11912,6.518703,12.184508,18.807892
+all_reviews,ALL,11912,405815,exclamations_per_1000_words,11912,0.806777,3.160414,9.347475
+all_reviews,ALL,11912,405815,ellipses_per_1000_words,11912,0.0,0.469043,1.850995
+all_reviews,ALL,11912,405815,colons_per_1000_words,11912,0.0,0.049366,0.948092
+all_reviews,ALL,11912,405815,semicolons_per_1000_words,11912,0.0,0.0,0.765843
+all_reviews,ALL,11912,405815,upper_tokens_per_1000_words,11912,1.389372,2.864817,5.57637
+all_reviews,ALL,11912,405815,emphatic_runs_per_1000_words,11912,0.0,0.0,0.877193
+all_reviews,ALL,11912,405815,colloquial_tokens_per_1000_words,11912,0.0,0.0,0.217652
+all_reviews,ALL,11912,405815,subordination_sentence_pct,11912,8.163265,11.901389,16.049383
+all_reviews,ALL,11912,405815,hedge_sentence_pct,11912,1.041667,2.239851,3.965639
+all_reviews,ALL,11912,405815,certainty_sentence_pct,11912,0.0,0.869565,1.851852
+all_reviews,ALL,11912,405815,causal_sentence_pct,11912,0.729927,1.680672,3.19726
+all_reviews,ALL,11912,405815,contrast_sentence_pct,11912,7.912653,11.861057,16.300757
+all_reviews,ALL,11912,405815,example_sentence_pct,11912,0.0,0.0,0.0
+all_reviews,ALL,11912,405815,reading_experience_sentence_pct,11912,0.649351,1.550388,2.985075
+all_reviews,ALL,11912,405815,recommendation_sentence_pct,11912,0.0,0.75188,1.886792
+all_reviews,ALL,11912,405815,plot_description_sentence_pct,11912,0.0,0.0,0.332503
+all_reviews,ALL,11912,405815,evaluation_sentence_pct,11912,1.587302,3.225806,5.555556
+all_reviews,ALL,11912,405815,sd_sentence_words,11912,6.785465,8.295782,10.109607
+all_reviews,Fantasy,258,3190,words_per_review,258,153.869048,210.983333,305.75
+all_reviews,Fantasy,258,3190,sentences_per_review,258,8.513889,11.363971,16.482143
+all_reviews,Fantasy,258,3190,paragraphs_per_review,258,1.288056,2.333333,4.0
+all_reviews,Fantasy,258,3190,words_per_paragraph,258,63.294118,85.140756,123.583333
+all_reviews,Fantasy,258,3190,mean_sentence_words,258,15.455975,17.787974,21.300389
+all_reviews,Fantasy,258,3190,question_ending_pct,258,0.638365,2.083333,4.872129
+all_reviews,Fantasy,258,3190,vocabulary_diversity_20_pct,258,90.960775,91.632729,92.348039
+all_reviews,Fantasy,258,3190,first_singular_per_1000_words,258,23.557975,31.883448,41.553546
+all_reviews,Fantasy,258,3190,first_plural_per_1000_words,258,1.07484,2.437471,4.036938
+all_reviews,Fantasy,258,3190,second_person_per_1000_words,258,3.667503,6.799769,11.631541
+all_reviews,Fantasy,258,3190,contractions_per_1000_words,258,9.229287,14.364065,20.745828
+all_reviews,Fantasy,258,3190,exclamations_per_1000_words,258,0.613191,2.334461,5.667399
+all_reviews,Fantasy,258,3190,ellipses_per_1000_words,258,0.0,0.93371,2.799942
+all_reviews,Fantasy,258,3190,colons_per_1000_words,258,0.0,0.807486,2.110113
+all_reviews,Fantasy,258,3190,semicolons_per_1000_words,258,0.0,0.357281,1.174516
+all_reviews,Fantasy,258,3190,upper_tokens_per_1000_words,258,1.087458,2.562705,6.036513
+all_reviews,Fantasy,258,3190,emphatic_runs_per_1000_words,258,0.0,0.0,0.478245
+all_reviews,Fantasy,258,3190,colloquial_tokens_per_1000_words,258,0.0,0.0,0.160412
+all_reviews,Fantasy,258,3190,subordination_sentence_pct,258,12.848795,17.451089,20.782739
+all_reviews,Fantasy,258,3190,hedge_sentence_pct,258,2.021224,3.681553,6.060606
+all_reviews,Fantasy,258,3190,certainty_sentence_pct,258,0.0,1.041667,2.580681
+all_reviews,Fantasy,258,3190,causal_sentence_pct,258,1.454604,2.469136,4.223485
+all_reviews,Fantasy,258,3190,contrast_sentence_pct,258,10.796228,14.466788,19.790274
+all_reviews,Fantasy,258,3190,example_sentence_pct,258,0.0,0.0,0.708593
+all_reviews,Fantasy,258,3190,reading_experience_sentence_pct,258,0.0,1.38173,2.580963
+all_reviews,Fantasy,258,3190,recommendation_sentence_pct,258,0.0,0.433911,1.509498
+all_reviews,Fantasy,258,3190,plot_description_sentence_pct,258,0.0,0.0,0.763359
+all_reviews,Fantasy,258,3190,evaluation_sentence_pct,258,1.001642,2.198068,4.1026
+all_reviews,Fantasy,258,3190,sd_sentence_words,258,8.453194,9.750037,12.269187
+all_reviews,Mystery,1040,40242,words_per_review,1040,65.501995,110.105556,178.392857
+all_reviews,Mystery,1040,40242,sentences_per_review,1040,4.829237,7.047619,10.129902
+all_reviews,Mystery,1040,40242,paragraphs_per_review,1040,1.0,1.166667,2.188889
+all_reviews,Mystery,1040,40242,words_per_paragraph,1040,48.903824,68.31713,96.388393
+all_reviews,Mystery,1040,40242,mean_sentence_words,1040,13.028552,15.420567,18.270187
+all_reviews,Mystery,1040,40242,question_ending_pct,1040,0.586949,1.897234,4.315436
+all_reviews,Mystery,1040,40242,vocabulary_diversity_20_pct,1040,90.69391,91.604112,92.313281
+all_reviews,Mystery,1040,40242,first_singular_per_1000_words,1040,20.299835,32.568674,46.380702
+all_reviews,Mystery,1040,40242,first_plural_per_1000_words,1040,0.714158,1.637783,2.941176
+all_reviews,Mystery,1040,40242,second_person_per_1000_words,1040,2.95858,6.081084,10.370722
+all_reviews,Mystery,1040,40242,contractions_per_1000_words,1040,6.811728,12.130098,18.563039
+all_reviews,Mystery,1040,40242,exclamations_per_1000_words,1040,1.033897,4.240882,11.455171
+all_reviews,Mystery,1040,40242,ellipses_per_1000_words,1040,0.0,0.348422,1.637226
+all_reviews,Mystery,1040,40242,colons_per_1000_words,1040,0.0,0.0,0.884838
+all_reviews,Mystery,1040,40242,semicolons_per_1000_words,1040,0.0,0.0,0.630334
+all_reviews,Mystery,1040,40242,upper_tokens_per_1000_words,1040,0.910132,1.926164,3.983053
+all_reviews,Mystery,1040,40242,emphatic_runs_per_1000_words,1040,0.0,0.0,0.907044
+all_reviews,Mystery,1040,40242,colloquial_tokens_per_1000_words,1040,0.0,0.0,0.126709
+all_reviews,Mystery,1040,40242,subordination_sentence_pct,1040,8.020642,12.116944,16.225824
+all_reviews,Mystery,1040,40242,hedge_sentence_pct,1040,0.925926,2.016129,3.615962
+all_reviews,Mystery,1040,40242,certainty_sentence_pct,1040,0.0,0.702884,1.564545
+all_reviews,Mystery,1040,40242,causal_sentence_pct,1040,0.488712,1.37931,2.849187
+all_reviews,Mystery,1040,40242,contrast_sentence_pct,1040,6.397938,10.25641,14.496092
+all_reviews,Mystery,1040,40242,example_sentence_pct,1040,0.0,0.0,0.0
+all_reviews,Mystery,1040,40242,reading_experience_sentence_pct,1040,0.473375,1.335857,2.404628
+all_reviews,Mystery,1040,40242,recommendation_sentence_pct,1040,0.0,0.619566,1.713086
+all_reviews,Mystery,1040,40242,plot_description_sentence_pct,1040,0.0,0.0,0.309369
+all_reviews,Mystery,1040,40242,evaluation_sentence_pct,1040,1.428571,2.884615,5.007396
+all_reviews,Mystery,1040,40242,sd_sentence_words,1040,6.856013,8.32099,10.159959
+all_reviews,Philosophy,15,129,words_per_review,15,210.083333,253.166667,286.916667
+all_reviews,Philosophy,15,129,sentences_per_review,15,8.633333,11.25,13.479167
+all_reviews,Philosophy,15,129,paragraphs_per_review,15,1.171429,2.4,3.8
+all_reviews,Philosophy,15,129,words_per_paragraph,15,70.568287,109.4,185.616667
+all_reviews,Philosophy,15,129,mean_sentence_words,15,20.346226,22.161765,26.569853
+all_reviews,Philosophy,15,129,question_ending_pct,15,1.524334,3.333333,7.106918
+all_reviews,Philosophy,15,129,vocabulary_diversity_20_pct,15,90.496795,91.313559,91.890107
+all_reviews,Philosophy,15,129,first_singular_per_1000_words,15,7.250398,10.240655,12.433373
+all_reviews,Philosophy,15,129,first_plural_per_1000_words,15,0.97046,2.560164,6.391865
+all_reviews,Philosophy,15,129,second_person_per_1000_words,15,1.167459,2.21873,5.953783
+all_reviews,Philosophy,15,129,contractions_per_1000_words,15,0.807619,2.790698,6.403624
+all_reviews,Philosophy,15,129,exclamations_per_1000_words,15,0.104406,0.496278,0.971959
+all_reviews,Philosophy,15,129,ellipses_per_1000_words,15,0.0,0.80289,2.03775
+all_reviews,Philosophy,15,129,colons_per_1000_words,15,2.125937,2.962475,5.745939
+all_reviews,Philosophy,15,129,semicolons_per_1000_words,15,0.881128,1.793722,2.75594
+all_reviews,Philosophy,15,129,upper_tokens_per_1000_words,15,0.956889,3.98142,9.410855
+all_reviews,Philosophy,15,129,emphatic_runs_per_1000_words,15,0.0,0.0,0.0
+all_reviews,Philosophy,15,129,colloquial_tokens_per_1000_words,15,0.0,0.0,0.0
+all_reviews,Philosophy,15,129,subordination_sentence_pct,15,11.356457,13.773585,16.421569
+all_reviews,Philosophy,15,129,hedge_sentence_pct,15,1.890276,3.018868,4.722222
+all_reviews,Philosophy,15,129,certainty_sentence_pct,15,0.0,0.0,1.027254
+all_reviews,Philosophy,15,129,causal_sentence_pct,15,1.354822,3.088803,5.242567
+all_reviews,Philosophy,15,129,contrast_sentence_pct,15,10.145404,14.444444,17.152778
+all_reviews,Philosophy,15,129,example_sentence_pct,15,0.958781,1.886792,2.859477
+all_reviews,Philosophy,15,129,reading_experience_sentence_pct,15,0.0,0.0,1.360294
+all_reviews,Philosophy,15,129,recommendation_sentence_pct,15,0.0,0.566038,0.982376
+all_reviews,Philosophy,15,129,plot_description_sentence_pct,15,0.0,0.0,0.0
+all_reviews,Philosophy,15,129,evaluation_sentence_pct,15,0.0,0.0,0.0
+all_reviews,Philosophy,15,129,sd_sentence_words,15,11.285088,13.362162,13.971373
+all_reviews,Romance,1252,35153,words_per_review,1252,114.658333,166.277778,242.90625
+all_reviews,Romance,1252,35153,sentences_per_review,1252,7.714286,10.675439,15.0
+all_reviews,Romance,1252,35153,paragraphs_per_review,1252,1.142857,2.176623,3.888889
+all_reviews,Romance,1252,35153,words_per_paragraph,1252,51.218368,71.002755,101.767857
+all_reviews,Romance,1252,35153,mean_sentence_words,1252,12.966343,15.065343,17.632107
+all_reviews,Romance,1252,35153,question_ending_pct,1252,0.811912,2.040816,4.169568
+all_reviews,Romance,1252,35153,vocabulary_diversity_20_pct,1252,90.98799,91.77178,92.461825
+all_reviews,Romance,1252,35153,first_singular_per_1000_words,1252,23.265713,34.628356,47.319986
+all_reviews,Romance,1252,35153,first_plural_per_1000_words,1252,0.808898,1.958591,3.817305
+all_reviews,Romance,1252,35153,second_person_per_1000_words,1252,4.452454,8.413969,13.39684
+all_reviews,Romance,1252,35153,contractions_per_1000_words,1252,8.811898,14.005788,19.861945
+all_reviews,Romance,1252,35153,exclamations_per_1000_words,1252,2.210526,6.965333,16.537354
+all_reviews,Romance,1252,35153,ellipses_per_1000_words,1252,0.0,0.841043,2.558265
+all_reviews,Romance,1252,35153,colons_per_1000_words,1252,0.0,0.160514,0.859847
+all_reviews,Romance,1252,35153,semicolons_per_1000_words,1252,0.0,0.0,0.562534
+all_reviews,Romance,1252,35153,upper_tokens_per_1000_words,1252,2.204717,4.366812,8.225376
+all_reviews,Romance,1252,35153,emphatic_runs_per_1000_words,1252,0.0,0.574647,2.267553
+all_reviews,Romance,1252,35153,colloquial_tokens_per_1000_words,1252,0.0,0.0,0.737586
+all_reviews,Romance,1252,35153,subordination_sentence_pct,1252,9.553895,13.000356,16.86747
+all_reviews,Romance,1252,35153,hedge_sentence_pct,1252,0.742806,1.472757,2.693085
+all_reviews,Romance,1252,35153,certainty_sentence_pct,1252,0.122047,1.088933,2.288398
+all_reviews,Romance,1252,35153,causal_sentence_pct,1252,0.803752,1.904762,3.467065
+all_reviews,Romance,1252,35153,contrast_sentence_pct,1252,8.352683,12.024096,15.703561
+all_reviews,Romance,1252,35153,example_sentence_pct,1252,0.0,0.0,0.0
+all_reviews,Romance,1252,35153,reading_experience_sentence_pct,1252,0.420622,1.105006,2.044996
+all_reviews,Romance,1252,35153,recommendation_sentence_pct,1252,0.0,0.632411,1.538462
+all_reviews,Romance,1252,35153,plot_description_sentence_pct,1252,0.0,0.0,0.424779
+all_reviews,Romance,1252,35153,evaluation_sentence_pct,1252,1.76861,3.625411,6.15524
+all_reviews,Romance,1252,35153,sd_sentence_words,1252,6.91472,8.242592,9.920494
+all_reviews,Science,239,3140,words_per_review,239,146.964646,211.666667,297.0
+all_reviews,Science,239,3140,sentences_per_review,239,7.539394,10.5,14.690972
+all_reviews,Science,239,3140,paragraphs_per_review,239,1.166667,2.055556,3.522727
+all_reviews,Science,239,3140,words_per_paragraph,239,67.690625,90.714286,129.69
+all_reviews,Science,239,3140,mean_sentence_words,239,17.840209,20.2,22.746927
+all_reviews,Science,239,3140,question_ending_pct,239,0.0,1.415094,3.202564
+all_reviews,Science,239,3140,vocabulary_diversity_20_pct,239,90.78745,91.532847,92.522376
+all_reviews,Science,239,3140,first_singular_per_1000_words,239,9.918173,16.607355,24.681756
+all_reviews,Science,239,3140,first_plural_per_1000_words,239,0.955593,2.469813,4.979339
+all_reviews,Science,239,3140,second_person_per_1000_words,239,2.91459,6.458144,10.005524
+all_reviews,Science,239,3140,contractions_per_1000_words,239,2.329,5.629838,11.765078
+all_reviews,Science,239,3140,exclamations_per_1000_words,239,0.0,1.078167,2.95097
+all_reviews,Science,239,3140,ellipses_per_1000_words,239,0.0,0.437063,1.38976
+all_reviews,Science,239,3140,colons_per_1000_words,239,0.807492,1.753267,3.557832
+all_reviews,Science,239,3140,semicolons_per_1000_words,239,0.0,0.658762,1.782217
+all_reviews,Science,239,3140,upper_tokens_per_1000_words,239,1.305631,3.054368,6.075436
+all_reviews,Science,239,3140,emphatic_runs_per_1000_words,239,0.0,0.0,0.0
+all_reviews,Science,239,3140,colloquial_tokens_per_1000_words,239,0.0,0.0,0.0
+all_reviews,Science,239,3140,subordination_sentence_pct,239,10.724421,14.43299,18.965517
+all_reviews,Science,239,3140,hedge_sentence_pct,239,2.181847,3.913043,6.482047
+all_reviews,Science,239,3140,certainty_sentence_pct,239,0.0,0.862069,1.739262
+all_reviews,Science,239,3140,causal_sentence_pct,239,1.02012,2.12766,3.794009
+all_reviews,Science,239,3140,contrast_sentence_pct,239,9.964539,14.144737,19.456735
+all_reviews,Science,239,3140,example_sentence_pct,239,0.0,1.515152,2.640035
+all_reviews,Science,239,3140,reading_experience_sentence_pct,239,0.0,0.0,1.142894
+all_reviews,Science,239,3140,recommendation_sentence_pct,239,0.0,0.877193,1.923788
+all_reviews,Science,239,3140,plot_description_sentence_pct,239,0.0,0.0,0.0
+all_reviews,Science,239,3140,evaluation_sentence_pct,239,0.0,0.662252,1.951266
+all_reviews,Science,239,3140,sd_sentence_words,239,9.366644,11.012763,13.114097
+all_reviews,Science Fiction,377,5739,words_per_review,377,137.727273,201.333333,289.875
+all_reviews,Science Fiction,377,5739,sentences_per_review,377,7.833333,11.0,15.75
+all_reviews,Science Fiction,377,5739,paragraphs_per_review,377,1.2,2.25,3.8
+all_reviews,Science Fiction,377,5739,words_per_paragraph,377,60.277778,82.526316,120.235294
+all_reviews,Science Fiction,377,5739,mean_sentence_words,377,15.608696,18.038095,20.912587
+all_reviews,Science Fiction,377,5739,question_ending_pct,377,1.020408,2.721088,5.333333
+all_reviews,Science Fiction,377,5739,vocabulary_diversity_20_pct,377,90.833333,91.713287,92.383178
+all_reviews,Science Fiction,377,5739,first_singular_per_1000_words,377,15.523933,23.560209,32.569361
+all_reviews,Science Fiction,377,5739,first_plural_per_1000_words,377,1.111729,2.590674,4.600345
+all_reviews,Science Fiction,377,5739,second_person_per_1000_words,377,3.686636,6.487488,11.245675
+all_reviews,Science Fiction,377,5739,contractions_per_1000_words,377,6.21118,12.56351,19.798416
+all_reviews,Science Fiction,377,5739,exclamations_per_1000_words,377,0.0,1.181136,3.137747
+all_reviews,Science Fiction,377,5739,ellipses_per_1000_words,377,0.0,0.755858,2.109876
+all_reviews,Science Fiction,377,5739,colons_per_1000_words,377,0.0,0.904977,2.038505
+all_reviews,Science Fiction,377,5739,semicolons_per_1000_words,377,0.0,0.0,0.917431
+all_reviews,Science Fiction,377,5739,upper_tokens_per_1000_words,377,1.943635,3.477858,6.896552
+all_reviews,Science Fiction,377,5739,emphatic_runs_per_1000_words,377,0.0,0.0,0.0
+all_reviews,Science Fiction,377,5739,colloquial_tokens_per_1000_words,377,0.0,0.0,0.218866
+all_reviews,Science Fiction,377,5739,subordination_sentence_pct,377,11.898017,15.625,20.0
+all_reviews,Science Fiction,377,5739,hedge_sentence_pct,377,2.097902,3.780069,6.10687
+all_reviews,Science Fiction,377,5739,certainty_sentence_pct,377,0.0,0.729927,1.724138
+all_reviews,Science Fiction,377,5739,causal_sentence_pct,377,1.008065,2.312139,3.75
+all_reviews,Science Fiction,377,5739,contrast_sentence_pct,377,10.9375,14.634146,19.277108
+all_reviews,Science Fiction,377,5739,example_sentence_pct,377,0.0,0.0,1.162791
+all_reviews,Science Fiction,377,5739,reading_experience_sentence_pct,377,0.0,1.234568,2.173913
+all_reviews,Science Fiction,377,5739,recommendation_sentence_pct,377,0.0,0.34965,1.428571
+all_reviews,Science Fiction,377,5739,plot_description_sentence_pct,377,0.0,0.0,0.604839
+all_reviews,Science Fiction,377,5739,evaluation_sentence_pct,377,0.566038,1.587302,3.157895
+all_reviews,Science Fiction,377,5739,sd_sentence_words,377,8.56074,10.169517,12.102503
+all_reviews,Thriller,8737,318268,words_per_review,8737,51.857143,82.9,139.727273
+all_reviews,Thriller,8737,318268,sentences_per_review,8737,4.043478,5.642857,8.582781
+all_reviews,Thriller,8737,318268,paragraphs_per_review,8737,1.0,1.052632,1.75
+all_reviews,Thriller,8737,318268,words_per_paragraph,8737,43.96,60.448276,83.074074
+all_reviews,Thriller,8737,318268,mean_sentence_words,8737,12.072165,14.448276,17.135484
+all_reviews,Thriller,8737,318268,question_ending_pct,8737,0.28169,1.639344,3.738318
+all_reviews,Thriller,8737,318268,vocabulary_diversity_20_pct,8737,90.8,91.630728,92.364621
+all_reviews,Thriller,8737,318268,first_singular_per_1000_words,8737,22.63202,34.829721,48.239896
+all_reviews,Thriller,8737,318268,first_plural_per_1000_words,8737,0.793336,1.819836,3.421817
+all_reviews,Thriller,8737,318268,second_person_per_1000_words,8737,4.096495,7.654836,12.842105
+all_reviews,Thriller,8737,318268,contractions_per_1000_words,8737,6.405694,11.981663,18.72929
+all_reviews,Thriller,8737,318268,exclamations_per_1000_words,8737,0.772798,2.991027,8.780037
+all_reviews,Thriller,8737,318268,ellipses_per_1000_words,8737,0.0,0.386997,1.760873
+all_reviews,Thriller,8737,318268,colons_per_1000_words,8737,0.0,0.0,0.884956
+all_reviews,Thriller,8737,318268,semicolons_per_1000_words,8737,0.0,0.0,0.763359
+all_reviews,Thriller,8737,318268,upper_tokens_per_1000_words,8737,1.373155,2.820874,5.263158
+all_reviews,Thriller,8737,318268,emphatic_runs_per_1000_words,8737,0.0,0.0,0.834028
+all_reviews,Thriller,8737,318268,colloquial_tokens_per_1000_words,8737,0.0,0.0,0.150534
+all_reviews,Thriller,8737,318268,subordination_sentence_pct,8737,7.756233,11.320755,15.306122
+all_reviews,Thriller,8737,318268,hedge_sentence_pct,8737,1.06383,2.272727,3.960396
+all_reviews,Thriller,8737,318268,certainty_sentence_pct,8737,0.0,0.862069,1.834862
+all_reviews,Thriller,8737,318268,causal_sentence_pct,8737,0.724638,1.639344,3.125
+all_reviews,Thriller,8737,318268,contrast_sentence_pct,8737,7.837649,11.764706,16.216216
+all_reviews,Thriller,8737,318268,example_sentence_pct,8737,0.0,0.0,0.0
+all_reviews,Thriller,8737,318268,reading_experience_sentence_pct,8737,0.802568,1.754386,3.278689
+all_reviews,Thriller,8737,318268,recommendation_sentence_pct,8737,0.0,0.806452,2.0
+all_reviews,Thriller,8737,318268,plot_description_sentence_pct,8737,0.0,0.0,0.315457
+all_reviews,Thriller,8737,318268,evaluation_sentence_pct,8737,1.758242,3.409091,5.737705
+all_reviews,Thriller,8737,318268,sd_sentence_words,8737,6.640899,8.113223,9.837046
+book=Fantasy,ALL,1329,3528,words_per_review,1329,70.0,131.0,234.428571
+book=Fantasy,ALL,1329,3528,sentences_per_review,1329,5.0,8.0,13.1
+book=Fantasy,ALL,1329,3528,paragraphs_per_review,1329,1.0,1.0,3.0
+book=Fantasy,ALL,1329,3528,words_per_paragraph,1329,45.0,69.0,104.5
+book=Fantasy,ALL,1329,3528,mean_sentence_words,1329,12.5,15.631579,19.0625
+book=Fantasy,ALL,1329,3528,question_ending_pct,1329,0.0,0.0,2.380952
+book=Fantasy,ALL,1329,3528,vocabulary_diversity_20_pct,1329,90.0,91.596639,93.030303
+book=Fantasy,ALL,1329,3528,first_singular_per_1000_words,1329,18.867925,33.596838,51.282051
+book=Fantasy,ALL,1329,3528,first_plural_per_1000_words,1329,0.0,0.0,3.069839
+book=Fantasy,ALL,1329,3528,second_person_per_1000_words,1329,0.0,3.816794,12.418687
+book=Fantasy,ALL,1329,3528,contractions_per_1000_words,1329,2.074689,12.345679,21.73913
+book=Fantasy,ALL,1329,3528,exclamations_per_1000_words,1329,0.0,0.0,9.202454
+book=Fantasy,ALL,1329,3528,ellipses_per_1000_words,1329,0.0,0.0,0.319489
+book=Fantasy,ALL,1329,3528,colons_per_1000_words,1329,0.0,0.0,0.0
+book=Fantasy,ALL,1329,3528,semicolons_per_1000_words,1329,0.0,0.0,0.0
+book=Fantasy,ALL,1329,3528,upper_tokens_per_1000_words,1329,0.0,0.0,5.830904
+book=Fantasy,ALL,1329,3528,emphatic_runs_per_1000_words,1329,0.0,0.0,0.0
+book=Fantasy,ALL,1329,3528,colloquial_tokens_per_1000_words,1329,0.0,0.0,0.0
+book=Fantasy,ALL,1329,3528,subordination_sentence_pct,1329,0.0,12.0,20.0
+book=Fantasy,ALL,1329,3528,hedge_sentence_pct,1329,0.0,0.0,3.846154
+book=Fantasy,ALL,1329,3528,certainty_sentence_pct,1329,0.0,0.0,0.0
+book=Fantasy,ALL,1329,3528,causal_sentence_pct,1329,0.0,0.0,2.941176
+book=Fantasy,ALL,1329,3528,contrast_sentence_pct,1329,0.0,12.5,20.0
+book=Fantasy,ALL,1329,3528,example_sentence_pct,1329,0.0,0.0,0.0
+book=Fantasy,ALL,1329,3528,reading_experience_sentence_pct,1329,0.0,0.0,1.204819
+book=Fantasy,ALL,1329,3528,recommendation_sentence_pct,1329,0.0,0.0,0.0
+book=Fantasy,ALL,1329,3528,plot_description_sentence_pct,1329,0.0,0.0,0.0
+book=Fantasy,ALL,1329,3528,evaluation_sentence_pct,1329,0.0,0.0,6.25
+book=Fantasy,ALL,1329,3528,sd_sentence_words,1320,5.538283,7.491816,9.834351
+book=Fantasy,Fantasy,258,1833,words_per_review,258,149.0,222.333333,320.833333
+book=Fantasy,Fantasy,258,1833,sentences_per_review,258,8.0,12.0,17.440909
+book=Fantasy,Fantasy,258,1833,paragraphs_per_review,258,1.114583,2.5,4.0
+book=Fantasy,Fantasy,258,1833,words_per_paragraph,258,64.847222,86.458333,125.125
+book=Fantasy,Fantasy,258,1833,mean_sentence_words,258,15.28159,17.669836,21.299425
+book=Fantasy,Fantasy,258,1833,question_ending_pct,258,0.0,2.222222,4.750674
+book=Fantasy,Fantasy,258,1833,vocabulary_diversity_20_pct,258,90.787349,91.618102,92.5
+book=Fantasy,Fantasy,258,1833,first_singular_per_1000_words,258,22.673417,31.362886,42.300622
+book=Fantasy,Fantasy,258,1833,first_plural_per_1000_words,258,0.65809,2.04136,4.095393
+book=Fantasy,Fantasy,258,1833,second_person_per_1000_words,258,2.933245,6.932803,12.122518
+book=Fantasy,Fantasy,258,1833,contractions_per_1000_words,258,8.902599,14.633761,21.218226
+book=Fantasy,Fantasy,258,1833,exclamations_per_1000_words,258,0.427759,2.343293,5.139627
+book=Fantasy,Fantasy,258,1833,ellipses_per_1000_words,258,0.0,0.97419,2.495322
+book=Fantasy,Fantasy,258,1833,colons_per_1000_words,258,0.0,0.734595,2.361519
+book=Fantasy,Fantasy,258,1833,semicolons_per_1000_words,258,0.0,0.0,1.2708
+book=Fantasy,Fantasy,258,1833,upper_tokens_per_1000_words,258,0.885008,2.472715,6.144398
+book=Fantasy,Fantasy,258,1833,emphatic_runs_per_1000_words,258,0.0,0.0,0.243072
+book=Fantasy,Fantasy,258,1833,colloquial_tokens_per_1000_words,258,0.0,0.0,0.0
+book=Fantasy,Fantasy,258,1833,subordination_sentence_pct,258,11.892274,17.165179,22.222222
+book=Fantasy,Fantasy,258,1833,hedge_sentence_pct,258,1.656336,3.72351,5.714286
+book=Fantasy,Fantasy,258,1833,certainty_sentence_pct,258,0.0,0.914176,2.788352
+book=Fantasy,Fantasy,258,1833,causal_sentence_pct,258,0.849193,2.633403,4.444444
+book=Fantasy,Fantasy,258,1833,contrast_sentence_pct,258,11.181435,15.373598,20.218208
+book=Fantasy,Fantasy,258,1833,example_sentence_pct,258,0.0,0.0,0.0
+book=Fantasy,Fantasy,258,1833,reading_experience_sentence_pct,258,0.0,1.149425,2.792347
+book=Fantasy,Fantasy,258,1833,recommendation_sentence_pct,258,0.0,0.0,1.444099
+book=Fantasy,Fantasy,258,1833,plot_description_sentence_pct,258,0.0,0.0,0.18155
+book=Fantasy,Fantasy,258,1833,evaluation_sentence_pct,258,0.0,2.12766,4.332298
+book=Fantasy,Fantasy,258,1833,sd_sentence_words,258,8.354906,9.681025,12.194545
+book=Fantasy,Mystery,142,239,words_per_review,142,54.0,91.833333,151.75
+book=Fantasy,Mystery,142,239,sentences_per_review,142,4.0,6.0,10.0
+book=Fantasy,Mystery,142,239,paragraphs_per_review,142,1.0,1.0,2.0
+book=Fantasy,Mystery,142,239,words_per_paragraph,142,40.0,65.0,89.25
+book=Fantasy,Mystery,142,239,mean_sentence_words,142,11.852273,14.145238,17.188492
+book=Fantasy,Mystery,142,239,question_ending_pct,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,vocabulary_diversity_20_pct,142,90.0,91.666667,93.9375
+book=Fantasy,Mystery,142,239,first_singular_per_1000_words,142,17.733931,35.62364,53.087488
+book=Fantasy,Mystery,142,239,first_plural_per_1000_words,142,0.0,0.0,2.026122
+book=Fantasy,Mystery,142,239,second_person_per_1000_words,142,0.0,3.049489,12.568141
+book=Fantasy,Mystery,142,239,contractions_per_1000_words,142,0.0,12.295288,20.470893
+book=Fantasy,Mystery,142,239,exclamations_per_1000_words,142,0.0,0.0,14.390692
+book=Fantasy,Mystery,142,239,ellipses_per_1000_words,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,colons_per_1000_words,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,semicolons_per_1000_words,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,upper_tokens_per_1000_words,142,0.0,0.0,3.914294
+book=Fantasy,Mystery,142,239,emphatic_runs_per_1000_words,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,colloquial_tokens_per_1000_words,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,subordination_sentence_pct,142,0.0,10.0,20.0
+book=Fantasy,Mystery,142,239,hedge_sentence_pct,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,certainty_sentence_pct,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,causal_sentence_pct,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,contrast_sentence_pct,142,0.0,6.458333,16.666667
+book=Fantasy,Mystery,142,239,example_sentence_pct,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,reading_experience_sentence_pct,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,recommendation_sentence_pct,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,plot_description_sentence_pct,142,0.0,0.0,0.0
+book=Fantasy,Mystery,142,239,evaluation_sentence_pct,142,0.0,0.0,8.439266
+book=Fantasy,Mystery,142,239,sd_sentence_words,141,4.736824,6.306963,8.294577
+book=Fantasy,Romance,264,485,words_per_review,264,77.0,137.0,215.0
+book=Fantasy,Romance,264,485,sentences_per_review,264,6.0,9.0,14.625
+book=Fantasy,Romance,264,485,paragraphs_per_review,264,1.0,1.583333,4.0
+book=Fantasy,Romance,264,485,words_per_paragraph,264,40.0,66.7,100.375
+book=Fantasy,Romance,264,485,mean_sentence_words,264,11.777629,14.360912,17.625
+book=Fantasy,Romance,264,485,question_ending_pct,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,vocabulary_diversity_20_pct,264,90.0,91.666667,93.133224
+book=Fantasy,Romance,264,485,first_singular_per_1000_words,264,22.409488,37.925485,55.36971
+book=Fantasy,Romance,264,485,first_plural_per_1000_words,264,0.0,0.0,3.536009
+book=Fantasy,Romance,264,485,second_person_per_1000_words,264,0.0,4.051426,13.713819
+book=Fantasy,Romance,264,485,contractions_per_1000_words,264,4.214977,13.79376,25.039308
+book=Fantasy,Romance,264,485,exclamations_per_1000_words,264,0.0,5.564154,22.409022
+book=Fantasy,Romance,264,485,ellipses_per_1000_words,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,colons_per_1000_words,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,semicolons_per_1000_words,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,upper_tokens_per_1000_words,264,0.0,0.68729,8.734129
+book=Fantasy,Romance,264,485,emphatic_runs_per_1000_words,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,colloquial_tokens_per_1000_words,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,subordination_sentence_pct,264,0.0,11.111111,20.0
+book=Fantasy,Romance,264,485,hedge_sentence_pct,264,0.0,0.0,1.203082
+book=Fantasy,Romance,264,485,certainty_sentence_pct,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,causal_sentence_pct,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,contrast_sentence_pct,264,0.0,10.557276,18.265993
+book=Fantasy,Romance,264,485,example_sentence_pct,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,reading_experience_sentence_pct,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,recommendation_sentence_pct,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,plot_description_sentence_pct,264,0.0,0.0,0.0
+book=Fantasy,Romance,264,485,evaluation_sentence_pct,264,0.0,0.0,9.642857
+book=Fantasy,Romance,264,485,sd_sentence_words,264,4.968652,6.799714,9.001108
+book=Fantasy,Science,3,3,words_per_review,3,116.5,174.0,315.5
+book=Fantasy,Science,3,3,sentences_per_review,3,8.0,10.0,17.0
+book=Fantasy,Science,3,3,paragraphs_per_review,3,1.0,1.0,2.0
+book=Fantasy,Science,3,3,words_per_paragraph,3,105.666667,152.333333,163.166667
+book=Fantasy,Science,3,3,mean_sentence_words,3,13.616667,17.4,18.220833
+book=Fantasy,Science,3,3,question_ending_pct,3,0.0,0.0,2.083333
+book=Fantasy,Science,3,3,vocabulary_diversity_20_pct,3,91.136364,92.272727,92.386364
+book=Fantasy,Science,3,3,first_singular_per_1000_words,3,40.902689,41.575492,46.211475
+book=Fantasy,Science,3,3,first_plural_per_1000_words,3,0.0,0.0,0.0
+book=Fantasy,Science,3,3,second_person_per_1000_words,3,0.0,0.0,8.474576
+book=Fantasy,Science,3,3,contractions_per_1000_words,3,18.876229,26.258206,38.552832
+book=Fantasy,Science,3,3,exclamations_per_1000_words,3,0.0,0.0,2.873563
+book=Fantasy,Science,3,3,ellipses_per_1000_words,3,0.0,0.0,0.0
+book=Fantasy,Science,3,3,colons_per_1000_words,3,0.0,0.0,0.0
+book=Fantasy,Science,3,3,semicolons_per_1000_words,3,0.0,0.0,0.0
+book=Fantasy,Science,3,3,upper_tokens_per_1000_words,3,0.0,0.0,0.0
+book=Fantasy,Science,3,3,emphatic_runs_per_1000_words,3,0.0,0.0,0.0
+book=Fantasy,Science,3,3,colloquial_tokens_per_1000_words,3,0.0,0.0,0.0
+book=Fantasy,Science,3,3,subordination_sentence_pct,3,13.333333,16.666667,18.75
+book=Fantasy,Science,3,3,hedge_sentence_pct,3,0.0,0.0,6.25
+book=Fantasy,Science,3,3,certainty_sentence_pct,3,0.0,0.0,2.083333
+book=Fantasy,Science,3,3,causal_sentence_pct,3,5.0,10.0,11.25
+book=Fantasy,Science,3,3,contrast_sentence_pct,3,10.0,20.0,26.666667
+book=Fantasy,Science,3,3,example_sentence_pct,3,0.0,0.0,5.0
+book=Fantasy,Science,3,3,reading_experience_sentence_pct,3,0.0,0.0,2.083333
+book=Fantasy,Science,3,3,recommendation_sentence_pct,3,0.0,0.0,0.0
+book=Fantasy,Science,3,3,plot_description_sentence_pct,3,0.0,0.0,2.083333
+book=Fantasy,Science,3,3,evaluation_sentence_pct,3,0.0,0.0,5.0
+book=Fantasy,Science,3,3,sd_sentence_words,3,6.494993,8.502349,9.453097
+book=Fantasy,Science Fiction,135,242,words_per_review,135,94.625,156.0,284.3
+book=Fantasy,Science Fiction,135,242,sentences_per_review,135,6.0,9.0,14.75
+book=Fantasy,Science Fiction,135,242,paragraphs_per_review,135,1.0,1.5,3.416667
+book=Fantasy,Science Fiction,135,242,words_per_paragraph,135,46.266667,74.583333,133.25
+book=Fantasy,Science Fiction,135,242,mean_sentence_words,135,15.0,17.477124,20.534965
+book=Fantasy,Science Fiction,135,242,question_ending_pct,135,0.0,0.0,2.776718
+book=Fantasy,Science Fiction,135,242,vocabulary_diversity_20_pct,135,90.247141,91.694915,93.214286
+book=Fantasy,Science Fiction,135,242,first_singular_per_1000_words,135,13.611111,24.096386,36.984822
+book=Fantasy,Science Fiction,135,242,first_plural_per_1000_words,135,0.0,0.687758,3.967339
+book=Fantasy,Science Fiction,135,242,second_person_per_1000_words,135,0.0,2.991773,10.478617
+book=Fantasy,Science Fiction,135,242,contractions_per_1000_words,135,3.231701,11.263073,23.790136
+book=Fantasy,Science Fiction,135,242,exclamations_per_1000_words,135,0.0,0.0,2.975928
+book=Fantasy,Science Fiction,135,242,ellipses_per_1000_words,135,0.0,0.0,0.0
+book=Fantasy,Science Fiction,135,242,colons_per_1000_words,135,0.0,0.0,1.816414
+book=Fantasy,Science Fiction,135,242,semicolons_per_1000_words,135,0.0,0.0,0.0
+book=Fantasy,Science Fiction,135,242,upper_tokens_per_1000_words,135,0.0,0.0,5.940768
+book=Fantasy,Science Fiction,135,242,emphatic_runs_per_1000_words,135,0.0,0.0,0.0
+book=Fantasy,Science Fiction,135,242,colloquial_tokens_per_1000_words,135,0.0,0.0,0.0
+book=Fantasy,Science Fiction,135,242,subordination_sentence_pct,135,6.458333,14.285714,20.0
+book=Fantasy,Science Fiction,135,242,hedge_sentence_pct,135,0.0,0.0,7.846154
+book=Fantasy,Science Fiction,135,242,certainty_sentence_pct,135,0.0,0.0,0.0
+book=Fantasy,Science Fiction,135,242,causal_sentence_pct,135,0.0,0.0,3.225806
+book=Fantasy,Science Fiction,135,242,contrast_sentence_pct,135,7.302772,15.0,20.204082
+book=Fantasy,Science Fiction,135,242,example_sentence_pct,135,0.0,0.0,0.0
+book=Fantasy,Science Fiction,135,242,reading_experience_sentence_pct,135,0.0,0.0,0.326797
+book=Fantasy,Science Fiction,135,242,recommendation_sentence_pct,135,0.0,0.0,0.0
+book=Fantasy,Science Fiction,135,242,plot_description_sentence_pct,135,0.0,0.0,0.0
+book=Fantasy,Science Fiction,135,242,evaluation_sentence_pct,135,0.0,0.0,2.765904
+book=Fantasy,Science Fiction,135,242,sd_sentence_words,134,6.715709,8.186654,10.441218
+book=Fantasy,Thriller,527,726,words_per_review,527,52.3,88.0,170.5
+book=Fantasy,Thriller,527,726,sentences_per_review,527,4.0,6.0,10.0
+book=Fantasy,Thriller,527,726,paragraphs_per_review,527,1.0,1.0,2.0
+book=Fantasy,Thriller,527,726,words_per_paragraph,527,38.7,61.0,93.333333
+book=Fantasy,Thriller,527,726,mean_sentence_words,527,11.4,14.8,18.40404
+book=Fantasy,Thriller,527,726,question_ending_pct,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,vocabulary_diversity_20_pct,527,90.0,91.25,93.42803
+book=Fantasy,Thriller,527,726,first_singular_per_1000_words,527,16.538462,35.294118,57.142857
+book=Fantasy,Thriller,527,726,first_plural_per_1000_words,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,second_person_per_1000_words,527,0.0,0.0,13.072454
+book=Fantasy,Thriller,527,726,contractions_per_1000_words,527,0.0,9.433962,20.408163
+book=Fantasy,Thriller,527,726,exclamations_per_1000_words,527,0.0,0.0,7.233486
+book=Fantasy,Thriller,527,726,ellipses_per_1000_words,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,colons_per_1000_words,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,semicolons_per_1000_words,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,upper_tokens_per_1000_words,527,0.0,0.0,3.666389
+book=Fantasy,Thriller,527,726,emphatic_runs_per_1000_words,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,colloquial_tokens_per_1000_words,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,subordination_sentence_pct,527,0.0,6.451613,18.181818
+book=Fantasy,Thriller,527,726,hedge_sentence_pct,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,certainty_sentence_pct,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,causal_sentence_pct,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,contrast_sentence_pct,527,0.0,9.090909,20.0
+book=Fantasy,Thriller,527,726,example_sentence_pct,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,reading_experience_sentence_pct,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,recommendation_sentence_pct,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,plot_description_sentence_pct,527,0.0,0.0,0.0
+book=Fantasy,Thriller,527,726,evaluation_sentence_pct,527,0.0,0.0,6.666667
+book=Fantasy,Thriller,527,726,sd_sentence_words,520,4.916618,6.609593,9.063857
+book=Mystery,ALL,6446,47869,words_per_review,6446,42.5875,73.0,134.45
+book=Mystery,ALL,6446,47869,sentences_per_review,6446,3.56677,5.0,8.0
+book=Mystery,ALL,6446,47869,paragraphs_per_review,6446,1.0,1.0,1.444444
+book=Mystery,ALL,6446,47869,words_per_paragraph,6446,38.0,56.19385,86.0
+book=Mystery,ALL,6446,47869,mean_sentence_words,6446,11.431429,14.266146,17.532353
+book=Mystery,ALL,6446,47869,question_ending_pct,6446,0.0,0.0,2.201433
+book=Mystery,ALL,6446,47869,vocabulary_diversity_20_pct,6446,90.0,91.666667,93.125
+book=Mystery,ALL,6446,47869,first_singular_per_1000_words,6446,17.54386,33.201284,52.017341
+book=Mystery,ALL,6446,47869,first_plural_per_1000_words,6446,0.0,0.0,1.911259
+book=Mystery,ALL,6446,47869,second_person_per_1000_words,6446,0.0,4.263185,12.040952
+book=Mystery,ALL,6446,47869,contractions_per_1000_words,6446,1.314088,10.204082,19.728262
+book=Mystery,ALL,6446,47869,exclamations_per_1000_words,6446,0.0,0.0,8.583691
+book=Mystery,ALL,6446,47869,ellipses_per_1000_words,6446,0.0,0.0,0.0
+book=Mystery,ALL,6446,47869,colons_per_1000_words,6446,0.0,0.0,0.0
+book=Mystery,ALL,6446,47869,semicolons_per_1000_words,6446,0.0,0.0,0.0
+book=Mystery,ALL,6446,47869,upper_tokens_per_1000_words,6446,0.0,0.0,3.874095
+book=Mystery,ALL,6446,47869,emphatic_runs_per_1000_words,6446,0.0,0.0,0.0
+book=Mystery,ALL,6446,47869,colloquial_tokens_per_1000_words,6446,0.0,0.0,0.0
+book=Mystery,ALL,6446,47869,subordination_sentence_pct,6446,0.0,10.0,16.666667
+book=Mystery,ALL,6446,47869,hedge_sentence_pct,6446,0.0,0.0,3.333333
+book=Mystery,ALL,6446,47869,certainty_sentence_pct,6446,0.0,0.0,0.0
+book=Mystery,ALL,6446,47869,causal_sentence_pct,6446,0.0,0.0,1.818182
+book=Mystery,ALL,6446,47869,contrast_sentence_pct,6446,0.0,10.0,18.181818
+book=Mystery,ALL,6446,47869,example_sentence_pct,6446,0.0,0.0,0.0
+book=Mystery,ALL,6446,47869,reading_experience_sentence_pct,6446,0.0,0.0,1.651757
+book=Mystery,ALL,6446,47869,recommendation_sentence_pct,6446,0.0,0.0,0.0
+book=Mystery,ALL,6446,47869,plot_description_sentence_pct,6446,0.0,0.0,0.0
+book=Mystery,ALL,6446,47869,evaluation_sentence_pct,6446,0.0,0.0,5.882353
+book=Mystery,ALL,6446,47869,sd_sentence_words,6406,5.296318,7.056866,9.06998
+book=Mystery,Fantasy,28,59,words_per_review,28,100.25,168.5,279.5
+book=Mystery,Fantasy,28,59,sentences_per_review,28,6.0,10.5,15.25
+book=Mystery,Fantasy,28,59,paragraphs_per_review,28,1.0,2.0,4.0
+book=Mystery,Fantasy,28,59,words_per_paragraph,28,47.25,65.0,117.25
+book=Mystery,Fantasy,28,59,mean_sentence_words,28,14.51875,16.327778,19.186364
+book=Mystery,Fantasy,28,59,question_ending_pct,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,vocabulary_diversity_20_pct,28,91.21337,92.386364,93.533654
+book=Mystery,Fantasy,28,59,first_singular_per_1000_words,28,21.755893,30.579768,61.650318
+book=Mystery,Fantasy,28,59,first_plural_per_1000_words,28,0.0,0.0,3.663602
+book=Mystery,Fantasy,28,59,second_person_per_1000_words,28,0.0,1.090909,7.554317
+book=Mystery,Fantasy,28,59,contractions_per_1000_words,28,10.86999,14.549761,23.193907
+book=Mystery,Fantasy,28,59,exclamations_per_1000_words,28,0.0,2.259133,6.082607
+book=Mystery,Fantasy,28,59,ellipses_per_1000_words,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,colons_per_1000_words,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,semicolons_per_1000_words,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,upper_tokens_per_1000_words,28,0.0,0.0,5.595439
+book=Mystery,Fantasy,28,59,emphatic_runs_per_1000_words,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,colloquial_tokens_per_1000_words,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,subordination_sentence_pct,28,3.75,10.555556,17.670778
+book=Mystery,Fantasy,28,59,hedge_sentence_pct,28,0.0,0.0,12.5
+book=Mystery,Fantasy,28,59,certainty_sentence_pct,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,causal_sentence_pct,28,0.0,0.0,3.455882
+book=Mystery,Fantasy,28,59,contrast_sentence_pct,28,0.0,12.54902,20.0
+book=Mystery,Fantasy,28,59,example_sentence_pct,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,reading_experience_sentence_pct,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,recommendation_sentence_pct,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,plot_description_sentence_pct,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,evaluation_sentence_pct,28,0.0,0.0,0.0
+book=Mystery,Fantasy,28,59,sd_sentence_words,28,6.667977,8.471639,9.967899
+book=Mystery,Mystery,1040,27625,words_per_review,1040,64.58,109.950893,183.899038
+book=Mystery,Mystery,1040,27625,sentences_per_review,1040,4.776515,7.044012,10.406061
+book=Mystery,Mystery,1040,27625,paragraphs_per_review,1040,1.0,1.142857,2.267308
+book=Mystery,Mystery,1040,27625,words_per_paragraph,1040,48.290033,69.286702,98.569444
+book=Mystery,Mystery,1040,27625,mean_sentence_words,1040,13.066633,15.345968,18.379132
+book=Mystery,Mystery,1040,27625,question_ending_pct,1040,0.0,1.835017,4.545455
+book=Mystery,Mystery,1040,27625,vocabulary_diversity_20_pct,1040,90.665639,91.5625,92.454545
+book=Mystery,Mystery,1040,27625,first_singular_per_1000_words,1040,19.195311,31.666447,45.816469
+book=Mystery,Mystery,1040,27625,first_plural_per_1000_words,1040,0.326345,1.419218,2.857657
+book=Mystery,Mystery,1040,27625,second_person_per_1000_words,1040,2.542659,5.486543,10.018031
+book=Mystery,Mystery,1040,27625,contractions_per_1000_words,1040,6.602244,11.994716,18.740881
+book=Mystery,Mystery,1040,27625,exclamations_per_1000_words,1040,1.053229,4.450651,11.964095
+book=Mystery,Mystery,1040,27625,ellipses_per_1000_words,1040,0.0,0.119628,1.542023
+book=Mystery,Mystery,1040,27625,colons_per_1000_words,1040,0.0,0.0,0.928183
+book=Mystery,Mystery,1040,27625,semicolons_per_1000_words,1040,0.0,0.0,0.554422
+book=Mystery,Mystery,1040,27625,upper_tokens_per_1000_words,1040,0.620252,1.761347,3.80714
+book=Mystery,Mystery,1040,27625,emphatic_runs_per_1000_words,1040,0.0,0.0,1.012916
+book=Mystery,Mystery,1040,27625,colloquial_tokens_per_1000_words,1040,0.0,0.0,0.0
+book=Mystery,Mystery,1040,27625,subordination_sentence_pct,1040,7.542098,11.715231,16.282336
+book=Mystery,Mystery,1040,27625,hedge_sentence_pct,1040,0.577204,1.887841,3.670929
+book=Mystery,Mystery,1040,27625,certainty_sentence_pct,1040,0.0,0.407751,1.66866
+book=Mystery,Mystery,1040,27625,causal_sentence_pct,1040,0.0,1.234568,2.702703
+book=Mystery,Mystery,1040,27625,contrast_sentence_pct,1040,5.849581,9.819994,14.705882
+book=Mystery,Mystery,1040,27625,example_sentence_pct,1040,0.0,0.0,0.0
+book=Mystery,Mystery,1040,27625,reading_experience_sentence_pct,1040,0.0,1.118591,2.380952
+book=Mystery,Mystery,1040,27625,recommendation_sentence_pct,1040,0.0,0.0,1.594936
+book=Mystery,Mystery,1040,27625,plot_description_sentence_pct,1040,0.0,0.0,0.0
+book=Mystery,Mystery,1040,27625,evaluation_sentence_pct,1040,1.091411,2.74601,5.128205
+book=Mystery,Mystery,1040,27625,sd_sentence_words,1040,6.697377,8.176574,10.014552
+book=Mystery,Romance,171,369,words_per_review,171,88.416667,128.5,201.5
+book=Mystery,Romance,171,369,sentences_per_review,171,6.0,9.0,13.0
+book=Mystery,Romance,171,369,paragraphs_per_review,171,1.0,1.0,3.458333
+book=Mystery,Romance,171,369,words_per_paragraph,171,44.0,66.0,104.25
+book=Mystery,Romance,171,369,mean_sentence_words,171,12.707189,14.795455,18.3375
+book=Mystery,Romance,171,369,question_ending_pct,171,0.0,0.0,2.105496
+book=Mystery,Romance,171,369,vocabulary_diversity_20_pct,171,90.0,91.764706,92.894089
+book=Mystery,Romance,171,369,first_singular_per_1000_words,171,16.936189,38.610039,53.812741
+book=Mystery,Romance,171,369,first_plural_per_1000_words,171,0.0,0.0,2.577456
+book=Mystery,Romance,171,369,second_person_per_1000_words,171,0.0,5.617978,16.285665
+book=Mystery,Romance,171,369,contractions_per_1000_words,171,5.655168,13.377926,24.451193
+book=Mystery,Romance,171,369,exclamations_per_1000_words,171,0.0,4.854369,17.467582
+book=Mystery,Romance,171,369,ellipses_per_1000_words,171,0.0,0.0,1.361361
+book=Mystery,Romance,171,369,colons_per_1000_words,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,semicolons_per_1000_words,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,upper_tokens_per_1000_words,171,0.0,1.229256,7.767254
+book=Mystery,Romance,171,369,emphatic_runs_per_1000_words,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,colloquial_tokens_per_1000_words,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,subordination_sentence_pct,171,0.0,11.111111,17.823529
+book=Mystery,Romance,171,369,hedge_sentence_pct,171,0.0,0.0,2.501563
+book=Mystery,Romance,171,369,certainty_sentence_pct,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,causal_sentence_pct,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,contrast_sentence_pct,171,0.0,10.0,20.0
+book=Mystery,Romance,171,369,example_sentence_pct,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,reading_experience_sentence_pct,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,recommendation_sentence_pct,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,plot_description_sentence_pct,171,0.0,0.0,0.0
+book=Mystery,Romance,171,369,evaluation_sentence_pct,171,0.0,0.0,6.339286
+book=Mystery,Romance,171,369,sd_sentence_words,171,5.513481,7.259426,9.474834
+book=Mystery,Science,5,5,words_per_review,5,41.0,74.0,210.0
+book=Mystery,Science,5,5,sentences_per_review,5,3.0,10.0,11.0
+book=Mystery,Science,5,5,paragraphs_per_review,5,1.0,1.0,1.0
+book=Mystery,Science,5,5,words_per_paragraph,5,41.0,74.0,80.4
+book=Mystery,Science,5,5,mean_sentence_words,5,11.0,16.08,19.090909
+book=Mystery,Science,5,5,question_ending_pct,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,vocabulary_diversity_20_pct,5,91.0,91.5,92.5
+book=Mystery,Science,5,5,first_singular_per_1000_words,5,24.390244,24.875622,40.540541
+book=Mystery,Science,5,5,first_plural_per_1000_words,5,0.0,0.0,4.761905
+book=Mystery,Science,5,5,second_person_per_1000_words,5,0.0,2.487562,4.761905
+book=Mystery,Science,5,5,contractions_per_1000_words,5,0.0,0.0,27.363184
+book=Mystery,Science,5,5,exclamations_per_1000_words,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,ellipses_per_1000_words,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,colons_per_1000_words,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,semicolons_per_1000_words,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,upper_tokens_per_1000_words,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,emphatic_runs_per_1000_words,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,colloquial_tokens_per_1000_words,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,subordination_sentence_pct,5,0.0,0.0,8.0
+book=Mystery,Science,5,5,hedge_sentence_pct,5,0.0,0.0,9.090909
+book=Mystery,Science,5,5,certainty_sentence_pct,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,causal_sentence_pct,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,contrast_sentence_pct,5,0.0,18.181818,24.0
+book=Mystery,Science,5,5,example_sentence_pct,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,reading_experience_sentence_pct,5,0.0,0.0,9.090909
+book=Mystery,Science,5,5,recommendation_sentence_pct,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,plot_description_sentence_pct,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,evaluation_sentence_pct,5,0.0,0.0,0.0
+book=Mystery,Science,5,5,sd_sentence_words,5,7.670724,8.177628,11.5
+book=Mystery,Science Fiction,31,54,words_per_review,31,75.5,138.0,229.5
+book=Mystery,Science Fiction,31,54,sentences_per_review,31,5.0,8.0,14.5
+book=Mystery,Science Fiction,31,54,paragraphs_per_review,31,1.0,1.0,3.5
+book=Mystery,Science Fiction,31,54,words_per_paragraph,31,37.25,75.0,129.9
+book=Mystery,Science Fiction,31,54,mean_sentence_words,31,13.169118,17.25,21.45
+book=Mystery,Science Fiction,31,54,question_ending_pct,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,vocabulary_diversity_20_pct,31,90.388889,92.142857,95.0
+book=Mystery,Science Fiction,31,54,first_singular_per_1000_words,31,8.921475,16.870519,35.897436
+book=Mystery,Science Fiction,31,54,first_plural_per_1000_words,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,second_person_per_1000_words,31,0.0,2.108815,11.369509
+book=Mystery,Science Fiction,31,54,contractions_per_1000_words,31,4.389289,12.820513,28.436658
+book=Mystery,Science Fiction,31,54,exclamations_per_1000_words,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,ellipses_per_1000_words,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,colons_per_1000_words,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,semicolons_per_1000_words,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,upper_tokens_per_1000_words,31,0.0,0.0,1.261034
+book=Mystery,Science Fiction,31,54,emphatic_runs_per_1000_words,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,colloquial_tokens_per_1000_words,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,subordination_sentence_pct,31,0.0,13.888889,21.111111
+book=Mystery,Science Fiction,31,54,hedge_sentence_pct,31,0.0,0.0,3.794326
+book=Mystery,Science Fiction,31,54,certainty_sentence_pct,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,causal_sentence_pct,31,0.0,0.0,1.0
+book=Mystery,Science Fiction,31,54,contrast_sentence_pct,31,0.0,11.764706,20.526316
+book=Mystery,Science Fiction,31,54,example_sentence_pct,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,reading_experience_sentence_pct,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,recommendation_sentence_pct,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,plot_description_sentence_pct,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,evaluation_sentence_pct,31,0.0,0.0,0.0
+book=Mystery,Science Fiction,31,54,sd_sentence_words,30,6.180713,7.609431,9.928521
+book=Mystery,Thriller,5175,19772,words_per_review,5175,39.857143,65.333333,118.0
+book=Mystery,Thriller,5175,19772,sentences_per_review,5175,3.333333,5.0,7.375
+book=Mystery,Thriller,5175,19772,paragraphs_per_review,5175,1.0,1.0,1.0
+book=Mystery,Thriller,5175,19772,words_per_paragraph,5175,36.5,53.5,82.0
+book=Mystery,Thriller,5175,19772,mean_sentence_words,5175,11.1,14.0,17.310096
+book=Mystery,Thriller,5175,19772,question_ending_pct,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,vocabulary_diversity_20_pct,5175,90.0,91.666667,93.333333
+book=Mystery,Thriller,5175,19772,first_singular_per_1000_words,5175,16.949153,33.419023,53.512828
+book=Mystery,Thriller,5175,19772,first_plural_per_1000_words,5175,0.0,0.0,0.943248
+book=Mystery,Thriller,5175,19772,second_person_per_1000_words,5175,0.0,3.652968,12.597108
+book=Mystery,Thriller,5175,19772,contractions_per_1000_words,5175,0.0,9.615385,19.80198
+book=Mystery,Thriller,5175,19772,exclamations_per_1000_words,5175,0.0,0.0,7.59975
+book=Mystery,Thriller,5175,19772,ellipses_per_1000_words,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,colons_per_1000_words,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,semicolons_per_1000_words,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,upper_tokens_per_1000_words,5175,0.0,0.0,3.791726
+book=Mystery,Thriller,5175,19772,emphatic_runs_per_1000_words,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,colloquial_tokens_per_1000_words,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,subordination_sentence_pct,5175,0.0,9.090909,16.666667
+book=Mystery,Thriller,5175,19772,hedge_sentence_pct,5175,0.0,0.0,3.030303
+book=Mystery,Thriller,5175,19772,certainty_sentence_pct,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,causal_sentence_pct,5175,0.0,0.0,0.257645
+book=Mystery,Thriller,5175,19772,contrast_sentence_pct,5175,0.0,10.294118,20.0
+book=Mystery,Thriller,5175,19772,example_sentence_pct,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,reading_experience_sentence_pct,5175,0.0,0.0,0.869565
+book=Mystery,Thriller,5175,19772,recommendation_sentence_pct,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,plot_description_sentence_pct,5175,0.0,0.0,0.0
+book=Mystery,Thriller,5175,19772,evaluation_sentence_pct,5175,0.0,0.0,6.25
+book=Mystery,Thriller,5175,19772,sd_sentence_words,5136,5.018964,6.754975,8.814475
+book=Philosophy,ALL,43,111,words_per_review,43,88.5,180.0,337.333333
+book=Philosophy,ALL,43,111,sentences_per_review,43,6.0,9.0,14.833333
+book=Philosophy,ALL,43,111,paragraphs_per_review,43,1.0,1.0,4.708333
+book=Philosophy,ALL,43,111,words_per_paragraph,43,57.0,89.0,131.5
+book=Philosophy,ALL,43,111,mean_sentence_words,43,14.809942,20.0,23.797028
+book=Philosophy,ALL,43,111,question_ending_pct,43,0.0,0.0,6.757991
+book=Philosophy,ALL,43,111,vocabulary_diversity_20_pct,43,90.0,91.153846,92.386364
+book=Philosophy,ALL,43,111,first_singular_per_1000_words,43,7.631875,11.363636,32.45614
+book=Philosophy,ALL,43,111,first_plural_per_1000_words,43,0.0,1.085187,8.691496
+book=Philosophy,ALL,43,111,second_person_per_1000_words,43,0.0,1.90295,6.703837
+book=Philosophy,ALL,43,111,contractions_per_1000_words,43,0.114916,5.524862,11.227105
+book=Philosophy,ALL,43,111,exclamations_per_1000_words,43,0.0,0.0,0.239527
+book=Philosophy,ALL,43,111,ellipses_per_1000_words,43,0.0,0.0,1.782756
+book=Philosophy,ALL,43,111,colons_per_1000_words,43,0.0,1.536098,3.949582
+book=Philosophy,ALL,43,111,semicolons_per_1000_words,43,0.0,0.0,2.627646
+book=Philosophy,ALL,43,111,upper_tokens_per_1000_words,43,0.0,0.0,3.701194
+book=Philosophy,ALL,43,111,emphatic_runs_per_1000_words,43,0.0,0.0,0.0
+book=Philosophy,ALL,43,111,colloquial_tokens_per_1000_words,43,0.0,0.0,0.0
+book=Philosophy,ALL,43,111,subordination_sentence_pct,43,0.0,11.158798,19.112851
+book=Philosophy,ALL,43,111,hedge_sentence_pct,43,0.0,2.272727,6.457297
+book=Philosophy,ALL,43,111,certainty_sentence_pct,43,0.0,0.0,0.0
+book=Philosophy,ALL,43,111,causal_sentence_pct,43,0.0,0.0,5.070603
+book=Philosophy,ALL,43,111,contrast_sentence_pct,43,0.0,12.121212,18.678739
+book=Philosophy,ALL,43,111,example_sentence_pct,43,0.0,0.0,2.307962
+book=Philosophy,ALL,43,111,reading_experience_sentence_pct,43,0.0,0.0,0.0
+book=Philosophy,ALL,43,111,recommendation_sentence_pct,43,0.0,0.0,0.0
+book=Philosophy,ALL,43,111,plot_description_sentence_pct,43,0.0,0.0,0.0
+book=Philosophy,ALL,43,111,evaluation_sentence_pct,43,0.0,0.0,0.0
+book=Philosophy,ALL,43,111,sd_sentence_words,43,7.535248,10.073342,13.551722
+book=Philosophy,Mystery,3,3,words_per_review,3,87.0,129.0,137.0
+book=Philosophy,Mystery,3,3,sentences_per_review,3,7.0,7.0,7.0
+book=Philosophy,Mystery,3,3,paragraphs_per_review,3,1.0,1.0,1.5
+book=Philosophy,Mystery,3,3,words_per_paragraph,3,54.75,64.5,104.75
+book=Philosophy,Mystery,3,3,mean_sentence_words,3,12.428571,18.428571,19.571429
+book=Philosophy,Mystery,3,3,question_ending_pct,3,0.0,0.0,21.428571
+book=Philosophy,Mystery,3,3,vocabulary_diversity_20_pct,3,86.666667,90.833333,91.130952
+book=Philosophy,Mystery,3,3,first_singular_per_1000_words,3,17.669072,27.586207,47.126437
+book=Philosophy,Mystery,3,3,first_plural_per_1000_words,3,14.559387,22.222222,42.118863
+book=Philosophy,Mystery,3,3,second_person_per_1000_words,3,0.0,0.0,3.448276
+book=Philosophy,Mystery,3,3,contractions_per_1000_words,3,0.0,0.0,10.344828
+book=Philosophy,Mystery,3,3,exclamations_per_1000_words,3,0.0,0.0,33.333333
+book=Philosophy,Mystery,3,3,ellipses_per_1000_words,3,0.0,0.0,3.448276
+book=Philosophy,Mystery,3,3,colons_per_1000_words,3,0.0,0.0,3.875969
+book=Philosophy,Mystery,3,3,semicolons_per_1000_words,3,0.0,0.0,3.875969
+book=Philosophy,Mystery,3,3,upper_tokens_per_1000_words,3,0.0,0.0,3.875969
+book=Philosophy,Mystery,3,3,emphatic_runs_per_1000_words,3,0.0,0.0,11.111111
+book=Philosophy,Mystery,3,3,colloquial_tokens_per_1000_words,3,0.0,0.0,0.0
+book=Philosophy,Mystery,3,3,subordination_sentence_pct,3,0.0,0.0,7.142857
+book=Philosophy,Mystery,3,3,hedge_sentence_pct,3,7.142857,14.285714,14.285714
+book=Philosophy,Mystery,3,3,certainty_sentence_pct,3,0.0,0.0,0.0
+book=Philosophy,Mystery,3,3,causal_sentence_pct,3,0.0,0.0,7.142857
+book=Philosophy,Mystery,3,3,contrast_sentence_pct,3,0.0,0.0,0.0
+book=Philosophy,Mystery,3,3,example_sentence_pct,3,0.0,0.0,0.0
+book=Philosophy,Mystery,3,3,reading_experience_sentence_pct,3,0.0,0.0,0.0
+book=Philosophy,Mystery,3,3,recommendation_sentence_pct,3,0.0,0.0,0.0
+book=Philosophy,Mystery,3,3,plot_description_sentence_pct,3,0.0,0.0,0.0
+book=Philosophy,Mystery,3,3,evaluation_sentence_pct,3,0.0,0.0,0.0
+book=Philosophy,Mystery,3,3,sd_sentence_words,3,7.006801,9.48253,11.070658
+book=Philosophy,Philosophy,15,81,words_per_review,15,252.083333,305.333333,367.791667
+book=Philosophy,Philosophy,15,81,sentences_per_review,15,9.97619,12.333333,16.291667
+book=Philosophy,Philosophy,15,81,paragraphs_per_review,15,1.238095,2.0,4.708333
+book=Philosophy,Philosophy,15,81,words_per_paragraph,15,75.585965,102.545455,205.65625
+book=Philosophy,Philosophy,15,81,mean_sentence_words,15,20.223082,23.886364,27.335227
+book=Philosophy,Philosophy,15,81,question_ending_pct,15,1.861555,3.076923,6.597362
+book=Philosophy,Philosophy,15,81,vocabulary_diversity_20_pct,15,90.337988,91.232558,91.694444
+book=Philosophy,Philosophy,15,81,first_singular_per_1000_words,15,7.059727,9.198423,10.691627
+book=Philosophy,Philosophy,15,81,first_plural_per_1000_words,15,0.939051,2.628121,7.427521
+book=Philosophy,Philosophy,15,81,second_person_per_1000_words,15,1.526055,2.367601,5.883682
+book=Philosophy,Philosophy,15,81,contractions_per_1000_words,15,0.822665,2.628121,5.736362
+book=Philosophy,Philosophy,15,81,exclamations_per_1000_words,15,0.0,0.0,0.457279
+book=Philosophy,Philosophy,15,81,ellipses_per_1000_words,15,0.0,0.459664,1.997459
+book=Philosophy,Philosophy,15,81,colons_per_1000_words,15,1.775837,2.854424,5.524066
+book=Philosophy,Philosophy,15,81,semicolons_per_1000_words,15,0.448833,2.170374,2.768831
+book=Philosophy,Philosophy,15,81,upper_tokens_per_1000_words,15,0.511138,1.10011,9.985298
+book=Philosophy,Philosophy,15,81,emphatic_runs_per_1000_words,15,0.0,0.0,0.0
+book=Philosophy,Philosophy,15,81,colloquial_tokens_per_1000_words,15,0.0,0.0,0.0
+book=Philosophy,Philosophy,15,81,subordination_sentence_pct,15,10.194784,13.513514,19.507576
+book=Philosophy,Philosophy,15,81,hedge_sentence_pct,15,1.168099,3.030303,5.28891
+book=Philosophy,Philosophy,15,81,certainty_sentence_pct,15,0.0,0.0,1.36212
+book=Philosophy,Philosophy,15,81,causal_sentence_pct,15,0.694444,3.004292,5.661882
+book=Philosophy,Philosophy,15,81,contrast_sentence_pct,15,10.402848,13.793103,18.182707
+book=Philosophy,Philosophy,15,81,example_sentence_pct,15,0.0,2.040816,2.923602
+book=Philosophy,Philosophy,15,81,reading_experience_sentence_pct,15,0.0,0.0,1.291254
+book=Philosophy,Philosophy,15,81,recommendation_sentence_pct,15,0.0,0.0,1.127948
+book=Philosophy,Philosophy,15,81,plot_description_sentence_pct,15,0.0,0.0,0.0
+book=Philosophy,Philosophy,15,81,evaluation_sentence_pct,15,0.0,0.0,0.0
+book=Philosophy,Philosophy,15,81,sd_sentence_words,15,11.312585,12.843263,15.408908
+book=Philosophy,Science,8,10,words_per_review,8,192.75,416.0,553.125
+book=Philosophy,Science,8,10,sentences_per_review,8,9.0,16.0,24.0
+book=Philosophy,Science,8,10,paragraphs_per_review,8,1.0,5.0,5.375
+book=Philosophy,Science,8,10,words_per_paragraph,8,86.119231,100.688235,149.0
+book=Philosophy,Science,8,10,mean_sentence_words,8,17.027056,20.849315,25.8375
+book=Philosophy,Science,8,10,question_ending_pct,8,7.962329,9.307359,11.458333
+book=Philosophy,Science,8,10,vocabulary_diversity_20_pct,8,89.935897,90.632184,92.152778
+book=Philosophy,Science,8,10,first_singular_per_1000_words,8,9.52261,12.064797,34.242144
+book=Philosophy,Science,8,10,first_plural_per_1000_words,8,3.191489,9.179677,16.720439
+book=Philosophy,Science,8,10,second_person_per_1000_words,8,0.0,3.824012,5.686806
+book=Philosophy,Science,8,10,contractions_per_1000_words,8,0.94697,5.95392,8.411741
+book=Philosophy,Science,8,10,exclamations_per_1000_words,8,0.0,0.0,0.0
+book=Philosophy,Science,8,10,ellipses_per_1000_words,8,0.0,0.848176,3.773639
+book=Philosophy,Science,8,10,colons_per_1000_words,8,0.0,2.620567,6.046366
+book=Philosophy,Science,8,10,semicolons_per_1000_words,8,0.0,1.06383,5.552905
+book=Philosophy,Science,8,10,upper_tokens_per_1000_words,8,0.0,0.0,0.157828
+book=Philosophy,Science,8,10,emphatic_runs_per_1000_words,8,0.0,0.0,0.0
+book=Philosophy,Science,8,10,colloquial_tokens_per_1000_words,8,0.0,0.0,0.0
+book=Philosophy,Science,8,10,subordination_sentence_pct,8,16.414141,19.112851,24.375
+book=Philosophy,Science,8,10,hedge_sentence_pct,8,0.0,3.304795,10.38961
+book=Philosophy,Science,8,10,certainty_sentence_pct,8,0.0,0.0,1.25
+book=Philosophy,Science,8,10,causal_sentence_pct,8,0.0,4.400166,11.458333
+book=Philosophy,Science,8,10,contrast_sentence_pct,8,8.333333,17.310087,20.535714
+book=Philosophy,Science,8,10,example_sentence_pct,8,0.0,0.0,4.272668
+book=Philosophy,Science,8,10,reading_experience_sentence_pct,8,0.0,0.0,0.0
+book=Philosophy,Science,8,10,recommendation_sentence_pct,8,0.0,0.0,0.625
+book=Philosophy,Science,8,10,plot_description_sentence_pct,8,0.0,0.0,0.0
+book=Philosophy,Science,8,10,evaluation_sentence_pct,8,0.0,0.0,0.0
+book=Philosophy,Science,8,10,sd_sentence_words,8,8.892849,12.518715,15.881783
+book=Philosophy,Thriller,17,17,words_per_review,17,48.0,88.0,121.0
+book=Philosophy,Thriller,17,17,sentences_per_review,17,4.0,6.0,9.0
+book=Philosophy,Thriller,17,17,paragraphs_per_review,17,1.0,1.0,1.0
+book=Philosophy,Thriller,17,17,words_per_paragraph,17,45.0,60.0,89.0
+book=Philosophy,Thriller,17,17,mean_sentence_words,17,11.25,14.444444,18.0
+book=Philosophy,Thriller,17,17,question_ending_pct,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,vocabulary_diversity_20_pct,17,90.833333,91.666667,95.0
+book=Philosophy,Thriller,17,17,first_singular_per_1000_words,17,7.407407,27.777778,79.545455
+book=Philosophy,Thriller,17,17,first_plural_per_1000_words,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,second_person_per_1000_words,17,0.0,0.0,14.814815
+book=Philosophy,Thriller,17,17,contractions_per_1000_words,17,0.0,11.363636,20.833333
+book=Philosophy,Thriller,17,17,exclamations_per_1000_words,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,ellipses_per_1000_words,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,colons_per_1000_words,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,semicolons_per_1000_words,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,upper_tokens_per_1000_words,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,emphatic_runs_per_1000_words,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,colloquial_tokens_per_1000_words,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,subordination_sentence_pct,17,0.0,0.0,11.111111
+book=Philosophy,Thriller,17,17,hedge_sentence_pct,17,0.0,0.0,3.571429
+book=Philosophy,Thriller,17,17,certainty_sentence_pct,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,causal_sentence_pct,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,contrast_sentence_pct,17,0.0,0.0,22.222222
+book=Philosophy,Thriller,17,17,example_sentence_pct,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,reading_experience_sentence_pct,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,recommendation_sentence_pct,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,plot_description_sentence_pct,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,evaluation_sentence_pct,17,0.0,0.0,0.0
+book=Philosophy,Thriller,17,17,sd_sentence_words,17,5.366563,7.393691,8.642416
+book=Romance,ALL,2418,24970,words_per_review,2418,85.0625,141.708333,222.09375
+book=Romance,ALL,2418,24970,sentences_per_review,2418,6.0,9.25,14.0
+book=Romance,ALL,2418,24970,paragraphs_per_review,2418,1.0,1.666667,3.444444
+book=Romance,ALL,2418,24970,words_per_paragraph,2418,47.82197,67.242647,100.0
+book=Romance,ALL,2418,24970,mean_sentence_words,2418,12.43684,14.761983,17.620265
+book=Romance,ALL,2418,24970,question_ending_pct,2418,0.0,0.80973,3.917739
+book=Romance,ALL,2418,24970,vocabulary_diversity_20_pct,2418,90.625,91.785714,92.731818
+book=Romance,ALL,2418,24970,first_singular_per_1000_words,2418,21.229137,34.188791,49.971467
+book=Romance,ALL,2418,24970,first_plural_per_1000_words,2418,0.0,0.91408,3.365589
+book=Romance,ALL,2418,24970,second_person_per_1000_words,2418,2.093147,6.747002,13.351374
+book=Romance,ALL,2418,24970,contractions_per_1000_words,2418,6.053729,12.686183,19.94302
+book=Romance,ALL,2418,24970,exclamations_per_1000_words,2418,0.0,5.109102,15.958644
+book=Romance,ALL,2418,24970,ellipses_per_1000_words,2418,0.0,0.0,1.983881
+book=Romance,ALL,2418,24970,colons_per_1000_words,2418,0.0,0.0,0.380566
+book=Romance,ALL,2418,24970,semicolons_per_1000_words,2418,0.0,0.0,0.0
+book=Romance,ALL,2418,24970,upper_tokens_per_1000_words,2418,0.0,3.124687,7.494848
+book=Romance,ALL,2418,24970,emphatic_runs_per_1000_words,2418,0.0,0.0,1.402772
+book=Romance,ALL,2418,24970,colloquial_tokens_per_1000_words,2418,0.0,0.0,0.090152
+book=Romance,ALL,2418,24970,subordination_sentence_pct,2418,7.142857,12.5,17.54386
+book=Romance,ALL,2418,24970,hedge_sentence_pct,2418,0.0,0.508909,2.531646
+book=Romance,ALL,2418,24970,certainty_sentence_pct,2418,0.0,0.0,2.020202
+book=Romance,ALL,2418,24970,causal_sentence_pct,2418,0.0,0.840336,3.125
+book=Romance,ALL,2418,24970,contrast_sentence_pct,2418,6.015152,11.111111,16.666667
+book=Romance,ALL,2418,24970,example_sentence_pct,2418,0.0,0.0,0.0
+book=Romance,ALL,2418,24970,reading_experience_sentence_pct,2418,0.0,0.0,1.862632
+book=Romance,ALL,2418,24970,recommendation_sentence_pct,2418,0.0,0.0,1.282051
+book=Romance,ALL,2418,24970,plot_description_sentence_pct,2418,0.0,0.0,0.0
+book=Romance,ALL,2418,24970,evaluation_sentence_pct,2418,0.0,2.941176,6.700795
+book=Romance,ALL,2418,24970,sd_sentence_words,2412,6.08507,7.60315,9.489583
+book=Romance,Fantasy,31,80,words_per_review,31,86.3125,173.0,251.277778
+book=Romance,Fantasy,31,80,sentences_per_review,31,4.708333,7.666667,15.0
+book=Romance,Fantasy,31,80,paragraphs_per_review,31,1.0,1.125,2.638889
+book=Romance,Fantasy,31,80,words_per_paragraph,31,57.833333,81.444444,112.5
+book=Romance,Fantasy,31,80,mean_sentence_words,31,13.485315,16.77037,21.025
+book=Romance,Fantasy,31,80,question_ending_pct,31,0.0,0.0,0.0
+book=Romance,Fantasy,31,80,vocabulary_diversity_20_pct,31,90.333333,91.785714,93.535539
+book=Romance,Fantasy,31,80,first_singular_per_1000_words,31,27.802668,47.619048,62.660989
+book=Romance,Fantasy,31,80,first_plural_per_1000_words,31,0.0,0.0,4.623927
+book=Romance,Fantasy,31,80,second_person_per_1000_words,31,0.0,6.136314,11.43434
+book=Romance,Fantasy,31,80,contractions_per_1000_words,31,7.427056,11.520737,20.883648
+book=Romance,Fantasy,31,80,exclamations_per_1000_words,31,2.522432,6.472492,16.565257
+book=Romance,Fantasy,31,80,ellipses_per_1000_words,31,0.0,0.0,2.994119
+book=Romance,Fantasy,31,80,colons_per_1000_words,31,0.0,0.0,0.328731
+book=Romance,Fantasy,31,80,semicolons_per_1000_words,31,0.0,0.0,0.0
+book=Romance,Fantasy,31,80,upper_tokens_per_1000_words,31,0.0,2.016129,3.60225
+book=Romance,Fantasy,31,80,emphatic_runs_per_1000_words,31,0.0,0.0,0.0
+book=Romance,Fantasy,31,80,colloquial_tokens_per_1000_words,31,0.0,0.0,0.0
+book=Romance,Fantasy,31,80,subordination_sentence_pct,31,7.692308,13.636364,21.111111
+book=Romance,Fantasy,31,80,hedge_sentence_pct,31,0.0,0.0,0.0
+book=Romance,Fantasy,31,80,certainty_sentence_pct,31,0.0,0.0,1.279461
+book=Romance,Fantasy,31,80,causal_sentence_pct,31,0.0,0.0,5.409357
+book=Romance,Fantasy,31,80,contrast_sentence_pct,31,4.180791,11.111111,21.153846
+book=Romance,Fantasy,31,80,example_sentence_pct,31,0.0,0.0,0.0
+book=Romance,Fantasy,31,80,reading_experience_sentence_pct,31,0.0,0.0,0.824916
+book=Romance,Fantasy,31,80,recommendation_sentence_pct,31,0.0,0.0,0.0
+book=Romance,Fantasy,31,80,plot_description_sentence_pct,31,0.0,0.0,0.0
+book=Romance,Fantasy,31,80,evaluation_sentence_pct,31,0.0,0.0,5.658915
+book=Romance,Fantasy,31,80,sd_sentence_words,31,5.274867,7.480575,9.474469
+book=Romance,Mystery,113,184,words_per_review,113,57.75,99.5,181.0
+book=Romance,Mystery,113,184,sentences_per_review,113,5.0,7.0,11.0
+book=Romance,Mystery,113,184,paragraphs_per_review,113,1.0,2.0,2.6
+book=Romance,Mystery,113,184,words_per_paragraph,113,37.5,55.181818,79.333333
+book=Romance,Mystery,113,184,mean_sentence_words,113,11.714286,14.636364,18.0
+book=Romance,Mystery,113,184,question_ending_pct,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,vocabulary_diversity_20_pct,113,90.0,91.666667,93.125
+book=Romance,Mystery,113,184,first_singular_per_1000_words,113,15.037594,33.333333,53.333333
+book=Romance,Mystery,113,184,first_plural_per_1000_words,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,second_person_per_1000_words,113,0.0,1.901141,7.518797
+book=Romance,Mystery,113,184,contractions_per_1000_words,113,0.0,8.333333,20.618557
+book=Romance,Mystery,113,184,exclamations_per_1000_words,113,0.0,0.0,8.264463
+book=Romance,Mystery,113,184,ellipses_per_1000_words,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,colons_per_1000_words,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,semicolons_per_1000_words,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,upper_tokens_per_1000_words,113,0.0,0.0,3.436426
+book=Romance,Mystery,113,184,emphatic_runs_per_1000_words,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,colloquial_tokens_per_1000_words,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,subordination_sentence_pct,113,0.0,11.627907,20.0
+book=Romance,Mystery,113,184,hedge_sentence_pct,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,certainty_sentence_pct,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,causal_sentence_pct,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,contrast_sentence_pct,113,0.0,7.272727,17.647059
+book=Romance,Mystery,113,184,example_sentence_pct,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,reading_experience_sentence_pct,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,recommendation_sentence_pct,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,plot_description_sentence_pct,113,0.0,0.0,0.0
+book=Romance,Mystery,113,184,evaluation_sentence_pct,113,0.0,0.0,7.142857
+book=Romance,Mystery,113,184,sd_sentence_words,111,5.239679,6.5,8.006037
+book=Romance,Romance,1252,21610,words_per_review,1252,116.477041,170.196078,247.028409
+book=Romance,Romance,1252,21610,sentences_per_review,1252,7.75,11.0,15.4375
+book=Romance,Romance,1252,21610,paragraphs_per_review,1252,1.1,2.2,4.0
+book=Romance,Romance,1252,21610,words_per_paragraph,1252,51.1,70.431248,104.534457
+book=Romance,Romance,1252,21610,mean_sentence_words,1252,12.915133,15.206912,17.682043
+book=Romance,Romance,1252,21610,question_ending_pct,1252,0.0,1.892163,4.328387
+book=Romance,Romance,1252,21610,vocabulary_diversity_20_pct,1252,90.966191,91.810345,92.5
+book=Romance,Romance,1252,21610,first_singular_per_1000_words,1252,22.014324,33.515769,46.459856
+book=Romance,Romance,1252,21610,first_plural_per_1000_words,1252,0.654638,1.8295,3.914661
+book=Romance,Romance,1252,21610,second_person_per_1000_words,1252,4.105089,7.920823,13.278025
+book=Romance,Romance,1252,21610,contractions_per_1000_words,1252,8.291699,13.862321,19.700996
+book=Romance,Romance,1252,21610,exclamations_per_1000_words,1252,1.824742,6.866073,16.822798
+book=Romance,Romance,1252,21610,ellipses_per_1000_words,1252,0.0,0.766009,2.497834
+book=Romance,Romance,1252,21610,colons_per_1000_words,1252,0.0,0.0,0.839994
+book=Romance,Romance,1252,21610,semicolons_per_1000_words,1252,0.0,0.0,0.440822
+book=Romance,Romance,1252,21610,upper_tokens_per_1000_words,1252,1.857155,4.192891,8.163274
+book=Romance,Romance,1252,21610,emphatic_runs_per_1000_words,1252,0.0,0.398645,2.16388
+book=Romance,Romance,1252,21610,colloquial_tokens_per_1000_words,1252,0.0,0.0,0.661631
+book=Romance,Romance,1252,21610,subordination_sentence_pct,1252,9.283841,13.142923,17.142857
+book=Romance,Romance,1252,21610,hedge_sentence_pct,1252,0.0,1.444062,2.717133
+book=Romance,Romance,1252,21610,certainty_sentence_pct,1252,0.0,1.030928,2.346048
+book=Romance,Romance,1252,21610,causal_sentence_pct,1252,0.383881,1.811869,3.539823
+book=Romance,Romance,1252,21610,contrast_sentence_pct,1252,8.202817,11.684397,16.140892
+book=Romance,Romance,1252,21610,example_sentence_pct,1252,0.0,0.0,0.0
+book=Romance,Romance,1252,21610,reading_experience_sentence_pct,1252,0.0,0.961538,2.078341
+book=Romance,Romance,1252,21610,recommendation_sentence_pct,1252,0.0,0.42735,1.666667
+book=Romance,Romance,1252,21610,plot_description_sentence_pct,1252,0.0,0.0,0.205516
+book=Romance,Romance,1252,21610,evaluation_sentence_pct,1252,1.666667,3.508772,6.382979
+book=Romance,Romance,1252,21610,sd_sentence_words,1252,6.788545,8.164118,9.890857
+book=Romance,Science,1,1,words_per_review,1,68.0,68.0,68.0
+book=Romance,Science,1,1,sentences_per_review,1,5.0,5.0,5.0
+book=Romance,Science,1,1,paragraphs_per_review,1,1.0,1.0,1.0
+book=Romance,Science,1,1,words_per_paragraph,1,68.0,68.0,68.0
+book=Romance,Science,1,1,mean_sentence_words,1,13.6,13.6,13.6
+book=Romance,Science,1,1,question_ending_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,vocabulary_diversity_20_pct,1,90.0,90.0,90.0
+book=Romance,Science,1,1,first_singular_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,first_plural_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,second_person_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,contractions_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,exclamations_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,ellipses_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,colons_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,semicolons_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,upper_tokens_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,emphatic_runs_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,colloquial_tokens_per_1000_words,1,0.0,0.0,0.0
+book=Romance,Science,1,1,subordination_sentence_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,hedge_sentence_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,certainty_sentence_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,causal_sentence_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,contrast_sentence_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,example_sentence_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,reading_experience_sentence_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,recommendation_sentence_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,plot_description_sentence_pct,1,20.0,20.0,20.0
+book=Romance,Science,1,1,evaluation_sentence_pct,1,0.0,0.0,0.0
+book=Romance,Science,1,1,sd_sentence_words,1,6.651316,6.651316,6.651316
+book=Romance,Science Fiction,11,17,words_per_review,11,93.0,181.0,247.5
+book=Romance,Science Fiction,11,17,sentences_per_review,11,4.5,13.0,15.0
+book=Romance,Science Fiction,11,17,paragraphs_per_review,11,1.0,1.0,3.875
+book=Romance,Science Fiction,11,17,words_per_paragraph,11,51.3,73.0,143.5
+book=Romance,Science Fiction,11,17,mean_sentence_words,11,14.425,15.2,19.7838
+book=Romance,Science Fiction,11,17,question_ending_pct,11,0.0,0.0,6.666667
+book=Romance,Science Fiction,11,17,vocabulary_diversity_20_pct,11,90.604396,92.777778,93.652597
+book=Romance,Science Fiction,11,17,first_singular_per_1000_words,11,17.355886,22.767075,26.970049
+book=Romance,Science Fiction,11,17,first_plural_per_1000_words,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,second_person_per_1000_words,11,0.0,0.0,12.010336
+book=Romance,Science Fiction,11,17,contractions_per_1000_words,11,0.860585,4.385965,15.580648
+book=Romance,Science Fiction,11,17,exclamations_per_1000_words,11,0.0,0.0,7.148396
+book=Romance,Science Fiction,11,17,ellipses_per_1000_words,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,colons_per_1000_words,11,0.0,0.0,0.860585
+book=Romance,Science Fiction,11,17,semicolons_per_1000_words,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,upper_tokens_per_1000_words,11,0.0,0.0,5.261622
+book=Romance,Science Fiction,11,17,emphatic_runs_per_1000_words,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,colloquial_tokens_per_1000_words,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,subordination_sentence_pct,11,1.923077,11.363636,19.090909
+book=Romance,Science Fiction,11,17,hedge_sentence_pct,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,certainty_sentence_pct,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,causal_sentence_pct,11,0.0,0.0,3.059441
+book=Romance,Science Fiction,11,17,contrast_sentence_pct,11,3.333333,9.090909,17.692308
+book=Romance,Science Fiction,11,17,example_sentence_pct,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,reading_experience_sentence_pct,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,recommendation_sentence_pct,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,plot_description_sentence_pct,11,0.0,0.0,0.0
+book=Romance,Science Fiction,11,17,evaluation_sentence_pct,11,0.0,0.0,5.606061
+book=Romance,Science Fiction,11,17,sd_sentence_words,11,6.596836,8.461078,12.170102
+book=Romance,Thriller,1012,3086,words_per_review,1012,63.916667,105.666667,183.1875
+book=Romance,Thriller,1012,3086,sentences_per_review,1012,5.0,7.666667,11.756944
+book=Romance,Thriller,1012,3086,paragraphs_per_review,1012,1.0,1.0,2.666667
+book=Romance,Thriller,1012,3086,words_per_paragraph,1012,44.305556,64.0,96.34734
+book=Romance,Thriller,1012,3086,mean_sentence_words,1012,11.623162,14.258333,17.430804
+book=Romance,Thriller,1012,3086,question_ending_pct,1012,0.0,0.0,2.784268
+book=Romance,Thriller,1012,3086,vocabulary_diversity_20_pct,1012,90.0,91.703337,93.181818
+book=Romance,Thriller,1012,3086,first_singular_per_1000_words,1012,20.253208,35.04386,54.97769
+book=Romance,Thriller,1012,3086,first_plural_per_1000_words,1012,0.0,0.0,2.029466
+book=Romance,Thriller,1012,3086,second_person_per_1000_words,1012,0.0,5.125578,13.860034
+book=Romance,Thriller,1012,3086,contractions_per_1000_words,1012,2.729784,11.20457,20.363669
+book=Romance,Thriller,1012,3086,exclamations_per_1000_words,1012,0.0,3.036589,14.56779
+book=Romance,Thriller,1012,3086,ellipses_per_1000_words,1012,0.0,0.0,0.0
+book=Romance,Thriller,1012,3086,colons_per_1000_words,1012,0.0,0.0,0.0
+book=Romance,Thriller,1012,3086,semicolons_per_1000_words,1012,0.0,0.0,0.0
+book=Romance,Thriller,1012,3086,upper_tokens_per_1000_words,1012,0.0,0.712157,6.79123
+book=Romance,Thriller,1012,3086,emphatic_runs_per_1000_words,1012,0.0,0.0,0.0
+book=Romance,Thriller,1012,3086,colloquial_tokens_per_1000_words,1012,0.0,0.0,0.0
+book=Romance,Thriller,1012,3086,subordination_sentence_pct,1012,0.0,10.676292,18.181818
+book=Romance,Thriller,1012,3086,hedge_sentence_pct,1012,0.0,0.0,1.593702
+book=Romance,Thriller,1012,3086,certainty_sentence_pct,1012,0.0,0.0,0.846239
+book=Romance,Thriller,1012,3086,causal_sentence_pct,1012,0.0,0.0,2.12766
+book=Romance,Thriller,1012,3086,contrast_sentence_pct,1012,0.0,10.0,17.278861
+book=Romance,Thriller,1012,3086,example_sentence_pct,1012,0.0,0.0,0.0
+book=Romance,Thriller,1012,3086,reading_experience_sentence_pct,1012,0.0,0.0,0.930294
+book=Romance,Thriller,1012,3086,recommendation_sentence_pct,1012,0.0,0.0,0.0
+book=Romance,Thriller,1012,3086,plot_description_sentence_pct,1012,0.0,0.0,0.0
+book=Romance,Thriller,1012,3086,evaluation_sentence_pct,1012,0.0,1.593651,8.0
+book=Romance,Thriller,1012,3086,sd_sentence_words,1008,5.274988,6.810569,8.909445
+book=Science,ALL,478,2253,words_per_review,478,66.0,147.1875,262.020833
+book=Science,ALL,478,2253,sentences_per_review,478,4.0,7.666667,12.458333
+book=Science,ALL,478,2253,paragraphs_per_review,478,1.0,1.105556,3.0
+book=Science,ALL,478,2253,words_per_paragraph,478,48.0,73.25,114.047619
+book=Science,ALL,478,2253,mean_sentence_words,478,14.514946,18.5,22.117712
+book=Science,ALL,478,2253,question_ending_pct,478,0.0,0.0,1.500954
+book=Science,ALL,478,2253,vocabulary_diversity_20_pct,478,90.0,91.666667,93.0
+book=Science,ALL,478,2253,first_singular_per_1000_words,478,9.211242,20.408163,38.798264
+book=Science,ALL,478,2253,first_plural_per_1000_words,478,0.0,1.062038,5.332279
+book=Science,ALL,478,2253,second_person_per_1000_words,478,0.0,3.42173,9.704034
+book=Science,ALL,478,2253,contractions_per_1000_words,478,0.0,4.728159,13.683064
+book=Science,ALL,478,2253,exclamations_per_1000_words,478,0.0,0.0,2.989164
+book=Science,ALL,478,2253,ellipses_per_1000_words,478,0.0,0.0,0.549234
+book=Science,ALL,478,2253,colons_per_1000_words,478,0.0,0.0,2.612182
+book=Science,ALL,478,2253,semicolons_per_1000_words,478,0.0,0.0,1.091009
+book=Science,ALL,478,2253,upper_tokens_per_1000_words,478,0.0,0.886134,4.56361
+book=Science,ALL,478,2253,emphatic_runs_per_1000_words,478,0.0,0.0,0.0
+book=Science,ALL,478,2253,colloquial_tokens_per_1000_words,478,0.0,0.0,0.0
+book=Science,ALL,478,2253,subordination_sentence_pct,478,0.0,12.026487,20.0
+book=Science,ALL,478,2253,hedge_sentence_pct,478,0.0,1.724651,5.992537
+book=Science,ALL,478,2253,certainty_sentence_pct,478,0.0,0.0,0.692643
+book=Science,ALL,478,2253,causal_sentence_pct,478,0.0,0.0,2.848393
+book=Science,ALL,478,2253,contrast_sentence_pct,478,2.963458,13.302579,20.825
+book=Science,ALL,478,2253,example_sentence_pct,478,0.0,0.0,2.105949
+book=Science,ALL,478,2253,reading_experience_sentence_pct,478,0.0,0.0,0.0
+book=Science,ALL,478,2253,recommendation_sentence_pct,478,0.0,0.0,1.072949
+book=Science,ALL,478,2253,plot_description_sentence_pct,478,0.0,0.0,0.0
+book=Science,ALL,478,2253,evaluation_sentence_pct,478,0.0,0.0,1.496241
+book=Science,ALL,478,2253,sd_sentence_words,473,6.815016,9.283518,11.701888
+book=Science,Fantasy,5,6,words_per_review,5,132.0,173.5,232.0
+book=Science,Fantasy,5,6,sentences_per_review,5,5.0,10.0,11.0
+book=Science,Fantasy,5,6,paragraphs_per_review,5,1.0,2.0,3.5
+book=Science,Fantasy,5,6,words_per_paragraph,5,58.0,107.0,128.5
+book=Science,Fantasy,5,6,mean_sentence_words,5,19.769231,21.4,23.2
+book=Science,Fantasy,5,6,question_ending_pct,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,vocabulary_diversity_20_pct,5,91.25,92.916667,93.0
+book=Science,Fantasy,5,6,first_singular_per_1000_words,5,27.237354,37.878788,47.413793
+book=Science,Fantasy,5,6,first_plural_per_1000_words,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,second_person_per_1000_words,5,0.0,2.881844,3.891051
+book=Science,Fantasy,5,6,contractions_per_1000_words,5,9.345794,11.527378,11.673152
+book=Science,Fantasy,5,6,exclamations_per_1000_words,5,0.0,0.0,5.763689
+book=Science,Fantasy,5,6,ellipses_per_1000_words,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,colons_per_1000_words,5,0.0,0.0,7.575758
+book=Science,Fantasy,5,6,semicolons_per_1000_words,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,upper_tokens_per_1000_words,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,emphatic_runs_per_1000_words,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,colloquial_tokens_per_1000_words,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,subordination_sentence_pct,5,10.0,22.727273,23.076923
+book=Science,Fantasy,5,6,hedge_sentence_pct,5,0.0,0.0,20.0
+book=Science,Fantasy,5,6,certainty_sentence_pct,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,causal_sentence_pct,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,contrast_sentence_pct,5,0.0,13.636364,30.769231
+book=Science,Fantasy,5,6,example_sentence_pct,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,reading_experience_sentence_pct,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,recommendation_sentence_pct,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,plot_description_sentence_pct,5,0.0,0.0,0.0
+book=Science,Fantasy,5,6,evaluation_sentence_pct,5,0.0,9.090909,10.0
+book=Science,Fantasy,5,6,sd_sentence_words,5,8.553362,9.978082,10.173495
+book=Science,Mystery,18,24,words_per_review,18,53.0,101.833333,205.75
+book=Science,Mystery,18,24,sentences_per_review,18,4.0,7.0,11.333333
+book=Science,Mystery,18,24,paragraphs_per_review,18,1.0,1.0,2.0
+book=Science,Mystery,18,24,words_per_paragraph,18,48.75,61.0,74.75
+book=Science,Mystery,18,24,mean_sentence_words,18,14.831731,15.62963,19.53125
+book=Science,Mystery,18,24,question_ending_pct,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,vocabulary_diversity_20_pct,18,89.821429,92.083333,94.404762
+book=Science,Mystery,18,24,first_singular_per_1000_words,18,15.002838,30.842006,58.622767
+book=Science,Mystery,18,24,first_plural_per_1000_words,18,0.0,1.103753,16.667501
+book=Science,Mystery,18,24,second_person_per_1000_words,18,0.0,0.0,8.346654
+book=Science,Mystery,18,24,contractions_per_1000_words,18,0.0,3.67428,13.461538
+book=Science,Mystery,18,24,exclamations_per_1000_words,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,ellipses_per_1000_words,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,colons_per_1000_words,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,semicolons_per_1000_words,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,upper_tokens_per_1000_words,18,0.0,0.0,1.973684
+book=Science,Mystery,18,24,emphatic_runs_per_1000_words,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,colloquial_tokens_per_1000_words,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,subordination_sentence_pct,18,0.0,0.0,14.285714
+book=Science,Mystery,18,24,hedge_sentence_pct,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,certainty_sentence_pct,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,causal_sentence_pct,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,contrast_sentence_pct,18,0.0,10.096154,25.0
+book=Science,Mystery,18,24,example_sentence_pct,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,reading_experience_sentence_pct,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,recommendation_sentence_pct,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,plot_description_sentence_pct,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,evaluation_sentence_pct,18,0.0,0.0,0.0
+book=Science,Mystery,18,24,sd_sentence_words,17,7.088018,7.648529,10.427994
+book=Science,Philosophy,1,1,words_per_review,1,203.0,203.0,203.0
+book=Science,Philosophy,1,1,sentences_per_review,1,11.0,11.0,11.0
+book=Science,Philosophy,1,1,paragraphs_per_review,1,6.0,6.0,6.0
+book=Science,Philosophy,1,1,words_per_paragraph,1,33.833333,33.833333,33.833333
+book=Science,Philosophy,1,1,mean_sentence_words,1,18.454545,18.454545,18.454545
+book=Science,Philosophy,1,1,question_ending_pct,1,9.090909,9.090909,9.090909
+book=Science,Philosophy,1,1,vocabulary_diversity_20_pct,1,90.5,90.5,90.5
+book=Science,Philosophy,1,1,first_singular_per_1000_words,1,9.852217,9.852217,9.852217
+book=Science,Philosophy,1,1,first_plural_per_1000_words,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,second_person_per_1000_words,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,contractions_per_1000_words,1,4.926108,4.926108,4.926108
+book=Science,Philosophy,1,1,exclamations_per_1000_words,1,4.926108,4.926108,4.926108
+book=Science,Philosophy,1,1,ellipses_per_1000_words,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,colons_per_1000_words,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,semicolons_per_1000_words,1,4.926108,4.926108,4.926108
+book=Science,Philosophy,1,1,upper_tokens_per_1000_words,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,emphatic_runs_per_1000_words,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,colloquial_tokens_per_1000_words,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,subordination_sentence_pct,1,9.090909,9.090909,9.090909
+book=Science,Philosophy,1,1,hedge_sentence_pct,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,certainty_sentence_pct,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,causal_sentence_pct,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,contrast_sentence_pct,1,9.090909,9.090909,9.090909
+book=Science,Philosophy,1,1,example_sentence_pct,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,reading_experience_sentence_pct,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,recommendation_sentence_pct,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,plot_description_sentence_pct,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,evaluation_sentence_pct,1,0.0,0.0,0.0
+book=Science,Philosophy,1,1,sd_sentence_words,1,14.568731,14.568731,14.568731
+book=Science,Romance,1,1,words_per_review,1,31.0,31.0,31.0
+book=Science,Romance,1,1,sentences_per_review,1,3.0,3.0,3.0
+book=Science,Romance,1,1,paragraphs_per_review,1,1.0,1.0,1.0
+book=Science,Romance,1,1,words_per_paragraph,1,31.0,31.0,31.0
+book=Science,Romance,1,1,mean_sentence_words,1,10.333333,10.333333,10.333333
+book=Science,Romance,1,1,question_ending_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,vocabulary_diversity_20_pct,1,85.0,85.0,85.0
+book=Science,Romance,1,1,first_singular_per_1000_words,1,0.0,0.0,0.0
+book=Science,Romance,1,1,first_plural_per_1000_words,1,0.0,0.0,0.0
+book=Science,Romance,1,1,second_person_per_1000_words,1,64.516129,64.516129,64.516129
+book=Science,Romance,1,1,contractions_per_1000_words,1,64.516129,64.516129,64.516129
+book=Science,Romance,1,1,exclamations_per_1000_words,1,0.0,0.0,0.0
+book=Science,Romance,1,1,ellipses_per_1000_words,1,0.0,0.0,0.0
+book=Science,Romance,1,1,colons_per_1000_words,1,0.0,0.0,0.0
+book=Science,Romance,1,1,semicolons_per_1000_words,1,0.0,0.0,0.0
+book=Science,Romance,1,1,upper_tokens_per_1000_words,1,0.0,0.0,0.0
+book=Science,Romance,1,1,emphatic_runs_per_1000_words,1,0.0,0.0,0.0
+book=Science,Romance,1,1,colloquial_tokens_per_1000_words,1,0.0,0.0,0.0
+book=Science,Romance,1,1,subordination_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,hedge_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,certainty_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,causal_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,contrast_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,example_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,reading_experience_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,recommendation_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,plot_description_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,evaluation_sentence_pct,1,0.0,0.0,0.0
+book=Science,Romance,1,1,sd_sentence_words,1,4.109609,4.109609,4.109609
+book=Science,Science,239,1951,words_per_review,239,148.527778,219.0,330.116667
+book=Science,Science,239,1951,sentences_per_review,239,7.5,10.375,16.208333
+book=Science,Science,239,1951,paragraphs_per_review,239,1.111111,2.076923,3.666667
+book=Science,Science,239,1951,words_per_paragraph,239,66.940351,92.9375,137.345455
+book=Science,Science,239,1951,mean_sentence_words,239,17.570676,20.382353,23.278478
+book=Science,Science,239,1951,question_ending_pct,239,0.0,0.47619,2.758752
+book=Science,Science,239,1951,vocabulary_diversity_20_pct,239,90.61314,91.682692,92.593103
+book=Science,Science,239,1951,first_singular_per_1000_words,239,8.255306,15.679443,25.513031
+book=Science,Science,239,1951,first_plural_per_1000_words,239,0.684823,2.143623,4.841778
+book=Science,Science,239,1951,second_person_per_1000_words,239,2.548452,5.614823,9.938826
+book=Science,Science,239,1951,contractions_per_1000_words,239,2.056063,4.928806,10.663532
+book=Science,Science,239,1951,exclamations_per_1000_words,239,0.0,1.044932,2.9603
+book=Science,Science,239,1951,ellipses_per_1000_words,239,0.0,0.0,1.303918
+book=Science,Science,239,1951,colons_per_1000_words,239,0.498971,1.643385,3.897807
+book=Science,Science,239,1951,semicolons_per_1000_words,239,0.0,0.615764,1.922361
+book=Science,Science,239,1951,upper_tokens_per_1000_words,239,0.886134,3.128666,6.242317
+book=Science,Science,239,1951,emphatic_runs_per_1000_words,239,0.0,0.0,0.0
+book=Science,Science,239,1951,colloquial_tokens_per_1000_words,239,0.0,0.0,0.0
+book=Science,Science,239,1951,subordination_sentence_pct,239,9.929577,14.0,19.436006
+book=Science,Science,239,1951,hedge_sentence_pct,239,2.02459,4.081633,7.299659
+book=Science,Science,239,1951,certainty_sentence_pct,239,0.0,0.210305,2.020408
+book=Science,Science,239,1951,causal_sentence_pct,239,0.0,2.083333,4.016129
+book=Science,Science,239,1951,contrast_sentence_pct,239,9.279182,14.084507,19.764706
+book=Science,Science,239,1951,example_sentence_pct,239,0.0,1.5625,3.053613
+book=Science,Science,239,1951,reading_experience_sentence_pct,239,0.0,0.0,0.819727
+book=Science,Science,239,1951,recommendation_sentence_pct,239,0.0,0.0,2.185858
+book=Science,Science,239,1951,plot_description_sentence_pct,239,0.0,0.0,0.0
+book=Science,Science,239,1951,evaluation_sentence_pct,239,0.0,0.0,1.980392
+book=Science,Science,239,1951,sd_sentence_words,239,9.027486,10.779402,13.226865
+book=Science,Science Fiction,10,11,words_per_review,10,63.25,98.5,263.875
+book=Science,Science Fiction,10,11,sentences_per_review,10,3.0,6.5,14.625
+book=Science,Science Fiction,10,11,paragraphs_per_review,10,1.0,1.5,3.75
+book=Science,Science Fiction,10,11,words_per_paragraph,10,42.071429,54.0,97.25
+book=Science,Science Fiction,10,11,mean_sentence_words,10,17.394118,18.88172,20.75
+book=Science,Science Fiction,10,11,question_ending_pct,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,vocabulary_diversity_20_pct,10,91.666667,93.066502,94.75
+book=Science,Science Fiction,10,11,first_singular_per_1000_words,10,8.721859,29.627236,39.999344
+book=Science,Science Fiction,10,11,first_plural_per_1000_words,10,0.0,0.892857,5.876629
+book=Science,Science Fiction,10,11,second_person_per_1000_words,10,0.0,0.0,2.918288
+book=Science,Science Fiction,10,11,contractions_per_1000_words,10,0.0,10.766531,27.244374
+book=Science,Science Fiction,10,11,exclamations_per_1000_words,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,ellipses_per_1000_words,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,colons_per_1000_words,10,0.0,0.0,1.266892
+book=Science,Science Fiction,10,11,semicolons_per_1000_words,10,0.0,0.844595,6.74895
+book=Science,Science Fiction,10,11,upper_tokens_per_1000_words,10,0.0,0.0,1.761583
+book=Science,Science Fiction,10,11,emphatic_runs_per_1000_words,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,colloquial_tokens_per_1000_words,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,subordination_sentence_pct,10,1.470588,6.666667,18.682796
+book=Science,Science Fiction,10,11,hedge_sentence_pct,10,0.0,7.941176,13.940092
+book=Science,Science Fiction,10,11,certainty_sentence_pct,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,causal_sentence_pct,10,0.0,0.0,9.677419
+book=Science,Science Fiction,10,11,contrast_sentence_pct,10,1.666667,15.966387,25.188172
+book=Science,Science Fiction,10,11,example_sentence_pct,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,reading_experience_sentence_pct,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,recommendation_sentence_pct,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,plot_description_sentence_pct,10,0.0,0.0,0.0
+book=Science,Science Fiction,10,11,evaluation_sentence_pct,10,0.0,0.0,2.419355
+book=Science,Science Fiction,10,11,sd_sentence_words,10,6.72204,8.818176,10.158193
+book=Science,Thriller,204,259,words_per_review,204,38.0,66.0,130.333333
+book=Science,Thriller,204,259,sentences_per_review,204,3.0,4.0,7.0
+book=Science,Thriller,204,259,paragraphs_per_review,204,1.0,1.0,1.0
+book=Science,Thriller,204,259,words_per_paragraph,204,36.0,54.416667,87.0
+book=Science,Thriller,204,259,mean_sentence_words,204,12.467105,15.0,20.270833
+book=Science,Thriller,204,259,question_ending_pct,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,vocabulary_diversity_20_pct,204,89.272727,91.5625,94.0
+book=Science,Thriller,204,259,first_singular_per_1000_words,204,11.461599,31.693235,58.041368
+book=Science,Thriller,204,259,first_plural_per_1000_words,204,0.0,0.0,6.120898
+book=Science,Thriller,204,259,second_person_per_1000_words,204,0.0,0.0,9.673561
+book=Science,Thriller,204,259,contractions_per_1000_words,204,0.0,2.893383,19.261787
+book=Science,Thriller,204,259,exclamations_per_1000_words,204,0.0,0.0,3.160807
+book=Science,Thriller,204,259,ellipses_per_1000_words,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,colons_per_1000_words,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,semicolons_per_1000_words,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,upper_tokens_per_1000_words,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,emphatic_runs_per_1000_words,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,colloquial_tokens_per_1000_words,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,subordination_sentence_pct,204,0.0,0.0,22.5
+book=Science,Thriller,204,259,hedge_sentence_pct,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,certainty_sentence_pct,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,causal_sentence_pct,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,contrast_sentence_pct,204,0.0,9.196617,22.348485
+book=Science,Thriller,204,259,example_sentence_pct,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,reading_experience_sentence_pct,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,recommendation_sentence_pct,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,plot_description_sentence_pct,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,evaluation_sentence_pct,204,0.0,0.0,0.0
+book=Science,Thriller,204,259,sd_sentence_words,200,4.525368,6.734649,9.241214
+book=Science Fiction,ALL,1001,4472,words_per_review,1001,80.0,147.357143,250.666667
+book=Science Fiction,ALL,1001,4472,sentences_per_review,1001,5.0,8.4,13.5
+book=Science Fiction,ALL,1001,4472,paragraphs_per_review,1001,1.0,1.333333,3.204545
+book=Science Fiction,ALL,1001,4472,words_per_paragraph,1001,49.545455,72.214286,108.1
+book=Science Fiction,ALL,1001,4472,mean_sentence_words,1001,13.625,16.899225,20.375
+book=Science Fiction,ALL,1001,4472,question_ending_pct,1001,0.0,0.0,4.0
+book=Science Fiction,ALL,1001,4472,vocabulary_diversity_20_pct,998,90.291271,91.666667,92.949605
+book=Science Fiction,ALL,1001,4472,first_singular_per_1000_words,1001,14.184397,26.567944,42.11793
+book=Science Fiction,ALL,1001,4472,first_plural_per_1000_words,1001,0.0,0.0,3.783469
+book=Science Fiction,ALL,1001,4472,second_person_per_1000_words,1001,0.0,5.076142,11.986301
+book=Science Fiction,ALL,1001,4472,contractions_per_1000_words,1001,3.236246,11.494253,20.408163
+book=Science Fiction,ALL,1001,4472,exclamations_per_1000_words,1001,0.0,0.0,4.56621
+book=Science Fiction,ALL,1001,4472,ellipses_per_1000_words,1001,0.0,0.0,0.93633
+book=Science Fiction,ALL,1001,4472,colons_per_1000_words,1001,0.0,0.0,1.055966
+book=Science Fiction,ALL,1001,4472,semicolons_per_1000_words,1001,0.0,0.0,0.0
+book=Science Fiction,ALL,1001,4472,upper_tokens_per_1000_words,1001,0.0,1.690617,5.882353
+book=Science Fiction,ALL,1001,4472,emphatic_runs_per_1000_words,1001,0.0,0.0,0.0
+book=Science Fiction,ALL,1001,4472,colloquial_tokens_per_1000_words,1001,0.0,0.0,0.0
+book=Science Fiction,ALL,1001,4472,subordination_sentence_pct,1001,5.882353,14.035088,21.374046
+book=Science Fiction,ALL,1001,4472,hedge_sentence_pct,1001,0.0,0.0,5.434783
+book=Science Fiction,ALL,1001,4472,certainty_sentence_pct,1001,0.0,0.0,0.833333
+book=Science Fiction,ALL,1001,4472,causal_sentence_pct,1001,0.0,0.0,2.846975
+book=Science Fiction,ALL,1001,4472,contrast_sentence_pct,1001,4.982206,12.903226,20.0
+book=Science Fiction,ALL,1001,4472,example_sentence_pct,1001,0.0,0.0,0.0
+book=Science Fiction,ALL,1001,4472,reading_experience_sentence_pct,1001,0.0,0.0,1.923077
+book=Science Fiction,ALL,1001,4472,recommendation_sentence_pct,1001,0.0,0.0,0.0
+book=Science Fiction,ALL,1001,4472,plot_description_sentence_pct,1001,0.0,0.0,0.0
+book=Science Fiction,ALL,1001,4472,evaluation_sentence_pct,1001,0.0,0.0,4.255319
+book=Science Fiction,ALL,1001,4472,sd_sentence_words,996,6.512495,8.585333,10.998499
+book=Science Fiction,Fantasy,58,93,words_per_review,58,100.0,160.5,299.0
+book=Science Fiction,Fantasy,58,93,sentences_per_review,58,6.625,8.875,13.75
+book=Science Fiction,Fantasy,58,93,paragraphs_per_review,58,1.0,1.1,3.75
+book=Science Fiction,Fantasy,58,93,words_per_paragraph,58,58.096154,88.0,129.25
+book=Science Fiction,Fantasy,58,93,mean_sentence_words,58,14.285714,17.153846,20.978571
+book=Science Fiction,Fantasy,58,93,question_ending_pct,58,0.0,0.0,3.862069
+book=Science Fiction,Fantasy,58,93,vocabulary_diversity_20_pct,58,90.232488,91.961538,93.333333
+book=Science Fiction,Fantasy,58,93,first_singular_per_1000_words,58,17.084067,27.398292,46.927324
+book=Science Fiction,Fantasy,58,93,first_plural_per_1000_words,58,0.0,0.0,4.825896
+book=Science Fiction,Fantasy,58,93,second_person_per_1000_words,58,0.0,1.936197,9.388477
+book=Science Fiction,Fantasy,58,93,contractions_per_1000_words,58,6.940711,13.606072,19.782913
+book=Science Fiction,Fantasy,58,93,exclamations_per_1000_words,58,0.0,0.0,4.75601
+book=Science Fiction,Fantasy,58,93,ellipses_per_1000_words,58,0.0,0.0,2.432608
+book=Science Fiction,Fantasy,58,93,colons_per_1000_words,58,0.0,0.0,0.0
+book=Science Fiction,Fantasy,58,93,semicolons_per_1000_words,58,0.0,0.0,0.0
+book=Science Fiction,Fantasy,58,93,upper_tokens_per_1000_words,58,0.0,1.060346,5.502259
+book=Science Fiction,Fantasy,58,93,emphatic_runs_per_1000_words,58,0.0,0.0,0.0
+book=Science Fiction,Fantasy,58,93,colloquial_tokens_per_1000_words,58,0.0,0.0,0.0
+book=Science Fiction,Fantasy,58,93,subordination_sentence_pct,58,6.785714,13.896552,25.0
+book=Science Fiction,Fantasy,58,93,hedge_sentence_pct,58,0.0,0.0,6.896552
+book=Science Fiction,Fantasy,58,93,certainty_sentence_pct,58,0.0,0.0,0.0
+book=Science Fiction,Fantasy,58,93,causal_sentence_pct,58,0.0,0.0,2.532833
+book=Science Fiction,Fantasy,58,93,contrast_sentence_pct,58,7.760532,14.285714,23.412698
+book=Science Fiction,Fantasy,58,93,example_sentence_pct,58,0.0,0.0,0.0
+book=Science Fiction,Fantasy,58,93,reading_experience_sentence_pct,58,0.0,0.0,0.0
+book=Science Fiction,Fantasy,58,93,recommendation_sentence_pct,58,0.0,0.0,0.0
+book=Science Fiction,Fantasy,58,93,plot_description_sentence_pct,58,0.0,0.0,0.0
+book=Science Fiction,Fantasy,58,93,evaluation_sentence_pct,58,0.0,0.0,4.658385
+book=Science Fiction,Fantasy,58,93,sd_sentence_words,58,6.712432,8.745238,11.878947
+book=Science Fiction,Mystery,32,38,words_per_review,32,65.375,155.25,247.75
+book=Science Fiction,Mystery,32,38,sentences_per_review,32,5.75,8.5,12.875
+book=Science Fiction,Mystery,32,38,paragraphs_per_review,32,1.0,1.0,3.0
+book=Science Fiction,Mystery,32,38,words_per_paragraph,32,51.125,68.25,141.25
+book=Science Fiction,Mystery,32,38,mean_sentence_words,32,12.45,15.45,18.220395
+book=Science Fiction,Mystery,32,38,question_ending_pct,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,vocabulary_diversity_20_pct,32,90.0,91.25,93.365385
+book=Science Fiction,Mystery,32,38,first_singular_per_1000_words,32,9.336321,31.795994,39.252796
+book=Science Fiction,Mystery,32,38,first_plural_per_1000_words,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,second_person_per_1000_words,32,0.0,0.0,8.438184
+book=Science Fiction,Mystery,32,38,contractions_per_1000_words,32,0.0,5.160256,15.279703
+book=Science Fiction,Mystery,32,38,exclamations_per_1000_words,32,0.0,0.0,9.494818
+book=Science Fiction,Mystery,32,38,ellipses_per_1000_words,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,colons_per_1000_words,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,semicolons_per_1000_words,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,upper_tokens_per_1000_words,32,0.0,0.0,3.150202
+book=Science Fiction,Mystery,32,38,emphatic_runs_per_1000_words,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,colloquial_tokens_per_1000_words,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,subordination_sentence_pct,32,0.0,11.263158,20.0
+book=Science Fiction,Mystery,32,38,hedge_sentence_pct,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,certainty_sentence_pct,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,causal_sentence_pct,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,contrast_sentence_pct,32,0.0,13.961039,20.357143
+book=Science Fiction,Mystery,32,38,example_sentence_pct,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,reading_experience_sentence_pct,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,recommendation_sentence_pct,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,plot_description_sentence_pct,32,0.0,0.0,0.0
+book=Science Fiction,Mystery,32,38,evaluation_sentence_pct,32,0.0,0.0,1.315789
+book=Science Fiction,Mystery,32,38,sd_sentence_words,32,5.226135,7.117047,9.25982
+book=Science Fiction,Romance,71,122,words_per_review,71,91.8,143.0,249.0
+book=Science Fiction,Romance,71,122,sentences_per_review,71,6.666667,8.666667,16.0
+book=Science Fiction,Romance,71,122,paragraphs_per_review,71,1.0,1.5,3.5
+book=Science Fiction,Romance,71,122,words_per_paragraph,71,48.125,73.5,114.5
+book=Science Fiction,Romance,71,122,mean_sentence_words,71,12.583333,14.6875,17.9375
+book=Science Fiction,Romance,71,122,question_ending_pct,71,0.0,0.0,0.943396
+book=Science Fiction,Romance,71,122,vocabulary_diversity_20_pct,70,90.283654,91.468391,93.10462
+book=Science Fiction,Romance,71,122,first_singular_per_1000_words,71,21.749409,31.390135,47.934744
+book=Science Fiction,Romance,71,122,first_plural_per_1000_words,71,0.0,0.0,6.024315
+book=Science Fiction,Romance,71,122,second_person_per_1000_words,71,0.0,5.725191,12.232037
+book=Science Fiction,Romance,71,122,contractions_per_1000_words,71,5.885611,12.42236,21.064425
+book=Science Fiction,Romance,71,122,exclamations_per_1000_words,71,0.0,4.255319,16.484014
+book=Science Fiction,Romance,71,122,ellipses_per_1000_words,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,colons_per_1000_words,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,semicolons_per_1000_words,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,upper_tokens_per_1000_words,71,0.0,0.0,6.478284
+book=Science Fiction,Romance,71,122,emphatic_runs_per_1000_words,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,colloquial_tokens_per_1000_words,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,subordination_sentence_pct,71,0.943396,12.5,19.375
+book=Science Fiction,Romance,71,122,hedge_sentence_pct,71,0.0,0.0,1.628328
+book=Science Fiction,Romance,71,122,certainty_sentence_pct,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,causal_sentence_pct,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,contrast_sentence_pct,71,3.31651,11.111111,18.198529
+book=Science Fiction,Romance,71,122,example_sentence_pct,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,reading_experience_sentence_pct,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,recommendation_sentence_pct,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,plot_description_sentence_pct,71,0.0,0.0,0.0
+book=Science Fiction,Romance,71,122,evaluation_sentence_pct,71,0.0,4.347826,9.090909
+book=Science Fiction,Romance,71,122,sd_sentence_words,71,5.949178,7.228416,9.114287
+book=Science Fiction,Science,3,3,words_per_review,3,130.0,132.0,137.5
+book=Science Fiction,Science,3,3,sentences_per_review,3,6.5,8.0,8.5
+book=Science Fiction,Science,3,3,paragraphs_per_review,3,1.0,1.0,2.0
+book=Science Fiction,Science,3,3,words_per_paragraph,3,86.0,128.0,135.5
+book=Science Fiction,Science,3,3,mean_sentence_words,3,16.048611,17.875,22.1375
+book=Science Fiction,Science,3,3,question_ending_pct,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,vocabulary_diversity_20_pct,3,88.630952,91.428571,91.964286
+book=Science Fiction,Science,3,3,first_singular_per_1000_words,3,11.71875,23.4375,25.704764
+book=Science Fiction,Science,3,3,first_plural_per_1000_words,3,0.0,0.0,13.986014
+book=Science Fiction,Science,3,3,second_person_per_1000_words,3,0.0,0.0,3.496503
+book=Science Fiction,Science,3,3,contractions_per_1000_words,3,14.277389,20.979021,26.11451
+book=Science Fiction,Science,3,3,exclamations_per_1000_words,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,ellipses_per_1000_words,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,colons_per_1000_words,3,0.0,0.0,3.787879
+book=Science Fiction,Science,3,3,semicolons_per_1000_words,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,upper_tokens_per_1000_words,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,emphatic_runs_per_1000_words,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,colloquial_tokens_per_1000_words,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,subordination_sentence_pct,3,0.0,0.0,6.25
+book=Science Fiction,Science,3,3,hedge_sentence_pct,3,5.555556,11.111111,15.555556
+book=Science Fiction,Science,3,3,certainty_sentence_pct,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,causal_sentence_pct,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,contrast_sentence_pct,3,5.555556,11.111111,11.805556
+book=Science Fiction,Science,3,3,example_sentence_pct,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,reading_experience_sentence_pct,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,recommendation_sentence_pct,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,plot_description_sentence_pct,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,evaluation_sentence_pct,3,0.0,0.0,0.0
+book=Science Fiction,Science,3,3,sd_sentence_words,3,6.108164,8.202679,12.862618
+book=Science Fiction,Science Fiction,377,3506,words_per_review,377,132.666667,205.5,310.0
+book=Science Fiction,Science Fiction,377,3506,sentences_per_review,377,7.75,11.2,16.333333
+book=Science Fiction,Science Fiction,377,3506,paragraphs_per_review,377,1.0,2.0,3.75
+book=Science Fiction,Science Fiction,377,3506,words_per_paragraph,377,61.033333,86.318182,124.0
+book=Science Fiction,Science Fiction,377,3506,mean_sentence_words,377,15.596899,18.380952,20.966102
+book=Science Fiction,Science Fiction,377,3506,question_ending_pct,377,0.0,2.409639,5.263158
+book=Science Fiction,Science Fiction,377,3506,vocabulary_diversity_20_pct,377,90.918367,91.666667,92.478261
+book=Science Fiction,Science Fiction,377,3506,first_singular_per_1000_words,377,14.508929,22.59887,33.707865
+book=Science Fiction,Science Fiction,377,3506,first_plural_per_1000_words,377,0.951777,2.094886,4.363002
+book=Science Fiction,Science Fiction,377,3506,second_person_per_1000_words,377,3.303055,6.024096,11.049724
+book=Science Fiction,Science Fiction,377,3506,contractions_per_1000_words,377,5.688282,12.623075,19.52862
+book=Science Fiction,Science Fiction,377,3506,exclamations_per_1000_words,377,0.0,1.020929,3.128259
+book=Science Fiction,Science Fiction,377,3506,ellipses_per_1000_words,377,0.0,0.722804,1.970443
+book=Science Fiction,Science Fiction,377,3506,colons_per_1000_words,377,0.0,0.825764,2.086231
+book=Science Fiction,Science Fiction,377,3506,semicolons_per_1000_words,377,0.0,0.0,0.930233
+book=Science Fiction,Science Fiction,377,3506,upper_tokens_per_1000_words,377,1.611604,3.211991,6.989247
+book=Science Fiction,Science Fiction,377,3506,emphatic_runs_per_1000_words,377,0.0,0.0,0.0
+book=Science Fiction,Science Fiction,377,3506,colloquial_tokens_per_1000_words,377,0.0,0.0,0.0
+book=Science Fiction,Science Fiction,377,3506,subordination_sentence_pct,377,11.340206,15.625,20.833333
+book=Science Fiction,Science Fiction,377,3506,hedge_sentence_pct,377,1.960784,3.636364,6.349206
+book=Science Fiction,Science Fiction,377,3506,certainty_sentence_pct,377,0.0,0.0,1.886792
+book=Science Fiction,Science Fiction,377,3506,causal_sentence_pct,377,0.0,2.0,3.846154
+book=Science Fiction,Science Fiction,377,3506,contrast_sentence_pct,377,10.714286,14.644351,19.417476
+book=Science Fiction,Science Fiction,377,3506,example_sentence_pct,377,0.0,0.0,0.96463
+book=Science Fiction,Science Fiction,377,3506,reading_experience_sentence_pct,377,0.0,1.075269,2.459016
+book=Science Fiction,Science Fiction,377,3506,recommendation_sentence_pct,377,0.0,0.0,1.538462
+book=Science Fiction,Science Fiction,377,3506,plot_description_sentence_pct,377,0.0,0.0,0.0
+book=Science Fiction,Science Fiction,377,3506,evaluation_sentence_pct,377,0.0,1.587302,3.846154
+book=Science Fiction,Science Fiction,377,3506,sd_sentence_words,377,8.283751,10.066702,12.146147
+book=Science Fiction,Thriller,460,710,words_per_review,460,51.0,98.833333,173.5
+book=Science Fiction,Thriller,460,710,sentences_per_review,460,4.0,6.0,10.0
+book=Science Fiction,Thriller,460,710,paragraphs_per_review,460,1.0,1.0,2.375
+book=Science Fiction,Thriller,460,710,words_per_paragraph,460,39.8125,60.0,93.0
+book=Science Fiction,Thriller,460,710,mean_sentence_words,460,12.158333,15.8375,19.635417
+book=Science Fiction,Thriller,460,710,question_ending_pct,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,vocabulary_diversity_20_pct,458,90.0,91.519231,93.571429
+book=Science Fiction,Thriller,460,710,first_singular_per_1000_words,460,12.40319,29.932692,52.631579
+book=Science Fiction,Thriller,460,710,first_plural_per_1000_words,460,0.0,0.0,2.223441
+book=Science Fiction,Thriller,460,710,second_person_per_1000_words,460,0.0,1.820695,14.285714
+book=Science Fiction,Thriller,460,710,contractions_per_1000_words,460,0.0,9.513753,20.86609
+book=Science Fiction,Thriller,460,710,exclamations_per_1000_words,460,0.0,0.0,6.307482
+book=Science Fiction,Thriller,460,710,ellipses_per_1000_words,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,colons_per_1000_words,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,semicolons_per_1000_words,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,upper_tokens_per_1000_words,460,0.0,0.0,4.289908
+book=Science Fiction,Thriller,460,710,emphatic_runs_per_1000_words,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,colloquial_tokens_per_1000_words,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,subordination_sentence_pct,460,0.0,11.111111,22.222222
+book=Science Fiction,Thriller,460,710,hedge_sentence_pct,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,certainty_sentence_pct,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,causal_sentence_pct,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,contrast_sentence_pct,460,0.0,10.0,20.0
+book=Science Fiction,Thriller,460,710,example_sentence_pct,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,reading_experience_sentence_pct,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,recommendation_sentence_pct,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,plot_description_sentence_pct,460,0.0,0.0,0.0
+book=Science Fiction,Thriller,460,710,evaluation_sentence_pct,460,0.0,0.0,3.846154
+book=Science Fiction,Thriller,460,710,sd_sentence_words,455,5.236087,7.408704,9.726308
+book=Thriller,ALL,10238,233932,words_per_review,10238,50.413961,82.464115,143.446691
+book=Thriller,ALL,10238,233932,sentences_per_review,10238,4.0,5.666667,8.864286
+book=Thriller,ALL,10238,233932,paragraphs_per_review,10238,1.0,1.012274,1.809524
+book=Thriller,ALL,10238,233932,words_per_paragraph,10238,42.473684,58.888889,83.954472
+book=Thriller,ALL,10238,233932,mean_sentence_words,10238,11.815217,14.234581,17.061406
+book=Thriller,ALL,10238,233932,question_ending_pct,10238,0.0,1.333333,3.819137
+book=Thriller,ALL,10238,233932,vocabulary_diversity_20_pct,10238,90.729167,91.699057,92.578742
+book=Thriller,ALL,10238,233932,first_singular_per_1000_words,10238,21.680217,34.860357,49.498051
+book=Thriller,ALL,10238,233932,first_plural_per_1000_words,10238,0.0,1.372213,3.153449
+book=Thriller,ALL,10238,233932,second_person_per_1000_words,10238,3.358334,7.38222,13.268499
+book=Thriller,ALL,10238,233932,contractions_per_1000_words,10238,6.295908,12.413793,19.785803
+book=Thriller,ALL,10238,233932,exclamations_per_1000_words,10238,0.097632,2.966626,9.515314
+book=Thriller,ALL,10238,233932,ellipses_per_1000_words,10238,0.0,0.0,1.715021
+book=Thriller,ALL,10238,233932,colons_per_1000_words,10238,0.0,0.0,0.753438
+book=Thriller,ALL,10238,233932,semicolons_per_1000_words,10238,0.0,0.0,0.541468
+book=Thriller,ALL,10238,233932,upper_tokens_per_1000_words,10238,0.863744,2.559727,5.411011
+book=Thriller,ALL,10238,233932,emphatic_runs_per_1000_words,10238,0.0,0.0,0.775194
+book=Thriller,ALL,10238,233932,colloquial_tokens_per_1000_words,10238,0.0,0.0,0.0
+book=Thriller,ALL,10238,233932,subordination_sentence_pct,10238,6.957318,11.023622,15.789474
+book=Thriller,ALL,10238,233932,hedge_sentence_pct,10238,0.0,1.955062,3.921569
+book=Thriller,ALL,10238,233932,certainty_sentence_pct,10238,0.0,0.480769,1.921235
+book=Thriller,ALL,10238,233932,causal_sentence_pct,10238,0.0,1.388889,3.122297
+book=Thriller,ALL,10238,233932,contrast_sentence_pct,10238,7.142857,11.607143,16.666667
+book=Thriller,ALL,10238,233932,example_sentence_pct,10238,0.0,0.0,0.0
+book=Thriller,ALL,10238,233932,reading_experience_sentence_pct,10238,0.0,1.553148,3.333333
+book=Thriller,ALL,10238,233932,recommendation_sentence_pct,10238,0.0,0.0,1.923077
+book=Thriller,ALL,10238,233932,plot_description_sentence_pct,10238,0.0,0.0,0.0
+book=Thriller,ALL,10238,233932,evaluation_sentence_pct,10238,1.298701,3.305785,6.060606
+book=Thriller,ALL,10238,233932,sd_sentence_words,10230,6.318151,7.789634,9.606481
+book=Thriller,Fantasy,40,65,words_per_review,40,93.0,129.5,214.25
+book=Thriller,Fantasy,40,65,sentences_per_review,40,6.0,7.375,11.0
+book=Thriller,Fantasy,40,65,paragraphs_per_review,40,1.0,1.0,3.0
+book=Thriller,Fantasy,40,65,words_per_paragraph,40,52.5625,75.916667,108.25
+book=Thriller,Fantasy,40,65,mean_sentence_words,40,15.763636,17.871212,19.875
+book=Thriller,Fantasy,40,65,question_ending_pct,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,vocabulary_diversity_20_pct,40,90.0,91.485294,93.788141
+book=Thriller,Fantasy,40,65,first_singular_per_1000_words,40,15.138792,30.624181,47.104854
+book=Thriller,Fantasy,40,65,first_plural_per_1000_words,40,0.0,0.0,0.20202
+book=Thriller,Fantasy,40,65,second_person_per_1000_words,40,0.0,4.574063,13.095238
+book=Thriller,Fantasy,40,65,contractions_per_1000_words,40,6.244474,13.670279,20.244755
+book=Thriller,Fantasy,40,65,exclamations_per_1000_words,40,0.0,0.0,5.243888
+book=Thriller,Fantasy,40,65,ellipses_per_1000_words,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,colons_per_1000_words,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,semicolons_per_1000_words,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,upper_tokens_per_1000_words,40,0.0,0.0,2.983232
+book=Thriller,Fantasy,40,65,emphatic_runs_per_1000_words,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,colloquial_tokens_per_1000_words,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,subordination_sentence_pct,40,7.440476,16.666667,22.348485
+book=Thriller,Fantasy,40,65,hedge_sentence_pct,40,0.0,0.0,7.083333
+book=Thriller,Fantasy,40,65,certainty_sentence_pct,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,causal_sentence_pct,40,0.0,0.0,3.506311
+book=Thriller,Fantasy,40,65,contrast_sentence_pct,40,0.0,12.007168,20.0
+book=Thriller,Fantasy,40,65,example_sentence_pct,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,reading_experience_sentence_pct,40,0.0,0.0,1.08735
+book=Thriller,Fantasy,40,65,recommendation_sentence_pct,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,plot_description_sentence_pct,40,0.0,0.0,0.0
+book=Thriller,Fantasy,40,65,evaluation_sentence_pct,40,0.0,0.0,3.968254
+book=Thriller,Fantasy,40,65,sd_sentence_words,39,6.614954,8.21609,9.992289
+book=Thriller,Mystery,689,2984,words_per_review,689,49.0,86.5,154.0
+book=Thriller,Mystery,689,2984,sentences_per_review,689,4.0,6.0,9.0
+book=Thriller,Mystery,689,2984,paragraphs_per_review,689,1.0,1.0,1.941176
+book=Thriller,Mystery,689,2984,words_per_paragraph,689,42.333333,61.818182,92.928571
+book=Thriller,Mystery,689,2984,mean_sentence_words,689,11.954545,14.694444,18.0
+book=Thriller,Mystery,689,2984,question_ending_pct,689,0.0,0.0,2.272727
+book=Thriller,Mystery,689,2984,vocabulary_diversity_20_pct,689,90.0,91.702128,93.142857
+book=Thriller,Mystery,689,2984,first_singular_per_1000_words,689,17.44186,34.653465,55.384615
+book=Thriller,Mystery,689,2984,first_plural_per_1000_words,689,0.0,0.0,2.375297
+book=Thriller,Mystery,689,2984,second_person_per_1000_words,689,0.0,3.90625,12.42236
+book=Thriller,Mystery,689,2984,contractions_per_1000_words,689,3.209537,11.173184,21.341463
+book=Thriller,Mystery,689,2984,exclamations_per_1000_words,689,0.0,0.407947,10.416667
+book=Thriller,Mystery,689,2984,ellipses_per_1000_words,689,0.0,0.0,0.0
+book=Thriller,Mystery,689,2984,colons_per_1000_words,689,0.0,0.0,0.0
+book=Thriller,Mystery,689,2984,semicolons_per_1000_words,689,0.0,0.0,0.0
+book=Thriller,Mystery,689,2984,upper_tokens_per_1000_words,689,0.0,0.0,4.020101
+book=Thriller,Mystery,689,2984,emphatic_runs_per_1000_words,689,0.0,0.0,0.0
+book=Thriller,Mystery,689,2984,colloquial_tokens_per_1000_words,689,0.0,0.0,0.0
+book=Thriller,Mystery,689,2984,subordination_sentence_pct,689,0.0,10.810811,18.181818
+book=Thriller,Mystery,689,2984,hedge_sentence_pct,689,0.0,0.0,3.125
+book=Thriller,Mystery,689,2984,certainty_sentence_pct,689,0.0,0.0,0.0
+book=Thriller,Mystery,689,2984,causal_sentence_pct,689,0.0,0.0,1.492537
+book=Thriller,Mystery,689,2984,contrast_sentence_pct,689,0.0,10.0,18.181818
+book=Thriller,Mystery,689,2984,example_sentence_pct,689,0.0,0.0,0.0
+book=Thriller,Mystery,689,2984,reading_experience_sentence_pct,689,0.0,0.0,1.875
+book=Thriller,Mystery,689,2984,recommendation_sentence_pct,689,0.0,0.0,0.0
+book=Thriller,Mystery,689,2984,plot_description_sentence_pct,689,0.0,0.0,0.0
+book=Thriller,Mystery,689,2984,evaluation_sentence_pct,689,0.0,0.0,6.666667
+book=Thriller,Mystery,689,2984,sd_sentence_words,685,5.38145,7.101536,9.273408
+book=Thriller,Romance,659,1918,words_per_review,659,80.0,130.0,207.3
+book=Thriller,Romance,659,1918,sentences_per_review,659,5.5,8.8,13.5
+book=Thriller,Romance,659,1918,paragraphs_per_review,659,1.0,1.571429,3.5
+book=Thriller,Romance,659,1918,words_per_paragraph,659,44.25,63.0,97.75
+book=Thriller,Romance,659,1918,mean_sentence_words,659,11.746728,14.285714,17.629167
+book=Thriller,Romance,659,1918,question_ending_pct,659,0.0,0.0,2.919864
+book=Thriller,Romance,659,1918,vocabulary_diversity_20_pct,659,90.0,91.806854,93.125
+book=Thriller,Romance,659,1918,first_singular_per_1000_words,659,22.204922,36.764706,55.459439
+book=Thriller,Romance,659,1918,first_plural_per_1000_words,659,0.0,0.0,3.254681
+book=Thriller,Romance,659,1918,second_person_per_1000_words,659,0.0,7.380074,16.515288
+book=Thriller,Romance,659,1918,contractions_per_1000_words,659,6.369685,13.797635,22.151761
+book=Thriller,Romance,659,1918,exclamations_per_1000_words,659,0.0,5.09684,20.08142
+book=Thriller,Romance,659,1918,ellipses_per_1000_words,659,0.0,0.0,1.64352
+book=Thriller,Romance,659,1918,colons_per_1000_words,659,0.0,0.0,0.0
+book=Thriller,Romance,659,1918,semicolons_per_1000_words,659,0.0,0.0,0.0
+book=Thriller,Romance,659,1918,upper_tokens_per_1000_words,659,0.0,3.311258,9.828069
+book=Thriller,Romance,659,1918,emphatic_runs_per_1000_words,659,0.0,0.0,2.071387
+book=Thriller,Romance,659,1918,colloquial_tokens_per_1000_words,659,0.0,0.0,0.0
+book=Thriller,Romance,659,1918,subordination_sentence_pct,659,5.263158,12.389381,20.0
+book=Thriller,Romance,659,1918,hedge_sentence_pct,659,0.0,0.0,1.895777
+book=Thriller,Romance,659,1918,certainty_sentence_pct,659,0.0,0.0,1.895777
+book=Thriller,Romance,659,1918,causal_sentence_pct,659,0.0,0.0,3.333333
+book=Thriller,Romance,659,1918,contrast_sentence_pct,659,4.545455,11.111111,18.274583
+book=Thriller,Romance,659,1918,example_sentence_pct,659,0.0,0.0,0.0
+book=Thriller,Romance,659,1918,reading_experience_sentence_pct,659,0.0,0.0,1.346939
+book=Thriller,Romance,659,1918,recommendation_sentence_pct,659,0.0,0.0,0.0
+book=Thriller,Romance,659,1918,plot_description_sentence_pct,659,0.0,0.0,0.0
+book=Thriller,Romance,659,1918,evaluation_sentence_pct,659,0.0,1.456311,7.142857
+book=Thriller,Romance,659,1918,sd_sentence_words,658,5.442716,7.075633,9.026845
+book=Thriller,Science,8,9,words_per_review,8,140.75,220.5,265.25
+book=Thriller,Science,8,9,sentences_per_review,8,4.875,9.0,14.5
+book=Thriller,Science,8,9,paragraphs_per_review,8,1.0,2.0,4.0
+book=Thriller,Science,8,9,words_per_paragraph,8,63.5625,99.5,168.375
+book=Thriller,Science,8,9,mean_sentence_words,8,20.324176,22.272727,26.986111
+book=Thriller,Science,8,9,question_ending_pct,8,0.0,0.0,10.314685
+book=Thriller,Science,8,9,vocabulary_diversity_20_pct,8,88.705357,90.357143,90.833333
+book=Thriller,Science,8,9,first_singular_per_1000_words,8,10.5132,21.016974,24.019115
+book=Thriller,Science,8,9,first_plural_per_1000_words,8,0.0,0.0,4.060266
+book=Thriller,Science,8,9,second_person_per_1000_words,8,2.358491,7.354526,12.557271
+book=Thriller,Science,8,9,contractions_per_1000_words,8,18.081761,27.849328,34.881162
+book=Thriller,Science,8,9,exclamations_per_1000_words,8,0.0,0.0,3.668763
+book=Thriller,Science,8,9,ellipses_per_1000_words,8,0.0,0.0,6.460324
+book=Thriller,Science,8,9,colons_per_1000_words,8,0.0,0.0,0.262055
+book=Thriller,Science,8,9,semicolons_per_1000_words,8,0.0,2.604167,9.142694
+book=Thriller,Science,8,9,upper_tokens_per_1000_words,8,0.0,1.572327,4.619891
+book=Thriller,Science,8,9,emphatic_runs_per_1000_words,8,0.0,0.0,0.262055
+book=Thriller,Science,8,9,colloquial_tokens_per_1000_words,8,0.0,0.0,0.0
+book=Thriller,Science,8,9,subordination_sentence_pct,8,16.923077,27.922078,34.027778
+book=Thriller,Science,8,9,hedge_sentence_pct,8,0.0,0.0,1.315789
+book=Thriller,Science,8,9,certainty_sentence_pct,8,0.0,0.0,8.547009
+book=Thriller,Science,8,9,causal_sentence_pct,8,0.0,0.0,1.923077
+book=Thriller,Science,8,9,contrast_sentence_pct,8,0.0,11.111111,18.117409
+book=Thriller,Science,8,9,example_sentence_pct,8,0.0,0.0,0.0
+book=Thriller,Science,8,9,reading_experience_sentence_pct,8,0.0,0.0,0.0
+book=Thriller,Science,8,9,recommendation_sentence_pct,8,0.0,0.0,0.0
+book=Thriller,Science,8,9,plot_description_sentence_pct,8,0.0,0.0,0.0
+book=Thriller,Science,8,9,evaluation_sentence_pct,8,0.0,0.0,0.0
+book=Thriller,Science,8,9,sd_sentence_words,8,9.92647,13.222095,19.089476
+book=Thriller,Science Fiction,111,190,words_per_review,111,70.75,138.0,215.416667
+book=Thriller,Science Fiction,111,190,sentences_per_review,111,4.325,7.0,12.75
+book=Thriller,Science Fiction,111,190,paragraphs_per_review,111,1.0,1.0,3.833333
+book=Thriller,Science Fiction,111,190,words_per_paragraph,111,45.416667,68.0,102.291667
+book=Thriller,Science Fiction,111,190,mean_sentence_words,111,13.690476,16.5,20.253846
+book=Thriller,Science Fiction,111,190,question_ending_pct,111,0.0,0.0,0.609756
+book=Thriller,Science Fiction,111,190,vocabulary_diversity_20_pct,111,90.0,91.666667,93.321596
+book=Thriller,Science Fiction,111,190,first_singular_per_1000_words,111,11.418442,23.107178,38.467861
+book=Thriller,Science Fiction,111,190,first_plural_per_1000_words,111,0.0,0.0,5.038071
+book=Thriller,Science Fiction,111,190,second_person_per_1000_words,111,0.0,4.662005,12.085585
+book=Thriller,Science Fiction,111,190,contractions_per_1000_words,111,0.0,10.460251,19.237884
+book=Thriller,Science Fiction,111,190,exclamations_per_1000_words,111,0.0,0.0,1.436383
+book=Thriller,Science Fiction,111,190,ellipses_per_1000_words,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,colons_per_1000_words,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,semicolons_per_1000_words,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,upper_tokens_per_1000_words,111,0.0,0.0,4.822665
+book=Thriller,Science Fiction,111,190,emphatic_runs_per_1000_words,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,colloquial_tokens_per_1000_words,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,subordination_sentence_pct,111,0.0,12.5,22.222222
+book=Thriller,Science Fiction,111,190,hedge_sentence_pct,111,0.0,0.0,4.545455
+book=Thriller,Science Fiction,111,190,certainty_sentence_pct,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,causal_sentence_pct,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,contrast_sentence_pct,111,0.0,12.264151,21.111111
+book=Thriller,Science Fiction,111,190,example_sentence_pct,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,reading_experience_sentence_pct,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,recommendation_sentence_pct,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,plot_description_sentence_pct,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,evaluation_sentence_pct,111,0.0,0.0,0.0
+book=Thriller,Science Fiction,111,190,sd_sentence_words,109,5.946507,7.931998,10.218031
+book=Thriller,Thriller,8737,228789,words_per_review,8737,49.285714,78.333333,135.958333
+book=Thriller,Thriller,8737,228789,sentences_per_review,8737,3.947368,5.5,8.4
+book=Thriller,Thriller,8737,228789,paragraphs_per_review,8737,1.0,1.021053,1.666667
+book=Thriller,Thriller,8737,228789,words_per_paragraph,8737,42.4,58.225962,81.979021
+book=Thriller,Thriller,8737,228789,mean_sentence_words,8737,11.797468,14.15873,16.864583
+book=Thriller,Thriller,8737,228789,question_ending_pct,8737,0.0,1.5625,3.896104
+book=Thriller,Thriller,8737,228789,vocabulary_diversity_20_pct,8737,90.787037,91.697531,92.518248
+book=Thriller,Thriller,8737,228789,first_singular_per_1000_words,8737,22.123894,34.90991,48.919226
+book=Thriller,Thriller,8737,228789,first_plural_per_1000_words,8737,0.349528,1.506024,3.164557
+book=Thriller,Thriller,8737,228789,second_person_per_1000_words,8737,3.812059,7.575758,13.140604
+book=Thriller,Thriller,8737,228789,contractions_per_1000_words,8737,6.534458,12.42236,19.512195
+book=Thriller,Thriller,8737,228789,exclamations_per_1000_words,8737,0.598982,3.046923,9.097271
+book=Thriller,Thriller,8737,228789,ellipses_per_1000_words,8737,0.0,0.0,1.838235
+book=Thriller,Thriller,8737,228789,colons_per_1000_words,8737,0.0,0.0,0.851064
+book=Thriller,Thriller,8737,228789,semicolons_per_1000_words,8737,0.0,0.0,0.692281
+book=Thriller,Thriller,8737,228789,upper_tokens_per_1000_words,8737,1.102536,2.672536,5.333333
+book=Thriller,Thriller,8737,228789,emphatic_runs_per_1000_words,8737,0.0,0.0,0.869187
+book=Thriller,Thriller,8737,228789,colloquial_tokens_per_1000_words,8737,0.0,0.0,0.0
+book=Thriller,Thriller,8737,228789,subordination_sentence_pct,8737,7.160494,10.943396,15.384615
+book=Thriller,Thriller,8737,228789,hedge_sentence_pct,8737,0.898204,2.173913,4.0
+book=Thriller,Thriller,8737,228789,certainty_sentence_pct,8737,0.0,0.724638,1.960784
+book=Thriller,Thriller,8737,228789,causal_sentence_pct,8737,0.0,1.55902,3.149606
+book=Thriller,Thriller,8737,228789,contrast_sentence_pct,8737,7.462687,11.690595,16.541353
+book=Thriller,Thriller,8737,228789,example_sentence_pct,8737,0.0,0.0,0.0
+book=Thriller,Thriller,8737,228789,reading_experience_sentence_pct,8737,0.424028,1.760563,3.448276
+book=Thriller,Thriller,8737,228789,recommendation_sentence_pct,8737,0.0,0.490196,2.030457
+book=Thriller,Thriller,8737,228789,plot_description_sentence_pct,8737,0.0,0.0,0.0
+book=Thriller,Thriller,8737,228789,evaluation_sentence_pct,8737,1.639344,3.448276,6.034483
+book=Thriller,Thriller,8737,228789,sd_sentence_words,8737,6.43074,7.873431,9.638398
+book=UNMAPPED,ALL,11149,88680,words_per_review,11149,56.0,94.925926,165.5
+book=UNMAPPED,ALL,11149,88680,sentences_per_review,11149,4.0,6.105263,9.675676
+book=UNMAPPED,ALL,11149,88680,paragraphs_per_review,11149,1.0,1.0,2.0
+book=UNMAPPED,ALL,11149,88680,words_per_paragraph,11149,44.75,63.0,91.222222
+book=UNMAPPED,ALL,11149,88680,mean_sentence_words,11149,12.517241,15.212121,18.358209
+book=UNMAPPED,ALL,11149,88680,question_ending_pct,11149,0.0,0.0,3.225806
+book=UNMAPPED,ALL,11149,88680,vocabulary_diversity_20_pct,11148,90.25641,91.538462,92.580645
+book=UNMAPPED,ALL,11149,88680,first_singular_per_1000_words,11149,20.304569,34.246575,50.473186
+book=UNMAPPED,ALL,11149,88680,first_plural_per_1000_words,11149,0.0,1.226994,4.048583
+book=UNMAPPED,ALL,11149,88680,second_person_per_1000_words,11149,1.937984,6.514658,13.157895
+book=UNMAPPED,ALL,11149,88680,contractions_per_1000_words,11149,4.264392,10.633773,18.518519
+book=UNMAPPED,ALL,11149,88680,exclamations_per_1000_words,11149,0.0,2.169197,8.77193
+book=UNMAPPED,ALL,11149,88680,ellipses_per_1000_words,11149,0.0,0.0,1.337793
+book=UNMAPPED,ALL,11149,88680,colons_per_1000_words,11149,0.0,0.0,0.508647
+book=UNMAPPED,ALL,11149,88680,semicolons_per_1000_words,11149,0.0,0.0,0.0
+book=UNMAPPED,ALL,11149,88680,upper_tokens_per_1000_words,11149,0.0,2.209945,5.704256
+book=UNMAPPED,ALL,11149,88680,emphatic_runs_per_1000_words,11149,0.0,0.0,0.0
+book=UNMAPPED,ALL,11149,88680,colloquial_tokens_per_1000_words,11149,0.0,0.0,0.0
+book=UNMAPPED,ALL,11149,88680,subordination_sentence_pct,11149,6.451613,11.764706,17.647059
+book=UNMAPPED,ALL,11149,88680,hedge_sentence_pct,11149,0.0,1.020408,4.081633
+book=UNMAPPED,ALL,11149,88680,certainty_sentence_pct,11149,0.0,0.0,1.492537
+book=UNMAPPED,ALL,11149,88680,causal_sentence_pct,11149,0.0,0.0,3.389831
+book=UNMAPPED,ALL,11149,88680,contrast_sentence_pct,11149,6.0,11.2,17.241379
+book=UNMAPPED,ALL,11149,88680,example_sentence_pct,11149,0.0,0.0,0.0
+book=UNMAPPED,ALL,11149,88680,reading_experience_sentence_pct,11149,0.0,0.0,2.857143
+book=UNMAPPED,ALL,11149,88680,recommendation_sentence_pct,11149,0.0,0.0,1.923077
+book=UNMAPPED,ALL,11149,88680,plot_description_sentence_pct,11149,0.0,0.0,0.0
+book=UNMAPPED,ALL,11149,88680,evaluation_sentence_pct,11149,0.0,2.312139,5.882353
+book=UNMAPPED,ALL,11149,88680,sd_sentence_words,11120,6.313492,7.973819,9.984363
+book=UNMAPPED,Fantasy,242,1054,words_per_review,242,119.525,185.0625,290.0
+book=UNMAPPED,Fantasy,242,1054,sentences_per_review,242,6.8125,10.0,15.916667
+book=UNMAPPED,Fantasy,242,1054,paragraphs_per_review,242,1.0,2.0,4.0
+book=UNMAPPED,Fantasy,242,1054,words_per_paragraph,242,56.71875,86.0,124.957143
+book=UNMAPPED,Fantasy,242,1054,mean_sentence_words,242,15.279187,17.763889,21.5
+book=UNMAPPED,Fantasy,242,1054,question_ending_pct,242,0.0,0.0,3.54064
+book=UNMAPPED,Fantasy,242,1054,vocabulary_diversity_20_pct,242,90.519751,91.764706,92.747537
+book=UNMAPPED,Fantasy,242,1054,first_singular_per_1000_words,242,21.572154,32.288728,46.173763
+book=UNMAPPED,Fantasy,242,1054,first_plural_per_1000_words,242,0.0,1.634266,4.3423
+book=UNMAPPED,Fantasy,242,1054,second_person_per_1000_words,242,2.38097,6.248394,11.889098
+book=UNMAPPED,Fantasy,242,1054,contractions_per_1000_words,242,6.705912,14.509301,20.727729
+book=UNMAPPED,Fantasy,242,1054,exclamations_per_1000_words,242,0.0,1.439449,6.123194
+book=UNMAPPED,Fantasy,242,1054,ellipses_per_1000_words,242,0.0,0.0,2.089871
+book=UNMAPPED,Fantasy,242,1054,colons_per_1000_words,242,0.0,0.0,1.940513
+book=UNMAPPED,Fantasy,242,1054,semicolons_per_1000_words,242,0.0,0.0,0.826673
+book=UNMAPPED,Fantasy,242,1054,upper_tokens_per_1000_words,242,0.0,1.807856,5.24607
+book=UNMAPPED,Fantasy,242,1054,emphatic_runs_per_1000_words,242,0.0,0.0,0.0
+book=UNMAPPED,Fantasy,242,1054,colloquial_tokens_per_1000_words,242,0.0,0.0,0.0
+book=UNMAPPED,Fantasy,242,1054,subordination_sentence_pct,242,10.0,15.672515,21.971321
+book=UNMAPPED,Fantasy,242,1054,hedge_sentence_pct,242,0.0,3.686714,7.081281
+book=UNMAPPED,Fantasy,242,1054,certainty_sentence_pct,242,0.0,0.0,2.045212
+book=UNMAPPED,Fantasy,242,1054,causal_sentence_pct,242,0.0,1.620735,4.545455
+book=UNMAPPED,Fantasy,242,1054,contrast_sentence_pct,242,7.692308,12.832275,21.824029
+book=UNMAPPED,Fantasy,242,1054,example_sentence_pct,242,0.0,0.0,0.0
+book=UNMAPPED,Fantasy,242,1054,reading_experience_sentence_pct,242,0.0,0.0,2.941176
+book=UNMAPPED,Fantasy,242,1054,recommendation_sentence_pct,242,0.0,0.0,1.220044
+book=UNMAPPED,Fantasy,242,1054,plot_description_sentence_pct,242,0.0,0.0,0.0
+book=UNMAPPED,Fantasy,242,1054,evaluation_sentence_pct,242,0.0,1.324561,4.347826
+book=UNMAPPED,Fantasy,242,1054,sd_sentence_words,242,7.800928,9.140846,11.422324
+book=UNMAPPED,Mystery,980,9145,words_per_review,980,58.083333,94.142857,160.583333
+book=UNMAPPED,Mystery,980,9145,sentences_per_review,980,4.329545,6.142857,9.125
+book=UNMAPPED,Mystery,980,9145,paragraphs_per_review,980,1.0,1.0,2.0
+book=UNMAPPED,Mystery,980,9145,words_per_paragraph,980,46.790476,65.0,89.85
+book=UNMAPPED,Mystery,980,9145,mean_sentence_words,980,12.643871,15.5,18.526588
+book=UNMAPPED,Mystery,980,9145,question_ending_pct,980,0.0,0.0,3.413961
+book=UNMAPPED,Mystery,980,9145,vocabulary_diversity_20_pct,980,90.218801,91.538462,92.504478
+book=UNMAPPED,Mystery,980,9145,first_singular_per_1000_words,980,20.74156,34.384236,50.94846
+book=UNMAPPED,Mystery,980,9145,first_plural_per_1000_words,980,0.0,0.911584,3.414915
+book=UNMAPPED,Mystery,980,9145,second_person_per_1000_words,980,1.882035,5.729907,12.241797
+book=UNMAPPED,Mystery,980,9145,contractions_per_1000_words,980,4.745014,11.082526,18.495988
+book=UNMAPPED,Mystery,980,9145,exclamations_per_1000_words,980,0.0,3.095975,10.638702
+book=UNMAPPED,Mystery,980,9145,ellipses_per_1000_words,980,0.0,0.0,1.143356
+book=UNMAPPED,Mystery,980,9145,colons_per_1000_words,980,0.0,0.0,0.420566
+book=UNMAPPED,Mystery,980,9145,semicolons_per_1000_words,980,0.0,0.0,0.0
+book=UNMAPPED,Mystery,980,9145,upper_tokens_per_1000_words,980,0.0,1.591115,4.318535
+book=UNMAPPED,Mystery,980,9145,emphatic_runs_per_1000_words,980,0.0,0.0,0.0
+book=UNMAPPED,Mystery,980,9145,colloquial_tokens_per_1000_words,980,0.0,0.0,0.0
+book=UNMAPPED,Mystery,980,9145,subordination_sentence_pct,980,5.988095,11.764706,17.958893
+book=UNMAPPED,Mystery,980,9145,hedge_sentence_pct,980,0.0,0.854763,4.166667
+book=UNMAPPED,Mystery,980,9145,certainty_sentence_pct,980,0.0,0.0,1.290486
+book=UNMAPPED,Mystery,980,9145,causal_sentence_pct,980,0.0,0.0,3.030303
+book=UNMAPPED,Mystery,980,9145,contrast_sentence_pct,980,5.555556,10.526316,16.12338
+book=UNMAPPED,Mystery,980,9145,example_sentence_pct,980,0.0,0.0,0.0
+book=UNMAPPED,Mystery,980,9145,reading_experience_sentence_pct,980,0.0,0.0,3.013215
+book=UNMAPPED,Mystery,980,9145,recommendation_sentence_pct,980,0.0,0.0,1.960784
+book=UNMAPPED,Mystery,980,9145,plot_description_sentence_pct,980,0.0,0.0,0.0
+book=UNMAPPED,Mystery,980,9145,evaluation_sentence_pct,980,0.0,2.343574,5.733789
+book=UNMAPPED,Mystery,980,9145,sd_sentence_words,978,6.300159,7.921922,9.830823
+book=UNMAPPED,Philosophy,14,47,words_per_review,14,94.5,160.875,278.958333
+book=UNMAPPED,Philosophy,14,47,sentences_per_review,14,4.125,10.166667,12.375
+book=UNMAPPED,Philosophy,14,47,paragraphs_per_review,14,1.0,1.0,3.0
+book=UNMAPPED,Philosophy,14,47,words_per_paragraph,14,62.797619,88.0,148.395833
+book=UNMAPPED,Philosophy,14,47,mean_sentence_words,14,16.954615,20.423114,24.292208
+book=UNMAPPED,Philosophy,14,47,question_ending_pct,14,0.0,0.0,2.809524
+book=UNMAPPED,Philosophy,14,47,vocabulary_diversity_20_pct,14,89.254553,91.545549,92.375
+book=UNMAPPED,Philosophy,14,47,first_singular_per_1000_words,14,5.362283,12.011524,18.433519
+book=UNMAPPED,Philosophy,14,47,first_plural_per_1000_words,14,0.0,0.277469,3.494753
+book=UNMAPPED,Philosophy,14,47,second_person_per_1000_words,14,0.0,1.240719,6.105979
+book=UNMAPPED,Philosophy,14,47,contractions_per_1000_words,14,0.0,1.690991,10.658915
+book=UNMAPPED,Philosophy,14,47,exclamations_per_1000_words,14,0.0,0.882553,2.931278
+book=UNMAPPED,Philosophy,14,47,ellipses_per_1000_words,14,0.0,0.179083,1.878193
+book=UNMAPPED,Philosophy,14,47,colons_per_1000_words,14,0.488281,3.409003,6.73054
+book=UNMAPPED,Philosophy,14,47,semicolons_per_1000_words,14,0.0,0.504816,1.807292
+book=UNMAPPED,Philosophy,14,47,upper_tokens_per_1000_words,14,0.872093,5.045536,9.624756
+book=UNMAPPED,Philosophy,14,47,emphatic_runs_per_1000_words,14,0.0,0.0,0.0
+book=UNMAPPED,Philosophy,14,47,colloquial_tokens_per_1000_words,14,0.0,0.0,0.0
+book=UNMAPPED,Philosophy,14,47,subordination_sentence_pct,14,1.136364,8.666667,17.32105
+book=UNMAPPED,Philosophy,14,47,hedge_sentence_pct,14,0.0,2.095238,4.496047
+book=UNMAPPED,Philosophy,14,47,certainty_sentence_pct,14,0.0,0.0,0.0
+book=UNMAPPED,Philosophy,14,47,causal_sentence_pct,14,0.0,1.041667,4.961538
+book=UNMAPPED,Philosophy,14,47,contrast_sentence_pct,14,5.26087,11.414392,14.777778
+book=UNMAPPED,Philosophy,14,47,example_sentence_pct,14,0.0,0.0,1.965726
+book=UNMAPPED,Philosophy,14,47,reading_experience_sentence_pct,14,0.0,0.0,0.0
+book=UNMAPPED,Philosophy,14,47,recommendation_sentence_pct,14,0.0,0.0,0.0
+book=UNMAPPED,Philosophy,14,47,plot_description_sentence_pct,14,0.0,0.0,0.0
+book=UNMAPPED,Philosophy,14,47,evaluation_sentence_pct,14,0.0,0.0,0.0
+book=UNMAPPED,Philosophy,14,47,sd_sentence_words,14,9.170491,11.569861,16.114593
+book=UNMAPPED,Romance,1180,10648,words_per_review,1180,97.55,152.0,231.1875
+book=UNMAPPED,Romance,1180,10648,sentences_per_review,1180,6.660714,9.765625,14.477941
+book=UNMAPPED,Romance,1180,10648,paragraphs_per_review,1180,1.0,2.0,3.857143
+book=UNMAPPED,Romance,1180,10648,words_per_paragraph,1180,48.764469,66.778195,99.35
+book=UNMAPPED,Romance,1180,10648,mean_sentence_words,1180,12.59881,14.961725,17.803777
+book=UNMAPPED,Romance,1180,10648,question_ending_pct,1180,0.0,1.140264,4.102891
+book=UNMAPPED,Romance,1180,10648,vocabulary_diversity_20_pct,1179,90.683369,91.73913,92.625578
+book=UNMAPPED,Romance,1180,10648,first_singular_per_1000_words,1180,23.350979,36.058791,50.830502
+book=UNMAPPED,Romance,1180,10648,first_plural_per_1000_words,1180,0.0,1.357184,3.67247
+book=UNMAPPED,Romance,1180,10648,second_person_per_1000_words,1180,3.38897,7.858577,13.80302
+book=UNMAPPED,Romance,1180,10648,contractions_per_1000_words,1180,7.459212,13.710379,20.84478
+book=UNMAPPED,Romance,1180,10648,exclamations_per_1000_words,1180,1.103455,6.00952,17.466437
+book=UNMAPPED,Romance,1180,10648,ellipses_per_1000_words,1180,0.0,0.0,2.546056
+book=UNMAPPED,Romance,1180,10648,colons_per_1000_words,1180,0.0,0.0,0.527997
+book=UNMAPPED,Romance,1180,10648,semicolons_per_1000_words,1180,0.0,0.0,0.0
+book=UNMAPPED,Romance,1180,10648,upper_tokens_per_1000_words,1180,0.979736,3.665641,8.294743
+book=UNMAPPED,Romance,1180,10648,emphatic_runs_per_1000_words,1180,0.0,0.0,1.947425
+book=UNMAPPED,Romance,1180,10648,colloquial_tokens_per_1000_words,1180,0.0,0.0,0.295132
+book=UNMAPPED,Romance,1180,10648,subordination_sentence_pct,1180,7.724182,12.903226,17.806056
+book=UNMAPPED,Romance,1180,10648,hedge_sentence_pct,1180,0.0,1.005051,2.934708
+book=UNMAPPED,Romance,1180,10648,certainty_sentence_pct,1180,0.0,0.0,2.531646
+book=UNMAPPED,Romance,1180,10648,causal_sentence_pct,1180,0.0,1.337808,3.333333
+book=UNMAPPED,Romance,1180,10648,contrast_sentence_pct,1180,6.841532,11.207596,16.236748
+book=UNMAPPED,Romance,1180,10648,example_sentence_pct,1180,0.0,0.0,0.0
+book=UNMAPPED,Romance,1180,10648,reading_experience_sentence_pct,1180,0.0,0.167386,2.272727
+book=UNMAPPED,Romance,1180,10648,recommendation_sentence_pct,1180,0.0,0.0,1.520979
+book=UNMAPPED,Romance,1180,10648,plot_description_sentence_pct,1180,0.0,0.0,0.0
+book=UNMAPPED,Romance,1180,10648,evaluation_sentence_pct,1180,0.0,3.225806,6.436054
+book=UNMAPPED,Romance,1180,10648,sd_sentence_words,1180,6.396947,7.739717,9.753358
+book=UNMAPPED,Science,231,1158,words_per_review,231,114.0,182.0,268.875
+book=UNMAPPED,Science,231,1158,sentences_per_review,231,6.0,8.8,13.1
+book=UNMAPPED,Science,231,1158,paragraphs_per_review,231,1.0,1.666667,3.0
+book=UNMAPPED,Science,231,1158,words_per_paragraph,231,69.425,87.078947,130.016667
+book=UNMAPPED,Science,231,1158,mean_sentence_words,231,16.898737,19.848485,23.060714
+book=UNMAPPED,Science,231,1158,question_ending_pct,231,0.0,0.0,3.504749
+book=UNMAPPED,Science,231,1158,vocabulary_diversity_20_pct,231,90.531015,91.666667,92.738636
+book=UNMAPPED,Science,231,1158,first_singular_per_1000_words,231,9.744782,18.292683,27.712261
+book=UNMAPPED,Science,231,1158,first_plural_per_1000_words,231,0.0,1.982816,4.781297
+book=UNMAPPED,Science,231,1158,second_person_per_1000_words,231,1.91469,6.973501,12.699371
+book=UNMAPPED,Science,231,1158,contractions_per_1000_words,231,2.705839,6.039689,13.246172
+book=UNMAPPED,Science,231,1158,exclamations_per_1000_words,231,0.0,0.688942,3.383867
+book=UNMAPPED,Science,231,1158,ellipses_per_1000_words,231,0.0,0.0,1.460921
+book=UNMAPPED,Science,231,1158,colons_per_1000_words,231,0.0,1.073537,3.319779
+book=UNMAPPED,Science,231,1158,semicolons_per_1000_words,231,0.0,0.0,1.107285
+book=UNMAPPED,Science,231,1158,upper_tokens_per_1000_words,231,0.0,2.665027,5.826685
+book=UNMAPPED,Science,231,1158,emphatic_runs_per_1000_words,231,0.0,0.0,0.0
+book=UNMAPPED,Science,231,1158,colloquial_tokens_per_1000_words,231,0.0,0.0,0.0
+book=UNMAPPED,Science,231,1158,subordination_sentence_pct,231,9.83871,15.0,20.326087
+book=UNMAPPED,Science,231,1158,hedge_sentence_pct,231,0.0,3.188406,6.417296
+book=UNMAPPED,Science,231,1158,certainty_sentence_pct,231,0.0,0.0,1.118191
+book=UNMAPPED,Science,231,1158,causal_sentence_pct,231,0.0,0.884956,4.257246
+book=UNMAPPED,Science,231,1158,contrast_sentence_pct,231,8.333333,13.636364,20.0
+book=UNMAPPED,Science,231,1158,example_sentence_pct,231,0.0,0.0,2.81746
+book=UNMAPPED,Science,231,1158,reading_experience_sentence_pct,231,0.0,0.0,0.0
+book=UNMAPPED,Science,231,1158,recommendation_sentence_pct,231,0.0,0.0,2.0
+book=UNMAPPED,Science,231,1158,plot_description_sentence_pct,231,0.0,0.0,0.0
+book=UNMAPPED,Science,231,1158,evaluation_sentence_pct,231,0.0,0.0,2.0008
+book=UNMAPPED,Science,231,1158,sd_sentence_words,231,8.408924,10.281981,12.631612
+book=UNMAPPED,Science Fiction,349,1719,words_per_review,349,108.333333,176.5,276.0
+book=UNMAPPED,Science Fiction,349,1719,sentences_per_review,349,6.25,9.333333,15.0
+book=UNMAPPED,Science Fiction,349,1719,paragraphs_per_review,349,1.0,2.0,3.75
+book=UNMAPPED,Science Fiction,349,1719,words_per_paragraph,349,54.333333,75.0,117.666667
+book=UNMAPPED,Science Fiction,349,1719,mean_sentence_words,349,15.083333,18.037037,21.238462
+book=UNMAPPED,Science Fiction,349,1719,question_ending_pct,349,0.0,0.0,4.545455
+book=UNMAPPED,Science Fiction,349,1719,vocabulary_diversity_20_pct,349,90.384615,91.612903,92.682927
+book=UNMAPPED,Science Fiction,349,1719,first_singular_per_1000_words,349,14.062978,24.640657,35.791757
+book=UNMAPPED,Science Fiction,349,1719,first_plural_per_1000_words,349,0.0,1.806141,4.524887
+book=UNMAPPED,Science Fiction,349,1719,second_person_per_1000_words,349,2.604167,6.493506,12.797075
+book=UNMAPPED,Science Fiction,349,1719,contractions_per_1000_words,349,4.824561,11.869436,20.22756
+book=UNMAPPED,Science Fiction,349,1719,exclamations_per_1000_words,349,0.0,0.263366,3.683241
+book=UNMAPPED,Science Fiction,349,1719,ellipses_per_1000_words,349,0.0,0.0,1.949318
+book=UNMAPPED,Science Fiction,349,1719,colons_per_1000_words,349,0.0,0.0,2.012072
+book=UNMAPPED,Science Fiction,349,1719,semicolons_per_1000_words,349,0.0,0.0,0.305717
+book=UNMAPPED,Science Fiction,349,1719,upper_tokens_per_1000_words,349,0.0,3.253796,7.092199
+book=UNMAPPED,Science Fiction,349,1719,emphatic_runs_per_1000_words,349,0.0,0.0,0.0
+book=UNMAPPED,Science Fiction,349,1719,colloquial_tokens_per_1000_words,349,0.0,0.0,0.0
+book=UNMAPPED,Science Fiction,349,1719,subordination_sentence_pct,349,10.0,15.942029,20.903955
+book=UNMAPPED,Science Fiction,349,1719,hedge_sentence_pct,349,0.0,2.941176,6.451613
+book=UNMAPPED,Science Fiction,349,1719,certainty_sentence_pct,349,0.0,0.0,0.935454
+book=UNMAPPED,Science Fiction,349,1719,causal_sentence_pct,349,0.0,1.30719,4.166667
+book=UNMAPPED,Science Fiction,349,1719,contrast_sentence_pct,349,8.695652,14.285714,19.444444
+book=UNMAPPED,Science Fiction,349,1719,example_sentence_pct,349,0.0,0.0,0.0
+book=UNMAPPED,Science Fiction,349,1719,reading_experience_sentence_pct,349,0.0,0.0,2.040816
+book=UNMAPPED,Science Fiction,349,1719,recommendation_sentence_pct,349,0.0,0.0,0.653595
+book=UNMAPPED,Science Fiction,349,1719,plot_description_sentence_pct,349,0.0,0.0,0.0
+book=UNMAPPED,Science Fiction,349,1719,evaluation_sentence_pct,349,0.0,0.0,2.912621
+book=UNMAPPED,Science Fiction,349,1719,sd_sentence_words,347,7.760044,9.523811,11.378391
+book=UNMAPPED,Thriller,8153,64909,words_per_review,8153,50.75,82.8,141.0
+book=UNMAPPED,Thriller,8153,64909,sentences_per_review,8153,3.833333,5.5625,8.542857
+book=UNMAPPED,Thriller,8153,64909,paragraphs_per_review,8153,1.0,1.0,1.727273
+book=UNMAPPED,Thriller,8153,64909,words_per_paragraph,8153,43.086957,60.8,87.5
+book=UNMAPPED,Thriller,8153,64909,mean_sentence_words,8153,12.27027,14.888889,18.0
+book=UNMAPPED,Thriller,8153,64909,question_ending_pct,8153,0.0,0.0,3.025478
+book=UNMAPPED,Thriller,8153,64909,vocabulary_diversity_20_pct,8153,90.138889,91.481481,92.553763
+book=UNMAPPED,Thriller,8153,64909,first_singular_per_1000_words,8153,20.697168,35.087719,51.388889
+book=UNMAPPED,Thriller,8153,64909,first_plural_per_1000_words,8153,0.0,1.179941,4.137931
+book=UNMAPPED,Thriller,8153,64909,second_person_per_1000_words,8153,1.655629,6.451613,13.262599
+book=UNMAPPED,Thriller,8153,64909,contractions_per_1000_words,8153,3.846154,9.975062,18.072289
+book=UNMAPPED,Thriller,8153,64909,exclamations_per_1000_words,8153,0.0,1.849568,8.086253
+book=UNMAPPED,Thriller,8153,64909,ellipses_per_1000_words,8153,0.0,0.0,1.085776
+book=UNMAPPED,Thriller,8153,64909,colons_per_1000_words,8153,0.0,0.0,0.0
+book=UNMAPPED,Thriller,8153,64909,semicolons_per_1000_words,8153,0.0,0.0,0.0
+book=UNMAPPED,Thriller,8153,64909,upper_tokens_per_1000_words,8153,0.0,1.988072,5.442177
+book=UNMAPPED,Thriller,8153,64909,emphatic_runs_per_1000_words,8153,0.0,0.0,0.0
+book=UNMAPPED,Thriller,8153,64909,colloquial_tokens_per_1000_words,8153,0.0,0.0,0.0
+book=UNMAPPED,Thriller,8153,64909,subordination_sentence_pct,8153,5.882353,11.290323,17.142857
+book=UNMAPPED,Thriller,8153,64909,hedge_sentence_pct,8153,0.0,0.515464,4.081633
+book=UNMAPPED,Thriller,8153,64909,certainty_sentence_pct,8153,0.0,0.0,1.324503
+book=UNMAPPED,Thriller,8153,64909,causal_sentence_pct,8153,0.0,0.0,3.333333
+book=UNMAPPED,Thriller,8153,64909,contrast_sentence_pct,8153,5.714286,11.111111,17.1875
+book=UNMAPPED,Thriller,8153,64909,example_sentence_pct,8153,0.0,0.0,0.0
+book=UNMAPPED,Thriller,8153,64909,reading_experience_sentence_pct,8153,0.0,0.0,3.10559
+book=UNMAPPED,Thriller,8153,64909,recommendation_sentence_pct,8153,0.0,0.0,2.083333
+book=UNMAPPED,Thriller,8153,64909,plot_description_sentence_pct,8153,0.0,0.0,0.0
+book=UNMAPPED,Thriller,8153,64909,evaluation_sentence_pct,8153,0.0,2.380952,6.060606
+book=UNMAPPED,Thriller,8153,64909,sd_sentence_words,8128,6.177834,7.833631,9.790038
+no_quote_with_english_anchor,ALL,11814,341924,words_per_review,11814,54.064951,86.630682,142.829545
+no_quote_with_english_anchor,ALL,11814,341924,sentences_per_review,11814,4.133333,5.818182,8.777778
+no_quote_with_english_anchor,ALL,11814,341924,paragraphs_per_review,11814,1.0,1.054054,1.862013
+no_quote_with_english_anchor,ALL,11814,341924,words_per_paragraph,11814,44.421345,60.449495,84.245192
+no_quote_with_english_anchor,ALL,11814,341924,mean_sentence_words,11814,12.211392,14.556624,17.365361
+no_quote_with_english_anchor,ALL,11814,341924,question_ending_pct,11814,0.0,1.333333,3.448276
+no_quote_with_english_anchor,ALL,11814,341924,vocabulary_diversity_20_pct,11814,90.740741,91.639344,92.444444
+no_quote_with_english_anchor,ALL,11814,341924,first_singular_per_1000_words,11814,21.796126,34.36745,48.202039
+no_quote_with_english_anchor,ALL,11814,341924,first_plural_per_1000_words,11814,0.526385,1.608364,3.306449
+no_quote_with_english_anchor,ALL,11814,341924,second_person_per_1000_words,11814,3.602276,7.413336,12.818098
+no_quote_with_english_anchor,ALL,11814,341924,contractions_per_1000_words,11814,6.394385,12.145749,19.028044
+no_quote_with_english_anchor,ALL,11814,341924,exclamations_per_1000_words,11814,0.65445,3.284972,9.953084
+no_quote_with_english_anchor,ALL,11814,341924,ellipses_per_1000_words,11814,0.0,0.0,1.750803
+no_quote_with_english_anchor,ALL,11814,341924,colons_per_1000_words,11814,0.0,0.0,0.791609
+no_quote_with_english_anchor,ALL,11814,341924,semicolons_per_1000_words,11814,0.0,0.0,0.618334
+no_quote_with_english_anchor,ALL,11814,341924,upper_tokens_per_1000_words,11814,1.083424,2.672606,5.400297
+no_quote_with_english_anchor,ALL,11814,341924,emphatic_runs_per_1000_words,11814,0.0,0.0,0.858369
+no_quote_with_english_anchor,ALL,11814,341924,colloquial_tokens_per_1000_words,11814,0.0,0.0,0.0
+no_quote_with_english_anchor,ALL,11814,341924,subordination_sentence_pct,11814,7.526882,11.259166,15.747194
+no_quote_with_english_anchor,ALL,11814,341924,hedge_sentence_pct,11814,0.775194,2.0,3.846154
+no_quote_with_english_anchor,ALL,11814,341924,certainty_sentence_pct,11814,0.0,0.713015,1.923077
+no_quote_with_english_anchor,ALL,11814,341924,causal_sentence_pct,11814,0.0,1.470588,3.125
+no_quote_with_english_anchor,ALL,11814,341924,contrast_sentence_pct,11814,7.447646,11.594203,16.428205
+no_quote_with_english_anchor,ALL,11814,341924,example_sentence_pct,11814,0.0,0.0,0.0
+no_quote_with_english_anchor,ALL,11814,341924,reading_experience_sentence_pct,11814,0.0,1.520335,3.125
+no_quote_with_english_anchor,ALL,11814,341924,recommendation_sentence_pct,11814,0.0,0.632911,2.040816
+no_quote_with_english_anchor,ALL,11814,341924,plot_description_sentence_pct,11814,0.0,0.0,0.0
+no_quote_with_english_anchor,ALL,11814,341924,evaluation_sentence_pct,11814,1.587302,3.448276,5.960265
+no_quote_with_english_anchor,ALL,11814,341924,sd_sentence_words,11813,6.583161,7.975656,9.673425
+no_quote_with_english_anchor,Fantasy,247,2178,words_per_review,247,129.0,178.2,250.729167
+no_quote_with_english_anchor,Fantasy,247,2178,sentences_per_review,247,7.211111,9.6,13.9375
+no_quote_with_english_anchor,Fantasy,247,2178,paragraphs_per_review,247,1.054887,2.0,3.55
+no_quote_with_english_anchor,Fantasy,247,2178,words_per_paragraph,247,61.259259,80.181818,116.625
+no_quote_with_english_anchor,Fantasy,247,2178,mean_sentence_words,247,15.36118,17.716667,20.680556
+no_quote_with_english_anchor,Fantasy,247,2178,question_ending_pct,247,0.0,1.298701,3.571429
+no_quote_with_english_anchor,Fantasy,247,2178,vocabulary_diversity_20_pct,247,90.734954,91.666667,92.351334
+no_quote_with_english_anchor,Fantasy,247,2178,first_singular_per_1000_words,247,24.354937,32.771536,44.217378
+no_quote_with_english_anchor,Fantasy,247,2178,first_plural_per_1000_words,247,0.673241,2.246803,4.103211
+no_quote_with_english_anchor,Fantasy,247,2178,second_person_per_1000_words,247,3.439383,6.511628,11.857992
+no_quote_with_english_anchor,Fantasy,247,2178,contractions_per_1000_words,247,8.891713,14.084507,21.172511
+no_quote_with_english_anchor,Fantasy,247,2178,exclamations_per_1000_words,247,0.0,1.969796,5.972757
+no_quote_with_english_anchor,Fantasy,247,2178,ellipses_per_1000_words,247,0.0,0.809061,2.473491
+no_quote_with_english_anchor,Fantasy,247,2178,colons_per_1000_words,247,0.0,0.420698,1.978468
+no_quote_with_english_anchor,Fantasy,247,2178,semicolons_per_1000_words,247,0.0,0.0,1.09296
+no_quote_with_english_anchor,Fantasy,247,2178,upper_tokens_per_1000_words,247,0.654273,2.138275,5.480664
+no_quote_with_english_anchor,Fantasy,247,2178,emphatic_runs_per_1000_words,247,0.0,0.0,0.0
+no_quote_with_english_anchor,Fantasy,247,2178,colloquial_tokens_per_1000_words,247,0.0,0.0,0.0
+no_quote_with_english_anchor,Fantasy,247,2178,subordination_sentence_pct,247,11.677489,16.455696,21.352584
+no_quote_with_english_anchor,Fantasy,247,2178,hedge_sentence_pct,247,1.600102,3.333333,5.769231
+no_quote_with_english_anchor,Fantasy,247,2178,certainty_sentence_pct,247,0.0,0.0,2.45408
+no_quote_with_english_anchor,Fantasy,247,2178,causal_sentence_pct,247,0.0,2.272727,4.040816
+no_quote_with_english_anchor,Fantasy,247,2178,contrast_sentence_pct,247,9.63323,13.953488,21.203
+no_quote_with_english_anchor,Fantasy,247,2178,example_sentence_pct,247,0.0,0.0,0.0
+no_quote_with_english_anchor,Fantasy,247,2178,reading_experience_sentence_pct,247,0.0,1.405152,2.631579
+no_quote_with_english_anchor,Fantasy,247,2178,recommendation_sentence_pct,247,0.0,0.0,1.639785
+no_quote_with_english_anchor,Fantasy,247,2178,plot_description_sentence_pct,247,0.0,0.0,0.0
+no_quote_with_english_anchor,Fantasy,247,2178,evaluation_sentence_pct,247,0.694478,2.727273,4.780952
+no_quote_with_english_anchor,Fantasy,247,2178,sd_sentence_words,247,8.247536,9.284797,11.440284
+no_quote_with_english_anchor,Mystery,1030,32940,words_per_review,1030,60.697368,95.130952,150.075
+no_quote_with_english_anchor,Mystery,1030,32940,sentences_per_review,1030,4.52807,6.369318,8.949342
+no_quote_with_english_anchor,Mystery,1030,32940,paragraphs_per_review,1030,1.0,1.083333,1.919167
+no_quote_with_english_anchor,Mystery,1030,32940,words_per_paragraph,1030,46.910509,65.313725,91.511364
+no_quote_with_english_anchor,Mystery,1030,32940,mean_sentence_words,1030,12.71772,15.178258,18.036024
+no_quote_with_english_anchor,Mystery,1030,32940,question_ending_pct,1030,0.0,1.428571,3.846154
+no_quote_with_english_anchor,Mystery,1030,32940,vocabulary_diversity_20_pct,1030,90.619281,91.565923,92.373088
+no_quote_with_english_anchor,Mystery,1030,32940,first_singular_per_1000_words,1030,20.363145,33.014735,46.989327
+no_quote_with_english_anchor,Mystery,1030,32940,first_plural_per_1000_words,1030,0.443515,1.384265,2.952777
+no_quote_with_english_anchor,Mystery,1030,32940,second_person_per_1000_words,1030,2.664446,6.024731,10.252207
+no_quote_with_english_anchor,Mystery,1030,32940,contractions_per_1000_words,1030,6.224323,12.055459,19.029323
+no_quote_with_english_anchor,Mystery,1030,32940,exclamations_per_1000_words,1030,0.976773,4.457708,12.396694
+no_quote_with_english_anchor,Mystery,1030,32940,ellipses_per_1000_words,1030,0.0,0.0,1.369905
+no_quote_with_english_anchor,Mystery,1030,32940,colons_per_1000_words,1030,0.0,0.0,0.742473
+no_quote_with_english_anchor,Mystery,1030,32940,semicolons_per_1000_words,1030,0.0,0.0,0.462029
+no_quote_with_english_anchor,Mystery,1030,32940,upper_tokens_per_1000_words,1030,0.64946,1.805605,3.787797
+no_quote_with_english_anchor,Mystery,1030,32940,emphatic_runs_per_1000_words,1030,0.0,0.0,0.903402
+no_quote_with_english_anchor,Mystery,1030,32940,colloquial_tokens_per_1000_words,1030,0.0,0.0,0.0
+no_quote_with_english_anchor,Mystery,1030,32940,subordination_sentence_pct,1030,7.483502,11.410488,16.237344
+no_quote_with_english_anchor,Mystery,1030,32940,hedge_sentence_pct,1030,0.380295,1.757475,3.466236
+no_quote_with_english_anchor,Mystery,1030,32940,certainty_sentence_pct,1030,0.0,0.448467,1.612903
+no_quote_with_english_anchor,Mystery,1030,32940,causal_sentence_pct,1030,0.0,1.197605,2.439024
+no_quote_with_english_anchor,Mystery,1030,32940,contrast_sentence_pct,1030,6.063673,9.84761,14.285714
+no_quote_with_english_anchor,Mystery,1030,32940,example_sentence_pct,1030,0.0,0.0,0.0
+no_quote_with_english_anchor,Mystery,1030,32940,reading_experience_sentence_pct,1030,0.0,1.204819,2.406776
+no_quote_with_english_anchor,Mystery,1030,32940,recommendation_sentence_pct,1030,0.0,0.41026,1.793734
+no_quote_with_english_anchor,Mystery,1030,32940,plot_description_sentence_pct,1030,0.0,0.0,0.0619
+no_quote_with_english_anchor,Mystery,1030,32940,evaluation_sentence_pct,1030,1.323899,3.061224,5.289009
+no_quote_with_english_anchor,Mystery,1030,32940,sd_sentence_words,1030,6.627675,8.011319,9.725191
+no_quote_with_english_anchor,Philosophy,11,57,words_per_review,11,96.133333,125.583333,199.25
+no_quote_with_english_anchor,Philosophy,11,57,sentences_per_review,11,4.25,7.5,8.071429
+no_quote_with_english_anchor,Philosophy,11,57,paragraphs_per_review,11,1.0,1.166667,2.166667
+no_quote_with_english_anchor,Philosophy,11,57,words_per_paragraph,11,67.433333,88.647059,105.446429
+no_quote_with_english_anchor,Philosophy,11,57,mean_sentence_words,11,20.747692,23.4,25.756944
+no_quote_with_english_anchor,Philosophy,11,57,question_ending_pct,11,0.0,0.0,5.667373
+no_quote_with_english_anchor,Philosophy,11,57,vocabulary_diversity_20_pct,11,90.587823,92.702703,93.090909
+no_quote_with_english_anchor,Philosophy,11,57,first_singular_per_1000_words,11,6.290681,11.597938,27.301741
+no_quote_with_english_anchor,Philosophy,11,57,first_plural_per_1000_words,11,0.0,0.0,2.568567
+no_quote_with_english_anchor,Philosophy,11,57,second_person_per_1000_words,11,0.0,2.57732,4.740999
+no_quote_with_english_anchor,Philosophy,11,57,contractions_per_1000_words,11,0.331785,3.963012,5.768445
+no_quote_with_english_anchor,Philosophy,11,57,exclamations_per_1000_words,11,0.0,1.981506,3.203861
+no_quote_with_english_anchor,Philosophy,11,57,ellipses_per_1000_words,11,0.0,0.0,1.212856
+no_quote_with_english_anchor,Philosophy,11,57,colons_per_1000_words,11,0.0,1.99071,3.712349
+no_quote_with_english_anchor,Philosophy,11,57,semicolons_per_1000_words,11,0.0,2.028398,3.203861
+no_quote_with_english_anchor,Philosophy,11,57,upper_tokens_per_1000_words,11,0.0,0.0,6.014855
+no_quote_with_english_anchor,Philosophy,11,57,emphatic_runs_per_1000_words,11,0.0,0.0,0.0
+no_quote_with_english_anchor,Philosophy,11,57,colloquial_tokens_per_1000_words,11,0.0,0.0,0.0
+no_quote_with_english_anchor,Philosophy,11,57,subordination_sentence_pct,11,9.90676,14.285714,18.088235
+no_quote_with_english_anchor,Philosophy,11,57,hedge_sentence_pct,11,1.315789,4.0,7.570621
+no_quote_with_english_anchor,Philosophy,11,57,certainty_sentence_pct,11,0.0,0.0,0.438596
+no_quote_with_english_anchor,Philosophy,11,57,causal_sentence_pct,11,0.0,0.0,2.163247
+no_quote_with_english_anchor,Philosophy,11,57,contrast_sentence_pct,11,13.333333,15.151515,18.474576
+no_quote_with_english_anchor,Philosophy,11,57,example_sentence_pct,11,0.0,0.0,0.438596
+no_quote_with_english_anchor,Philosophy,11,57,reading_experience_sentence_pct,11,0.0,0.0,0.0
+no_quote_with_english_anchor,Philosophy,11,57,recommendation_sentence_pct,11,0.0,0.0,0.438596
+no_quote_with_english_anchor,Philosophy,11,57,plot_description_sentence_pct,11,0.0,0.0,0.0
+no_quote_with_english_anchor,Philosophy,11,57,evaluation_sentence_pct,11,0.0,0.0,0.0
+no_quote_with_english_anchor,Philosophy,11,57,sd_sentence_words,11,10.428754,12.825146,13.128282
+no_quote_with_english_anchor,Romance,1246,27861,words_per_review,1246,106.607738,151.882353,214.782738
+no_quote_with_english_anchor,Romance,1246,27861,sentences_per_review,1246,7.186364,9.863354,13.710714
+no_quote_with_english_anchor,Romance,1246,27861,paragraphs_per_review,1246,1.097581,2.0,3.5
+no_quote_with_english_anchor,Romance,1246,27861,words_per_paragraph,1246,50.561224,69.658408,99.214744
+no_quote_with_english_anchor,Romance,1246,27861,mean_sentence_words,1246,12.875947,14.912691,17.59321
+no_quote_with_english_anchor,Romance,1246,27861,question_ending_pct,1246,0.0,1.754386,3.797468
+no_quote_with_english_anchor,Romance,1246,27861,vocabulary_diversity_20_pct,1246,90.927265,91.769231,92.5
+no_quote_with_english_anchor,Romance,1246,27861,first_singular_per_1000_words,1246,22.976017,34.80424,47.591601
+no_quote_with_english_anchor,Romance,1246,27861,first_plural_per_1000_words,1246,0.595771,1.720083,3.73057
+no_quote_with_english_anchor,Romance,1246,27861,second_person_per_1000_words,1246,3.920013,7.966685,13.083195
+no_quote_with_english_anchor,Romance,1246,27861,contractions_per_1000_words,1246,8.297226,13.67909,19.480187
+no_quote_with_english_anchor,Romance,1246,27861,exclamations_per_1000_words,1246,2.188652,7.009551,17.737465
+no_quote_with_english_anchor,Romance,1246,27861,ellipses_per_1000_words,1246,0.0,0.663483,2.383926
+no_quote_with_english_anchor,Romance,1246,27861,colons_per_1000_words,1246,0.0,0.0,0.781637
+no_quote_with_english_anchor,Romance,1246,27861,semicolons_per_1000_words,1246,0.0,0.0,0.386008
+no_quote_with_english_anchor,Romance,1246,27861,upper_tokens_per_1000_words,1246,1.986852,4.346943,8.02139
+no_quote_with_english_anchor,Romance,1246,27861,emphatic_runs_per_1000_words,1246,0.0,0.484657,2.314815
+no_quote_with_english_anchor,Romance,1246,27861,colloquial_tokens_per_1000_words,1246,0.0,0.0,0.736378
+no_quote_with_english_anchor,Romance,1246,27861,subordination_sentence_pct,1246,9.096663,12.524224,16.864086
+no_quote_with_english_anchor,Romance,1246,27861,hedge_sentence_pct,1246,0.3545,1.388889,2.711609
+no_quote_with_english_anchor,Romance,1246,27861,certainty_sentence_pct,1246,0.0,1.083602,2.408693
+no_quote_with_english_anchor,Romance,1246,27861,causal_sentence_pct,1246,0.47173,1.758805,3.365223
+no_quote_with_english_anchor,Romance,1246,27861,contrast_sentence_pct,1246,7.922973,11.764706,15.995902
+no_quote_with_english_anchor,Romance,1246,27861,example_sentence_pct,1246,0.0,0.0,0.0
+no_quote_with_english_anchor,Romance,1246,27861,reading_experience_sentence_pct,1246,0.0,1.095899,2.148618
+no_quote_with_english_anchor,Romance,1246,27861,recommendation_sentence_pct,1246,0.0,0.59702,1.666667
+no_quote_with_english_anchor,Romance,1246,27861,plot_description_sentence_pct,1246,0.0,0.0,0.267739
+no_quote_with_english_anchor,Romance,1246,27861,evaluation_sentence_pct,1246,1.818182,3.775961,6.587391
+no_quote_with_english_anchor,Romance,1246,27861,sd_sentence_words,1246,6.764468,8.082026,9.791044
+no_quote_with_english_anchor,Science,232,1863,words_per_review,232,95.6625,138.311111,200.767857
+no_quote_with_english_anchor,Science,232,1863,sentences_per_review,232,5.133523,7.0,10.017857
+no_quote_with_english_anchor,Science,232,1863,paragraphs_per_review,232,1.0,1.45,2.333333
+no_quote_with_english_anchor,Science,232,1863,words_per_paragraph,232,65.052058,86.483333,121.198276
+no_quote_with_english_anchor,Science,232,1863,mean_sentence_words,232,16.868831,19.649235,22.497625
+no_quote_with_english_anchor,Science,232,1863,question_ending_pct,232,0.0,0.0,1.869658
+no_quote_with_english_anchor,Science,232,1863,vocabulary_diversity_20_pct,232,90.591974,91.666667,92.658279
+no_quote_with_english_anchor,Science,232,1863,first_singular_per_1000_words,232,9.186597,17.33365,28.831681
+no_quote_with_english_anchor,Science,232,1863,first_plural_per_1000_words,232,0.0,1.515058,4.102577
+no_quote_with_english_anchor,Science,232,1863,second_person_per_1000_words,232,2.122585,7.036065,11.776285
+no_quote_with_english_anchor,Science,232,1863,contractions_per_1000_words,232,1.823572,5.446969,12.093529
+no_quote_with_english_anchor,Science,232,1863,exclamations_per_1000_words,232,0.0,0.661995,3.120595
+no_quote_with_english_anchor,Science,232,1863,ellipses_per_1000_words,232,0.0,0.0,0.751479
+no_quote_with_english_anchor,Science,232,1863,colons_per_1000_words,232,0.0,0.867648,2.358186
+no_quote_with_english_anchor,Science,232,1863,semicolons_per_1000_words,232,0.0,0.0,1.140846
+no_quote_with_english_anchor,Science,232,1863,upper_tokens_per_1000_words,232,0.0,2.402403,5.865119
+no_quote_with_english_anchor,Science,232,1863,emphatic_runs_per_1000_words,232,0.0,0.0,0.0
+no_quote_with_english_anchor,Science,232,1863,colloquial_tokens_per_1000_words,232,0.0,0.0,0.0
+no_quote_with_english_anchor,Science,232,1863,subordination_sentence_pct,232,9.090909,14.006791,20.0
+no_quote_with_english_anchor,Science,232,1863,hedge_sentence_pct,232,0.0,3.468324,7.142857
+no_quote_with_english_anchor,Science,232,1863,certainty_sentence_pct,232,0.0,0.0,1.506167
+no_quote_with_english_anchor,Science,232,1863,causal_sentence_pct,232,0.0,0.0,3.342697
+no_quote_with_english_anchor,Science,232,1863,contrast_sentence_pct,232,8.811977,13.793103,20.0
+no_quote_with_english_anchor,Science,232,1863,example_sentence_pct,232,0.0,0.0,2.234848
+no_quote_with_english_anchor,Science,232,1863,reading_experience_sentence_pct,232,0.0,0.0,0.146199
+no_quote_with_english_anchor,Science,232,1863,recommendation_sentence_pct,232,0.0,0.0,2.454268
+no_quote_with_english_anchor,Science,232,1863,plot_description_sentence_pct,232,0.0,0.0,0.0
+no_quote_with_english_anchor,Science,232,1863,evaluation_sentence_pct,232,0.0,0.0,2.07706
+no_quote_with_english_anchor,Science,232,1863,sd_sentence_words,232,8.183655,10.071773,12.049579
+no_quote_with_english_anchor,Science Fiction,358,3626,words_per_review,358,103.011364,149.4375,216.375
+no_quote_with_english_anchor,Science Fiction,358,3626,sentences_per_review,358,6.0,8.708333,12.15
+no_quote_with_english_anchor,Science Fiction,358,3626,paragraphs_per_review,358,1.0,1.767857,3.0
+no_quote_with_english_anchor,Science Fiction,358,3626,words_per_paragraph,358,54.369565,75.965278,112.923713
+no_quote_with_english_anchor,Science Fiction,358,3626,mean_sentence_words,358,15.238971,17.642025,20.71139
+no_quote_with_english_anchor,Science Fiction,358,3626,question_ending_pct,358,0.0,1.419082,4.039954
+no_quote_with_english_anchor,Science Fiction,358,3626,vocabulary_diversity_20_pct,358,90.714286,91.684783,92.577953
+no_quote_with_english_anchor,Science Fiction,358,3626,first_singular_per_1000_words,358,15.252737,24.512729,37.019023
+no_quote_with_english_anchor,Science Fiction,358,3626,first_plural_per_1000_words,358,0.0,1.81991,3.739741
+no_quote_with_english_anchor,Science Fiction,358,3626,second_person_per_1000_words,358,2.730547,6.293269,12.878209
+no_quote_with_english_anchor,Science Fiction,358,3626,contractions_per_1000_words,358,5.599944,11.929919,20.297749
+no_quote_with_english_anchor,Science Fiction,358,3626,exclamations_per_1000_words,358,0.0,0.817675,3.581924
+no_quote_with_english_anchor,Science Fiction,358,3626,ellipses_per_1000_words,358,0.0,0.0,2.05038
+no_quote_with_english_anchor,Science Fiction,358,3626,colons_per_1000_words,358,0.0,0.322784,1.728994
+no_quote_with_english_anchor,Science Fiction,358,3626,semicolons_per_1000_words,358,0.0,0.0,0.55629
+no_quote_with_english_anchor,Science Fiction,358,3626,upper_tokens_per_1000_words,358,1.257202,3.438072,7.045191
+no_quote_with_english_anchor,Science Fiction,358,3626,emphatic_runs_per_1000_words,358,0.0,0.0,0.0
+no_quote_with_english_anchor,Science Fiction,358,3626,colloquial_tokens_per_1000_words,358,0.0,0.0,0.0
+no_quote_with_english_anchor,Science Fiction,358,3626,subordination_sentence_pct,358,10.526316,15.384615,20.913502
+no_quote_with_english_anchor,Science Fiction,358,3626,hedge_sentence_pct,358,0.598958,3.343052,6.504208
+no_quote_with_english_anchor,Science Fiction,358,3626,certainty_sentence_pct,358,0.0,0.0,1.558473
+no_quote_with_english_anchor,Science Fiction,358,3626,causal_sentence_pct,358,0.0,1.623445,3.695857
+no_quote_with_english_anchor,Science Fiction,358,3626,contrast_sentence_pct,358,9.846185,14.306181,20.0
+no_quote_with_english_anchor,Science Fiction,358,3626,example_sentence_pct,358,0.0,0.0,0.0
+no_quote_with_english_anchor,Science Fiction,358,3626,reading_experience_sentence_pct,358,0.0,0.0,2.096189
+no_quote_with_english_anchor,Science Fiction,358,3626,recommendation_sentence_pct,358,0.0,0.0,1.538462
+no_quote_with_english_anchor,Science Fiction,358,3626,plot_description_sentence_pct,358,0.0,0.0,0.0
+no_quote_with_english_anchor,Science Fiction,358,3626,evaluation_sentence_pct,358,0.0,1.742245,3.878205
+no_quote_with_english_anchor,Science Fiction,358,3626,sd_sentence_words,358,7.800613,9.480612,11.110883
+no_quote_with_english_anchor,Thriller,8696,273433,words_per_review,8696,49.097586,74.262798,119.021552
+no_quote_with_english_anchor,Thriller,8696,273433,sentences_per_review,8696,3.862069,5.2,7.5
+no_quote_with_english_anchor,Thriller,8696,273433,paragraphs_per_review,8696,1.0,1.01653,1.5
+no_quote_with_english_anchor,Thriller,8696,273433,words_per_paragraph,8696,42.37575,57.470588,78.564032
+no_quote_with_english_anchor,Thriller,8696,273433,mean_sentence_words,8696,11.888799,14.131394,16.766292
+no_quote_with_english_anchor,Thriller,8696,273433,question_ending_pct,8696,0.0,1.284875,3.333333
+no_quote_with_english_anchor,Thriller,8696,273433,vocabulary_diversity_20_pct,8696,90.744681,91.627907,92.435897
+no_quote_with_english_anchor,Thriller,8696,273433,first_singular_per_1000_words,8696,22.744172,35.418643,49.4143
+no_quote_with_english_anchor,Thriller,8696,273433,first_plural_per_1000_words,8696,0.55166,1.604493,3.228348
+no_quote_with_english_anchor,Thriller,8696,273433,second_person_per_1000_words,8696,3.79327,7.609226,13.207217
+no_quote_with_english_anchor,Thriller,8696,273433,contractions_per_1000_words,8696,6.345178,11.946044,18.996187
+no_quote_with_english_anchor,Thriller,8696,273433,exclamations_per_1000_words,8696,0.628595,3.08642,9.233915
+no_quote_with_english_anchor,Thriller,8696,273433,ellipses_per_1000_words,8696,0.0,0.0,1.65187
+no_quote_with_english_anchor,Thriller,8696,273433,colons_per_1000_words,8696,0.0,0.0,0.697077
+no_quote_with_english_anchor,Thriller,8696,273433,semicolons_per_1000_words,8696,0.0,0.0,0.648929
+no_quote_with_english_anchor,Thriller,8696,273433,upper_tokens_per_1000_words,8696,1.095051,2.62439,5.100154
+no_quote_with_english_anchor,Thriller,8696,273433,emphatic_runs_per_1000_words,8696,0.0,0.0,0.792707
+no_quote_with_english_anchor,Thriller,8696,273433,colloquial_tokens_per_1000_words,8696,0.0,0.0,0.0
+no_quote_with_english_anchor,Thriller,8696,273433,subordination_sentence_pct,8696,7.142857,10.656667,15.068493
+no_quote_with_english_anchor,Thriller,8696,273433,hedge_sentence_pct,8696,0.833333,2.061856,3.846154
+no_quote_with_english_anchor,Thriller,8696,273433,certainty_sentence_pct,8696,0.0,0.735294,1.88828
+no_quote_with_english_anchor,Thriller,8696,273433,causal_sentence_pct,8696,0.0,1.470588,3.087264
+no_quote_with_english_anchor,Thriller,8696,273433,contrast_sentence_pct,8696,7.426176,11.594203,16.329865
+no_quote_with_english_anchor,Thriller,8696,273433,example_sentence_pct,8696,0.0,0.0,0.0
+no_quote_with_english_anchor,Thriller,8696,273433,reading_experience_sentence_pct,8696,0.522878,1.735359,3.418803
+no_quote_with_english_anchor,Thriller,8696,273433,recommendation_sentence_pct,8696,0.0,0.743956,2.150538
+no_quote_with_english_anchor,Thriller,8696,273433,plot_description_sentence_pct,8696,0.0,0.0,0.0
+no_quote_with_english_anchor,Thriller,8696,273433,evaluation_sentence_pct,8696,1.785714,3.636364,6.122449
+no_quote_with_english_anchor,Thriller,8696,273433,sd_sentence_words,8695,6.472946,7.804779,9.440627

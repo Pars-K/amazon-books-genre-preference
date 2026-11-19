@@ -1,0 +1,3 @@
+cluster,users,median_words,median_sentence_words,median_person,median_rating,mean_rating,median_helpful,median_eligible_reviews,median_review_age_days,mean_price_missing
+1,5642,173.0,17.166667,23.809524,5.0,4.0700106345267635,1.0,15.0,2454.5,0.33853243530662885
+2,6270,50.0,12.5,38.461538,5.0,4.428867623604465,0.0,27.0,2132.0,0.48835725677830943

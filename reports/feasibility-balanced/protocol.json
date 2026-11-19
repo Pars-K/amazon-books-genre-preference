@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-19",
+  "role": "User-requested class balancing of the three-genre feasibility study; development comparison, not a pristine final evaluation",
+  "target": "Author preference among Mystery, Thriller, Romance; weights belong to preference groups, not to the input book genre",
+  "data_and_folds": "Exactly the existing three-group cohorts and three book-disjoint outer folds, same inner book-disjoint holdout; one review per author",
+  "training_weights": "Within each training subset only, w_g = N_train / (3 * N_train_g); average weight 1 and equal total weight per group",
+  "test_weights": "No sample weighting, resampling or distribution changes in the held-out folds. Report macro-F1, balanced accuracy, ordinary accuracy, per-group precision/recall/F1 and prediction frequency",
+  "main_models": "Same seven logistic feature sets, same three regularization options selected on inner macro-F1; weighted mean cross-entropy plus unchanged L2 penalty",
+  "naive_bayes": "Report both a balanced weighted-count fit with Laplace smoothing 1 and uniform class priors, and a prior-only variant with original class-conditional counts and uniform priors. Distinguish these two changes explicitly.",
+  "unweighted_comparator": "Reuse the frozen unweighted out-of-fold predictions and assert exact author/book/truth/fold alignment. Do not overwrite previous results.",
+  "uncertainty": "2000 paired book bootstrap resamples for changes in metrics and each group's precision/recall, holding predictions fixed",
+  "schemes": ["Full three-preference cohort", "Thriller-input subset of the exact same selected reviews"],
+  "no_more_options": "No new vocabulary, representations, sampling methods, thresholds or regularization grid values in response to outcomes",
+  "final_test": "Not read",
+  "scope": "Keep the current three-group objective. Reassess training policy and qualify earlier unweighted conclusions."
+}

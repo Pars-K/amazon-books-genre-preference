@@ -1,0 +1,10 @@
+scheme,fold,genre,train,test
+all,0,Mystery,632,316
+all,0,Thriller,5475,2754
+all,0,Romance,715,389
+all,1,Mystery,619,329
+all,1,Thriller,5448,2781
+all,1,Romance,760,344
+all,2,Mystery,645,303
+all,2,Thriller,5535,2694
+all,2,Romance,733,371

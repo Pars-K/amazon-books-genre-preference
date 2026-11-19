@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-19",
+  "role": "Explicit follow-up after the registered experiment showed strong common-input-genre results and weak primary seven-class results",
+  "not_a_preregistered_confirmation": true,
+  "question": "Does the Romance versus Science Fiction distinction on thriller reviews remain under book-disjoint cross-validation of the 768 original development authors?",
+  "modeling": "Exactly the same tokenizer, 29 metrics, three regularization options, inner selection, unweighted logistic regression and fixed naive Bayes. No new filters or models.",
+  "split": "Exactly three book-hash folds, same function as the original protocol",
+  "diagnostics": ["Nearest training-text TFIDF cosine similarity for each of the 157 separate validation authors", "Report performance after excluding evaluation bodies with maximum cosine >=0.8 without refitting", "Inspect descriptive naive Bayes term contributions and errors; these are explanations, not separately confirmed word associations"],
+  "scope": "Only the already specified two preference groups and thriller-review context",
+  "final_test": "Not read",
+  "decision": "Assess whether a restricted version of the original objective is supported. The original seven-class primary gate remains failed regardless of follow-up outcomes."
+}

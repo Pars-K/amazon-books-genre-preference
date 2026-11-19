@@ -1,0 +1,9 @@
+{
+  "users": 10281,
+  "books": 8200,
+  "groups": {
+    "Mystery": 948,
+    "Thriller": 8229,
+    "Romance": 1104
+  }
+}

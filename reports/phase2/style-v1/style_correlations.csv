@@ -1,0 +1,1625 @@
+scope,genre_share,metric,valid_users,nonzero_share_users,spearman_rho
+all_reviews,Fantasy,words_per_review,11912,1362,0.143185
+all_reviews,Science Fiction,words_per_review,11912,1017,0.138898
+all_reviews,Romance,words_per_review,11912,2450,0.23004
+all_reviews,Mystery,words_per_review,11912,6525,-0.205534
+all_reviews,Thriller,words_per_review,11912,10256,-0.438563
+all_reviews,Philosophy,words_per_review,11912,45,0.031613
+all_reviews,Science,words_per_review,11912,514,0.063694
+all_reviews,Fantasy,sentences_per_review,11912,1362,0.145991
+all_reviews,Science Fiction,sentences_per_review,11912,1017,0.126109
+all_reviews,Romance,sentences_per_review,11912,2450,0.274478
+all_reviews,Mystery,sentences_per_review,11912,6525,-0.207444
+all_reviews,Thriller,sentences_per_review,11912,10256,-0.410177
+all_reviews,Philosophy,sentences_per_review,11912,45,0.025277
+all_reviews,Science,sentences_per_review,11912,514,0.03439
+all_reviews,Fantasy,paragraphs_per_review,11912,1362,0.132108
+all_reviews,Science Fiction,paragraphs_per_review,11912,1017,0.111882
+all_reviews,Romance,paragraphs_per_review,11912,2450,0.218755
+all_reviews,Mystery,paragraphs_per_review,11912,6525,-0.162971
+all_reviews,Thriller,paragraphs_per_review,11912,10256,-0.316727
+all_reviews,Philosophy,paragraphs_per_review,11912,45,0.024126
+all_reviews,Science,paragraphs_per_review,11912,514,0.04371
+all_reviews,Fantasy,words_per_paragraph,11912,1362,0.055278
+all_reviews,Science Fiction,words_per_paragraph,11912,1017,0.069523
+all_reviews,Romance,words_per_paragraph,11912,2450,0.069906
+all_reviews,Mystery,words_per_paragraph,11912,6525,-0.090764
+all_reviews,Thriller,words_per_paragraph,11912,10256,-0.265363
+all_reviews,Philosophy,words_per_paragraph,11912,45,0.023229
+all_reviews,Science,words_per_paragraph,11912,514,0.050743
+all_reviews,Fantasy,mean_sentence_words,11912,1362,0.070002
+all_reviews,Science Fiction,mean_sentence_words,11912,1017,0.107525
+all_reviews,Romance,mean_sentence_words,11912,2450,-0.005261
+all_reviews,Mystery,mean_sentence_words,11912,6525,-0.083801
+all_reviews,Thriller,mean_sentence_words,11912,10256,-0.283028
+all_reviews,Philosophy,mean_sentence_words,11912,45,0.037071
+all_reviews,Science,mean_sentence_words,11912,514,0.100263
+all_reviews,Fantasy,question_ending_pct,11912,1362,0.034659
+all_reviews,Science Fiction,question_ending_pct,11912,1017,0.051146
+all_reviews,Romance,question_ending_pct,11912,2450,0.053936
+all_reviews,Mystery,question_ending_pct,11912,6525,-0.01933
+all_reviews,Thriller,question_ending_pct,11912,10256,-0.110341
+all_reviews,Philosophy,question_ending_pct,11912,45,0.013283
+all_reviews,Science,question_ending_pct,11912,514,-0.018673
+all_reviews,Fantasy,vocabulary_diversity_20_pct,11912,1362,-0.00827
+all_reviews,Science Fiction,vocabulary_diversity_20_pct,11912,1017,0.005053
+all_reviews,Romance,vocabulary_diversity_20_pct,11912,2450,0.013332
+all_reviews,Mystery,vocabulary_diversity_20_pct,11912,6525,-0.02323
+all_reviews,Thriller,vocabulary_diversity_20_pct,11912,10256,-0.012132
+all_reviews,Philosophy,vocabulary_diversity_20_pct,11912,45,-0.003599
+all_reviews,Science,vocabulary_diversity_20_pct,11912,514,-0.004747
+all_reviews,Fantasy,first_singular_per_1000_words,11912,1362,-0.013701
+all_reviews,Science Fiction,first_singular_per_1000_words,11912,1017,-0.096847
+all_reviews,Romance,first_singular_per_1000_words,11912,2450,0.045552
+all_reviews,Mystery,first_singular_per_1000_words,11912,6525,0.015707
+all_reviews,Thriller,first_singular_per_1000_words,11912,10256,0.092416
+all_reviews,Philosophy,first_singular_per_1000_words,11912,45,-0.050811
+all_reviews,Science,first_singular_per_1000_words,11912,514,-0.099789
+all_reviews,Fantasy,first_plural_per_1000_words,11912,1362,0.011649
+all_reviews,Science Fiction,first_plural_per_1000_words,11912,1017,0.048489
+all_reviews,Romance,first_plural_per_1000_words,11912,2450,-0.002445
+all_reviews,Mystery,first_plural_per_1000_words,11912,6525,-0.091629
+all_reviews,Thriller,first_plural_per_1000_words,11912,10256,-0.082932
+all_reviews,Philosophy,first_plural_per_1000_words,11912,45,0.018867
+all_reviews,Science,first_plural_per_1000_words,11912,514,0.036429
+all_reviews,Fantasy,second_person_per_1000_words,11912,1362,-0.018755
+all_reviews,Science Fiction,second_person_per_1000_words,11912,1017,-0.012755
+all_reviews,Romance,second_person_per_1000_words,11912,2450,0.057156
+all_reviews,Mystery,second_person_per_1000_words,11912,6525,-0.055651
+all_reviews,Thriller,second_person_per_1000_words,11912,10256,0.075622
+all_reviews,Philosophy,second_person_per_1000_words,11912,45,-0.014448
+all_reviews,Science,second_person_per_1000_words,11912,514,-0.027578
+all_reviews,Fantasy,contractions_per_1000_words,11912,1362,0.048235
+all_reviews,Science Fiction,contractions_per_1000_words,11912,1017,0.012797
+all_reviews,Romance,contractions_per_1000_words,11912,2450,0.08204
+all_reviews,Mystery,contractions_per_1000_words,11912,6525,-0.032085
+all_reviews,Thriller,contractions_per_1000_words,11912,10256,-0.012737
+all_reviews,Philosophy,contractions_per_1000_words,11912,45,-0.030792
+all_reviews,Science,contractions_per_1000_words,11912,514,-0.080294
+all_reviews,Fantasy,exclamations_per_1000_words,11912,1362,0.010519
+all_reviews,Science Fiction,exclamations_per_1000_words,11912,1017,-0.085407
+all_reviews,Romance,exclamations_per_1000_words,11912,2450,0.193103
+all_reviews,Mystery,exclamations_per_1000_words,11912,6525,-0.009942
+all_reviews,Thriller,exclamations_per_1000_words,11912,10256,0.004379
+all_reviews,Philosophy,exclamations_per_1000_words,11912,45,-0.035567
+all_reviews,Science,exclamations_per_1000_words,11912,514,-0.078346
+all_reviews,Fantasy,ellipses_per_1000_words,11912,1362,0.047929
+all_reviews,Science Fiction,ellipses_per_1000_words,11912,1017,0.01748
+all_reviews,Romance,ellipses_per_1000_words,11912,2450,0.082412
+all_reviews,Mystery,ellipses_per_1000_words,11912,6525,-0.056282
+all_reviews,Thriller,ellipses_per_1000_words,11912,10256,-0.068718
+all_reviews,Philosophy,ellipses_per_1000_words,11912,45,-0.002426
+all_reviews,Science,ellipses_per_1000_words,11912,514,-0.012412
+all_reviews,Fantasy,colons_per_1000_words,11912,1362,0.06302
+all_reviews,Science Fiction,colons_per_1000_words,11912,1017,0.110401
+all_reviews,Romance,colons_per_1000_words,11912,2450,-0.020774
+all_reviews,Mystery,colons_per_1000_words,11912,6525,-0.052737
+all_reviews,Thriller,colons_per_1000_words,11912,10256,-0.18791
+all_reviews,Philosophy,colons_per_1000_words,11912,45,0.053369
+all_reviews,Science,colons_per_1000_words,11912,514,0.117515
+all_reviews,Fantasy,semicolons_per_1000_words,11912,1362,0.022098
+all_reviews,Science Fiction,semicolons_per_1000_words,11912,1017,0.045084
+all_reviews,Romance,semicolons_per_1000_words,11912,2450,-0.049795
+all_reviews,Mystery,semicolons_per_1000_words,11912,6525,-0.009517
+all_reviews,Thriller,semicolons_per_1000_words,11912,10256,-0.072733
+all_reviews,Philosophy,semicolons_per_1000_words,11912,45,0.046353
+all_reviews,Science,semicolons_per_1000_words,11912,514,0.071114
+all_reviews,Fantasy,upper_tokens_per_1000_words,11912,1362,0.031438
+all_reviews,Science Fiction,upper_tokens_per_1000_words,11912,1017,0.035631
+all_reviews,Romance,upper_tokens_per_1000_words,11912,2450,0.154281
+all_reviews,Mystery,upper_tokens_per_1000_words,11912,6525,-0.115544
+all_reviews,Thriller,upper_tokens_per_1000_words,11912,10256,-0.064585
+all_reviews,Philosophy,upper_tokens_per_1000_words,11912,45,-0.006184
+all_reviews,Science,upper_tokens_per_1000_words,11912,514,0.002991
+all_reviews,Fantasy,emphatic_runs_per_1000_words,11912,1362,0.032002
+all_reviews,Science Fiction,emphatic_runs_per_1000_words,11912,1017,-0.069186
+all_reviews,Romance,emphatic_runs_per_1000_words,11912,2450,0.213161
+all_reviews,Mystery,emphatic_runs_per_1000_words,11912,6525,-0.028485
+all_reviews,Thriller,emphatic_runs_per_1000_words,11912,10256,0.00138
+all_reviews,Philosophy,emphatic_runs_per_1000_words,11912,45,-0.032626
+all_reviews,Science,emphatic_runs_per_1000_words,11912,514,-0.065825
+all_reviews,Fantasy,colloquial_tokens_per_1000_words,11912,1362,0.08779
+all_reviews,Science Fiction,colloquial_tokens_per_1000_words,11912,1017,0.028486
+all_reviews,Romance,colloquial_tokens_per_1000_words,11912,2450,0.211139
+all_reviews,Mystery,colloquial_tokens_per_1000_words,11912,6525,-0.050406
+all_reviews,Thriller,colloquial_tokens_per_1000_words,11912,10256,-0.060658
+all_reviews,Philosophy,colloquial_tokens_per_1000_words,11912,45,-0.018273
+all_reviews,Science,colloquial_tokens_per_1000_words,11912,514,-0.060626
+all_reviews,Fantasy,subordination_sentence_pct,11912,1362,0.066604
+all_reviews,Science Fiction,subordination_sentence_pct,11912,1017,0.08629
+all_reviews,Romance,subordination_sentence_pct,11912,2450,0.047316
+all_reviews,Mystery,subordination_sentence_pct,11912,6525,-0.09731
+all_reviews,Thriller,subordination_sentence_pct,11912,10256,-0.229348
+all_reviews,Philosophy,subordination_sentence_pct,11912,45,0.015371
+all_reviews,Science,subordination_sentence_pct,11912,514,0.038007
+all_reviews,Fantasy,hedge_sentence_pct,11912,1362,0.013496
+all_reviews,Science Fiction,hedge_sentence_pct,11912,1017,0.079073
+all_reviews,Romance,hedge_sentence_pct,11912,2450,-0.158647
+all_reviews,Mystery,hedge_sentence_pct,11912,6525,-0.015789
+all_reviews,Thriller,hedge_sentence_pct,11912,10256,-0.070134
+all_reviews,Philosophy,hedge_sentence_pct,11912,45,0.024042
+all_reviews,Science,hedge_sentence_pct,11912,514,0.091355
+all_reviews,Fantasy,certainty_sentence_pct,11912,1362,0.035958
+all_reviews,Science Fiction,certainty_sentence_pct,11912,1017,-0.007159
+all_reviews,Romance,certainty_sentence_pct,11912,2450,0.086477
+all_reviews,Mystery,certainty_sentence_pct,11912,6525,-0.047398
+all_reviews,Thriller,certainty_sentence_pct,11912,10256,-0.01462
+all_reviews,Philosophy,certainty_sentence_pct,11912,45,-0.013049
+all_reviews,Science,certainty_sentence_pct,11912,514,-0.014571
+all_reviews,Fantasy,causal_sentence_pct,11912,1362,0.033594
+all_reviews,Science Fiction,causal_sentence_pct,11912,1017,0.021568
+all_reviews,Romance,causal_sentence_pct,11912,2450,0.025252
+all_reviews,Mystery,causal_sentence_pct,11912,6525,-0.073563
+all_reviews,Thriller,causal_sentence_pct,11912,10256,-0.09886
+all_reviews,Philosophy,causal_sentence_pct,11912,45,0.010235
+all_reviews,Science,causal_sentence_pct,11912,514,0.022215
+all_reviews,Fantasy,contrast_sentence_pct,11912,1362,0.025561
+all_reviews,Science Fiction,contrast_sentence_pct,11912,1017,0.061389
+all_reviews,Romance,contrast_sentence_pct,11912,2450,-0.031465
+all_reviews,Mystery,contrast_sentence_pct,11912,6525,-0.075795
+all_reviews,Thriller,contrast_sentence_pct,11912,10256,-0.084361
+all_reviews,Philosophy,contrast_sentence_pct,11912,45,0.010463
+all_reviews,Science,contrast_sentence_pct,11912,514,0.041163
+all_reviews,Fantasy,example_sentence_pct,11912,1362,0.03301
+all_reviews,Science Fiction,example_sentence_pct,11912,1017,0.109863
+all_reviews,Romance,example_sentence_pct,11912,2450,-0.097812
+all_reviews,Mystery,example_sentence_pct,11912,6525,-0.012048
+all_reviews,Thriller,example_sentence_pct,11912,10256,-0.12036
+all_reviews,Philosophy,example_sentence_pct,11912,45,0.056663
+all_reviews,Science,example_sentence_pct,11912,514,0.16231
+all_reviews,Fantasy,reading_experience_sentence_pct,11912,1362,-0.048844
+all_reviews,Science Fiction,reading_experience_sentence_pct,11912,1017,-0.042465
+all_reviews,Romance,reading_experience_sentence_pct,11912,2450,-0.099635
+all_reviews,Mystery,reading_experience_sentence_pct,11912,6525,0.043729
+all_reviews,Thriller,reading_experience_sentence_pct,11912,10256,0.147375
+all_reviews,Philosophy,reading_experience_sentence_pct,11912,45,-0.024555
+all_reviews,Science,reading_experience_sentence_pct,11912,514,-0.077992
+all_reviews,Fantasy,recommendation_sentence_pct,11912,1362,-0.018778
+all_reviews,Science Fiction,recommendation_sentence_pct,11912,1017,-0.028039
+all_reviews,Romance,recommendation_sentence_pct,11912,2450,-0.004249
+all_reviews,Mystery,recommendation_sentence_pct,11912,6525,0.016306
+all_reviews,Thriller,recommendation_sentence_pct,11912,10256,0.061455
+all_reviews,Philosophy,recommendation_sentence_pct,11912,45,-0.013875
+all_reviews,Science,recommendation_sentence_pct,11912,514,0.003568
+all_reviews,Fantasy,plot_description_sentence_pct,11912,1362,0.060605
+all_reviews,Science Fiction,plot_description_sentence_pct,11912,1017,0.058614
+all_reviews,Romance,plot_description_sentence_pct,11912,2450,0.066234
+all_reviews,Mystery,plot_description_sentence_pct,11912,6525,0.016811
+all_reviews,Thriller,plot_description_sentence_pct,11912,10256,-0.077468
+all_reviews,Philosophy,plot_description_sentence_pct,11912,45,-0.005486
+all_reviews,Science,plot_description_sentence_pct,11912,514,-0.023125
+all_reviews,Fantasy,evaluation_sentence_pct,11912,1362,-0.005026
+all_reviews,Science Fiction,evaluation_sentence_pct,11912,1017,-0.080586
+all_reviews,Romance,evaluation_sentence_pct,11912,2450,0.067254
+all_reviews,Mystery,evaluation_sentence_pct,11912,6525,0.043074
+all_reviews,Thriller,evaluation_sentence_pct,11912,10256,0.122422
+all_reviews,Philosophy,evaluation_sentence_pct,11912,45,-0.048917
+all_reviews,Science,evaluation_sentence_pct,11912,514,-0.097129
+all_reviews,Fantasy,sd_sentence_words,11912,1362,0.052872
+all_reviews,Science Fiction,sd_sentence_words,11912,1017,0.095467
+all_reviews,Romance,sd_sentence_words,11912,2450,-0.036906
+all_reviews,Mystery,sd_sentence_words,11912,6525,-0.093897
+all_reviews,Thriller,sd_sentence_words,11912,10256,-0.225727
+all_reviews,Philosophy,sd_sentence_words,11912,45,0.04339
+all_reviews,Science,sd_sentence_words,11912,514,0.092146
+book=Fantasy,Fantasy,words_per_review,1329,1329,0.397738
+book=Fantasy,Science Fiction,words_per_review,1329,339,0.071916
+book=Fantasy,Romance,words_per_review,1329,516,-0.047221
+book=Fantasy,Mystery,words_per_review,1329,595,-0.222886
+book=Fantasy,Thriller,words_per_review,1329,899,-0.348064
+book=Fantasy,Philosophy,words_per_review,1329,3,-0.023716
+book=Fantasy,Science,words_per_review,1329,36,0.000924
+book=Fantasy,Fantasy,sentences_per_review,1329,1329,0.334775
+book=Fantasy,Science Fiction,sentences_per_review,1329,339,0.044742
+book=Fantasy,Romance,sentences_per_review,1329,516,0.008352
+book=Fantasy,Mystery,sentences_per_review,1329,595,-0.187807
+book=Fantasy,Thriller,sentences_per_review,1329,899,-0.325316
+book=Fantasy,Philosophy,sentences_per_review,1329,3,0.004939
+book=Fantasy,Science,sentences_per_review,1329,36,-0.009229
+book=Fantasy,Fantasy,paragraphs_per_review,1329,1329,0.253653
+book=Fantasy,Science Fiction,paragraphs_per_review,1329,339,0.012636
+book=Fantasy,Romance,paragraphs_per_review,1329,516,0.035538
+book=Fantasy,Mystery,paragraphs_per_review,1329,595,-0.138989
+book=Fantasy,Thriller,paragraphs_per_review,1329,899,-0.234993
+book=Fantasy,Philosophy,paragraphs_per_review,1329,3,-0.004141
+book=Fantasy,Science,paragraphs_per_review,1329,36,0.011768
+book=Fantasy,Fantasy,words_per_paragraph,1329,1329,0.26292
+book=Fantasy,Science Fiction,words_per_paragraph,1329,339,0.062906
+book=Fantasy,Romance,words_per_paragraph,1329,516,-0.081876
+book=Fantasy,Mystery,words_per_paragraph,1329,595,-0.141191
+book=Fantasy,Thriller,words_per_paragraph,1329,899,-0.210487
+book=Fantasy,Philosophy,words_per_paragraph,1329,3,-0.008476
+book=Fantasy,Science,words_per_paragraph,1329,36,-0.015583
+book=Fantasy,Fantasy,mean_sentence_words,1329,1329,0.299861
+book=Fantasy,Science Fiction,mean_sentence_words,1329,339,0.086653
+book=Fantasy,Romance,mean_sentence_words,1329,516,-0.15679
+book=Fantasy,Mystery,mean_sentence_words,1329,595,-0.155538
+book=Fantasy,Thriller,mean_sentence_words,1329,899,-0.17965
+book=Fantasy,Philosophy,mean_sentence_words,1329,3,-0.039225
+book=Fantasy,Science,mean_sentence_words,1329,36,0.014418
+book=Fantasy,Fantasy,question_ending_pct,1329,1329,0.301774
+book=Fantasy,Science Fiction,question_ending_pct,1329,339,0.041788
+book=Fantasy,Romance,question_ending_pct,1329,516,-0.0477
+book=Fantasy,Mystery,question_ending_pct,1329,595,-0.121289
+book=Fantasy,Thriller,question_ending_pct,1329,899,-0.242101
+book=Fantasy,Philosophy,question_ending_pct,1329,3,-0.002887
+book=Fantasy,Science,question_ending_pct,1329,36,0.032052
+book=Fantasy,Fantasy,vocabulary_diversity_20_pct,1329,1329,0.035601
+book=Fantasy,Science Fiction,vocabulary_diversity_20_pct,1329,339,0.019504
+book=Fantasy,Romance,vocabulary_diversity_20_pct,1329,516,0.007994
+book=Fantasy,Mystery,vocabulary_diversity_20_pct,1329,595,8.7e-05
+book=Fantasy,Thriller,vocabulary_diversity_20_pct,1329,899,-0.064311
+book=Fantasy,Philosophy,vocabulary_diversity_20_pct,1329,3,-0.007513
+book=Fantasy,Science,vocabulary_diversity_20_pct,1329,36,-0.020362
+book=Fantasy,Fantasy,first_singular_per_1000_words,1329,1329,-0.029409
+book=Fantasy,Science Fiction,first_singular_per_1000_words,1329,339,-0.137093
+book=Fantasy,Romance,first_singular_per_1000_words,1329,516,0.13265
+book=Fantasy,Mystery,first_singular_per_1000_words,1329,595,-0.012834
+book=Fantasy,Thriller,first_singular_per_1000_words,1329,899,0.062672
+book=Fantasy,Philosophy,first_singular_per_1000_words,1329,3,0.031197
+book=Fantasy,Science,first_singular_per_1000_words,1329,36,-0.01488
+book=Fantasy,Fantasy,first_plural_per_1000_words,1329,1329,0.297448
+book=Fantasy,Science Fiction,first_plural_per_1000_words,1329,339,0.083319
+book=Fantasy,Romance,first_plural_per_1000_words,1329,516,-0.0786
+book=Fantasy,Mystery,first_plural_per_1000_words,1329,595,-0.124537
+book=Fantasy,Thriller,first_plural_per_1000_words,1329,899,-0.256351
+book=Fantasy,Philosophy,first_plural_per_1000_words,1329,3,-0.00995
+book=Fantasy,Science,first_plural_per_1000_words,1329,36,0.015363
+book=Fantasy,Fantasy,second_person_per_1000_words,1329,1329,0.195173
+book=Fantasy,Science Fiction,second_person_per_1000_words,1329,339,-0.012767
+book=Fantasy,Romance,second_person_per_1000_words,1329,516,0.001658
+book=Fantasy,Mystery,second_person_per_1000_words,1329,595,-0.099266
+book=Fantasy,Thriller,second_person_per_1000_words,1329,899,-0.142174
+book=Fantasy,Philosophy,second_person_per_1000_words,1329,3,0.006584
+book=Fantasy,Science,second_person_per_1000_words,1329,36,-0.033276
+book=Fantasy,Fantasy,contractions_per_1000_words,1329,1329,0.154068
+book=Fantasy,Science Fiction,contractions_per_1000_words,1329,339,0.038961
+book=Fantasy,Romance,contractions_per_1000_words,1329,516,0.053563
+book=Fantasy,Mystery,contractions_per_1000_words,1329,595,-0.135993
+book=Fantasy,Thriller,contractions_per_1000_words,1329,899,-0.168246
+book=Fantasy,Philosophy,contractions_per_1000_words,1329,3,0.018431
+book=Fantasy,Science,contractions_per_1000_words,1329,36,0.015096
+book=Fantasy,Fantasy,exclamations_per_1000_words,1329,1329,0.144793
+book=Fantasy,Science Fiction,exclamations_per_1000_words,1329,339,-0.098582
+book=Fantasy,Romance,exclamations_per_1000_words,1329,516,0.209422
+book=Fantasy,Mystery,exclamations_per_1000_words,1329,595,-0.067636
+book=Fantasy,Thriller,exclamations_per_1000_words,1329,899,-0.160743
+book=Fantasy,Philosophy,exclamations_per_1000_words,1329,3,-0.005695
+book=Fantasy,Science,exclamations_per_1000_words,1329,36,0.001594
+book=Fantasy,Fantasy,ellipses_per_1000_words,1329,1329,0.330696
+book=Fantasy,Science Fiction,ellipses_per_1000_words,1329,339,0.034282
+book=Fantasy,Romance,ellipses_per_1000_words,1329,516,-0.072226
+book=Fantasy,Mystery,ellipses_per_1000_words,1329,595,-0.133657
+book=Fantasy,Thriller,ellipses_per_1000_words,1329,899,-0.251664
+book=Fantasy,Philosophy,ellipses_per_1000_words,1329,3,-0.027385
+book=Fantasy,Science,ellipses_per_1000_words,1329,36,0.017599
+book=Fantasy,Fantasy,colons_per_1000_words,1329,1329,0.361613
+book=Fantasy,Science Fiction,colons_per_1000_words,1329,339,0.113204
+book=Fantasy,Romance,colons_per_1000_words,1329,516,-0.174722
+book=Fantasy,Mystery,colons_per_1000_words,1329,595,-0.147922
+book=Fantasy,Thriller,colons_per_1000_words,1329,899,-0.264384
+book=Fantasy,Philosophy,colons_per_1000_words,1329,3,-0.025353
+book=Fantasy,Science,colons_per_1000_words,1329,36,0.009087
+book=Fantasy,Fantasy,semicolons_per_1000_words,1329,1329,0.292112
+book=Fantasy,Science Fiction,semicolons_per_1000_words,1329,339,0.065807
+book=Fantasy,Romance,semicolons_per_1000_words,1329,516,-0.130281
+book=Fantasy,Mystery,semicolons_per_1000_words,1329,595,-0.158258
+book=Fantasy,Thriller,semicolons_per_1000_words,1329,899,-0.194103
+book=Fantasy,Philosophy,semicolons_per_1000_words,1329,3,-0.020618
+book=Fantasy,Science,semicolons_per_1000_words,1329,36,0.019937
+book=Fantasy,Fantasy,upper_tokens_per_1000_words,1329,1329,0.248348
+book=Fantasy,Science Fiction,upper_tokens_per_1000_words,1329,339,-0.004097
+book=Fantasy,Romance,upper_tokens_per_1000_words,1329,516,0.075788
+book=Fantasy,Mystery,upper_tokens_per_1000_words,1329,595,-0.168291
+book=Fantasy,Thriller,upper_tokens_per_1000_words,1329,899,-0.221218
+book=Fantasy,Philosophy,upper_tokens_per_1000_words,1329,3,-0.04091
+book=Fantasy,Science,upper_tokens_per_1000_words,1329,36,-0.037331
+book=Fantasy,Fantasy,emphatic_runs_per_1000_words,1329,1329,0.138803
+book=Fantasy,Science Fiction,emphatic_runs_per_1000_words,1329,339,-0.086326
+book=Fantasy,Romance,emphatic_runs_per_1000_words,1329,516,0.151995
+book=Fantasy,Mystery,emphatic_runs_per_1000_words,1329,595,-0.082553
+book=Fantasy,Thriller,emphatic_runs_per_1000_words,1329,899,-0.098284
+book=Fantasy,Philosophy,emphatic_runs_per_1000_words,1329,3,-0.020276
+book=Fantasy,Science,emphatic_runs_per_1000_words,1329,36,0.003473
+book=Fantasy,Fantasy,colloquial_tokens_per_1000_words,1329,1329,0.188138
+book=Fantasy,Science Fiction,colloquial_tokens_per_1000_words,1329,339,0.005973
+book=Fantasy,Romance,colloquial_tokens_per_1000_words,1329,516,0.039663
+book=Fantasy,Mystery,colloquial_tokens_per_1000_words,1329,595,-0.096295
+book=Fantasy,Thriller,colloquial_tokens_per_1000_words,1329,899,-0.153896
+book=Fantasy,Philosophy,colloquial_tokens_per_1000_words,1329,3,-0.01455
+book=Fantasy,Science,colloquial_tokens_per_1000_words,1329,36,-0.002789
+book=Fantasy,Fantasy,subordination_sentence_pct,1329,1329,0.300145
+book=Fantasy,Science Fiction,subordination_sentence_pct,1329,339,0.045639
+book=Fantasy,Romance,subordination_sentence_pct,1329,516,-0.067807
+book=Fantasy,Mystery,subordination_sentence_pct,1329,595,-0.149152
+book=Fantasy,Thriller,subordination_sentence_pct,1329,899,-0.220486
+book=Fantasy,Philosophy,subordination_sentence_pct,1329,3,-0.0382
+book=Fantasy,Science,subordination_sentence_pct,1329,36,-0.004679
+book=Fantasy,Fantasy,hedge_sentence_pct,1329,1329,0.368944
+book=Fantasy,Science Fiction,hedge_sentence_pct,1329,339,0.108959
+book=Fantasy,Romance,hedge_sentence_pct,1329,516,-0.136642
+book=Fantasy,Mystery,hedge_sentence_pct,1329,595,-0.194757
+book=Fantasy,Thriller,hedge_sentence_pct,1329,899,-0.287015
+book=Fantasy,Philosophy,hedge_sentence_pct,1329,3,-0.03395
+book=Fantasy,Science,hedge_sentence_pct,1329,36,0.01959
+book=Fantasy,Fantasy,certainty_sentence_pct,1329,1329,0.232278
+book=Fantasy,Science Fiction,certainty_sentence_pct,1329,339,0.012282
+book=Fantasy,Romance,certainty_sentence_pct,1329,516,-0.042496
+book=Fantasy,Mystery,certainty_sentence_pct,1329,595,-0.098743
+book=Fantasy,Thriller,certainty_sentence_pct,1329,899,-0.192449
+book=Fantasy,Philosophy,certainty_sentence_pct,1329,3,0.020263
+book=Fantasy,Science,certainty_sentence_pct,1329,36,0.034784
+book=Fantasy,Fantasy,causal_sentence_pct,1329,1329,0.335022
+book=Fantasy,Science Fiction,causal_sentence_pct,1329,339,0.026596
+book=Fantasy,Romance,causal_sentence_pct,1329,516,-0.108809
+book=Fantasy,Mystery,causal_sentence_pct,1329,595,-0.13228
+book=Fantasy,Thriller,causal_sentence_pct,1329,899,-0.240021
+book=Fantasy,Philosophy,causal_sentence_pct,1329,3,-0.032737
+book=Fantasy,Science,causal_sentence_pct,1329,36,0.017207
+book=Fantasy,Fantasy,contrast_sentence_pct,1329,1329,0.202486
+book=Fantasy,Science Fiction,contrast_sentence_pct,1329,339,0.095663
+book=Fantasy,Romance,contrast_sentence_pct,1329,516,-0.089015
+book=Fantasy,Mystery,contrast_sentence_pct,1329,595,-0.149235
+book=Fantasy,Thriller,contrast_sentence_pct,1329,899,-0.134597
+book=Fantasy,Philosophy,contrast_sentence_pct,1329,3,-0.006736
+book=Fantasy,Science,contrast_sentence_pct,1329,36,0.028138
+book=Fantasy,Fantasy,example_sentence_pct,1329,1329,0.22386
+book=Fantasy,Science Fiction,example_sentence_pct,1329,339,0.115422
+book=Fantasy,Romance,example_sentence_pct,1329,516,-0.122522
+book=Fantasy,Mystery,example_sentence_pct,1329,595,-0.102536
+book=Fantasy,Thriller,example_sentence_pct,1329,899,-0.167385
+book=Fantasy,Philosophy,example_sentence_pct,1329,3,-0.012502
+book=Fantasy,Science,example_sentence_pct,1329,36,0.070987
+book=Fantasy,Fantasy,reading_experience_sentence_pct,1329,1329,0.259923
+book=Fantasy,Science Fiction,reading_experience_sentence_pct,1329,339,0.013076
+book=Fantasy,Romance,reading_experience_sentence_pct,1329,516,-0.081415
+book=Fantasy,Mystery,reading_experience_sentence_pct,1329,595,-0.118869
+book=Fantasy,Thriller,reading_experience_sentence_pct,1329,899,-0.146843
+book=Fantasy,Philosophy,reading_experience_sentence_pct,1329,3,0.008179
+book=Fantasy,Science,reading_experience_sentence_pct,1329,36,0.017318
+book=Fantasy,Fantasy,recommendation_sentence_pct,1329,1329,0.179241
+book=Fantasy,Science Fiction,recommendation_sentence_pct,1329,339,-0.038499
+book=Fantasy,Romance,recommendation_sentence_pct,1329,516,-0.050214
+book=Fantasy,Mystery,recommendation_sentence_pct,1329,595,-0.036405
+book=Fantasy,Thriller,recommendation_sentence_pct,1329,899,-0.118281
+book=Fantasy,Philosophy,recommendation_sentence_pct,1329,3,-0.022785
+book=Fantasy,Science,recommendation_sentence_pct,1329,36,0.00701
+book=Fantasy,Fantasy,plot_description_sentence_pct,1329,1329,0.22808
+book=Fantasy,Science Fiction,plot_description_sentence_pct,1329,339,0.034687
+book=Fantasy,Romance,plot_description_sentence_pct,1329,516,-0.076672
+book=Fantasy,Mystery,plot_description_sentence_pct,1329,595,-0.087536
+book=Fantasy,Thriller,plot_description_sentence_pct,1329,899,-0.158632
+book=Fantasy,Philosophy,plot_description_sentence_pct,1329,3,-0.015502
+book=Fantasy,Science,plot_description_sentence_pct,1329,36,0.072517
+book=Fantasy,Fantasy,evaluation_sentence_pct,1329,1329,0.080629
+book=Fantasy,Science Fiction,evaluation_sentence_pct,1329,339,-0.071683
+book=Fantasy,Romance,evaluation_sentence_pct,1329,516,0.116594
+book=Fantasy,Mystery,evaluation_sentence_pct,1329,595,-0.046233
+book=Fantasy,Thriller,evaluation_sentence_pct,1329,899,-0.101602
+book=Fantasy,Philosophy,evaluation_sentence_pct,1329,3,-0.011419
+book=Fantasy,Science,evaluation_sentence_pct,1329,36,-0.009051
+book=Fantasy,Fantasy,sd_sentence_words,1320,1320,0.413871
+book=Fantasy,Science Fiction,sd_sentence_words,1320,336,0.090277
+book=Fantasy,Romance,sd_sentence_words,1320,513,-0.149322
+book=Fantasy,Mystery,sd_sentence_words,1320,590,-0.194669
+book=Fantasy,Thriller,sd_sentence_words,1320,890,-0.259354
+book=Fantasy,Philosophy,sd_sentence_words,1320,3,-0.044036
+book=Fantasy,Science,sd_sentence_words,1320,36,0.017926
+book=Mystery,Fantasy,words_per_review,6446,613,0.079841
+book=Mystery,Science Fiction,words_per_review,6446,399,0.054896
+book=Mystery,Romance,words_per_review,6446,791,0.117481
+book=Mystery,Mystery,words_per_review,6446,6446,0.277523
+book=Mystery,Thriller,words_per_review,6446,6013,-0.367951
+book=Mystery,Philosophy,words_per_review,6446,17,0.003068
+book=Mystery,Science,words_per_review,6446,191,-0.02554
+book=Mystery,Fantasy,sentences_per_review,6446,613,0.084474
+book=Mystery,Science Fiction,sentences_per_review,6446,399,0.050865
+book=Mystery,Romance,sentences_per_review,6446,791,0.132088
+book=Mystery,Mystery,sentences_per_review,6446,6446,0.250275
+book=Mystery,Thriller,sentences_per_review,6446,6013,-0.330628
+book=Mystery,Philosophy,sentences_per_review,6446,17,0.011778
+book=Mystery,Science,sentences_per_review,6446,191,-0.028523
+book=Mystery,Fantasy,paragraphs_per_review,6446,613,0.108458
+book=Mystery,Science Fiction,paragraphs_per_review,6446,399,0.078353
+book=Mystery,Romance,paragraphs_per_review,6446,791,0.117306
+book=Mystery,Mystery,paragraphs_per_review,6446,6446,0.2405
+book=Mystery,Thriller,paragraphs_per_review,6446,6013,-0.296677
+book=Mystery,Philosophy,paragraphs_per_review,6446,17,0.017387
+book=Mystery,Science,paragraphs_per_review,6446,191,0.004452
+book=Mystery,Fantasy,words_per_paragraph,6446,613,0.013527
+book=Mystery,Science Fiction,words_per_paragraph,6446,399,-0.000625
+book=Mystery,Romance,words_per_paragraph,6446,791,0.041476
+book=Mystery,Mystery,words_per_paragraph,6446,6446,0.2352
+book=Mystery,Thriller,words_per_paragraph,6446,6013,-0.268986
+book=Mystery,Philosophy,words_per_paragraph,6446,17,0.002226
+book=Mystery,Science,words_per_paragraph,6446,191,-0.033095
+book=Mystery,Fantasy,mean_sentence_words,6446,613,0.023502
+book=Mystery,Science Fiction,mean_sentence_words,6446,399,0.027596
+book=Mystery,Romance,mean_sentence_words,6446,791,0.022763
+book=Mystery,Mystery,mean_sentence_words,6446,6446,0.166741
+book=Mystery,Thriller,mean_sentence_words,6446,6013,-0.234301
+book=Mystery,Philosophy,mean_sentence_words,6446,17,-0.016499
+book=Mystery,Science,mean_sentence_words,6446,191,-0.011092
+book=Mystery,Fantasy,question_ending_pct,6446,613,0.050404
+book=Mystery,Science Fiction,question_ending_pct,6446,399,0.03885
+book=Mystery,Romance,question_ending_pct,6446,791,0.044938
+book=Mystery,Mystery,question_ending_pct,6446,6446,0.330862
+book=Mystery,Thriller,question_ending_pct,6446,6013,-0.26731
+book=Mystery,Philosophy,question_ending_pct,6446,17,-0.01262
+book=Mystery,Science,question_ending_pct,6446,191,-0.009654
+book=Mystery,Fantasy,vocabulary_diversity_20_pct,6446,613,-0.008556
+book=Mystery,Science Fiction,vocabulary_diversity_20_pct,6446,399,0.004565
+book=Mystery,Romance,vocabulary_diversity_20_pct,6446,791,-0.007659
+book=Mystery,Mystery,vocabulary_diversity_20_pct,6446,6446,-0.044511
+book=Mystery,Thriller,vocabulary_diversity_20_pct,6446,6013,0.015792
+book=Mystery,Philosophy,vocabulary_diversity_20_pct,6446,17,0.024146
+book=Mystery,Science,vocabulary_diversity_20_pct,6446,191,0.013324
+book=Mystery,Fantasy,first_singular_per_1000_words,6446,613,-0.005298
+book=Mystery,Science Fiction,first_singular_per_1000_words,6446,399,-0.037919
+book=Mystery,Romance,first_singular_per_1000_words,6446,791,0.01613
+book=Mystery,Mystery,first_singular_per_1000_words,6446,6446,-0.007133
+book=Mystery,Thriller,first_singular_per_1000_words,6446,6013,0.022834
+book=Mystery,Philosophy,first_singular_per_1000_words,6446,17,0.001199
+book=Mystery,Science,first_singular_per_1000_words,6446,191,0.009583
+book=Mystery,Fantasy,first_plural_per_1000_words,6446,613,0.057659
+book=Mystery,Science Fiction,first_plural_per_1000_words,6446,399,0.004564
+book=Mystery,Romance,first_plural_per_1000_words,6446,791,0.026042
+book=Mystery,Mystery,first_plural_per_1000_words,6446,6446,0.33019
+book=Mystery,Thriller,first_plural_per_1000_words,6446,6013,-0.276131
+book=Mystery,Philosophy,first_plural_per_1000_words,6446,17,-0.011322
+book=Mystery,Science,first_plural_per_1000_words,6446,191,0.00949
+book=Mystery,Fantasy,second_person_per_1000_words,6446,613,0.027026
+book=Mystery,Science Fiction,second_person_per_1000_words,6446,399,0.029454
+book=Mystery,Romance,second_person_per_1000_words,6446,791,0.022035
+book=Mystery,Mystery,second_person_per_1000_words,6446,6446,0.152281
+book=Mystery,Thriller,second_person_per_1000_words,6446,6013,-0.077158
+book=Mystery,Philosophy,second_person_per_1000_words,6446,17,0.017143
+book=Mystery,Science,second_person_per_1000_words,6446,191,0.001897
+book=Mystery,Fantasy,contractions_per_1000_words,6446,613,0.042424
+book=Mystery,Science Fiction,contractions_per_1000_words,6446,399,0.014949
+book=Mystery,Romance,contractions_per_1000_words,6446,791,0.022632
+book=Mystery,Mystery,contractions_per_1000_words,6446,6446,0.131881
+book=Mystery,Thriller,contractions_per_1000_words,6446,6013,-0.105038
+book=Mystery,Philosophy,contractions_per_1000_words,6446,17,0.019701
+book=Mystery,Science,contractions_per_1000_words,6446,191,-0.003011
+book=Mystery,Fantasy,exclamations_per_1000_words,6446,613,0.050633
+book=Mystery,Science Fiction,exclamations_per_1000_words,6446,399,-0.014366
+book=Mystery,Romance,exclamations_per_1000_words,6446,791,0.089753
+book=Mystery,Mystery,exclamations_per_1000_words,6446,6446,0.230318
+book=Mystery,Thriller,exclamations_per_1000_words,6446,6013,-0.168269
+book=Mystery,Philosophy,exclamations_per_1000_words,6446,17,-0.003747
+book=Mystery,Science,exclamations_per_1000_words,6446,191,-0.024536
+book=Mystery,Fantasy,ellipses_per_1000_words,6446,613,0.049168
+book=Mystery,Science Fiction,ellipses_per_1000_words,6446,399,0.016476
+book=Mystery,Romance,ellipses_per_1000_words,6446,791,0.037811
+book=Mystery,Mystery,ellipses_per_1000_words,6446,6446,0.234809
+book=Mystery,Thriller,ellipses_per_1000_words,6446,6013,-0.196828
+book=Mystery,Philosophy,ellipses_per_1000_words,6446,17,0.002158
+book=Mystery,Science,ellipses_per_1000_words,6446,191,-0.022633
+book=Mystery,Fantasy,colons_per_1000_words,6446,613,0.035885
+book=Mystery,Science Fiction,colons_per_1000_words,6446,399,0.034856
+book=Mystery,Romance,colons_per_1000_words,6446,791,0.017117
+book=Mystery,Mystery,colons_per_1000_words,6446,6446,0.257486
+book=Mystery,Thriller,colons_per_1000_words,6446,6013,-0.241352
+book=Mystery,Philosophy,colons_per_1000_words,6446,17,0.017623
+book=Mystery,Science,colons_per_1000_words,6446,191,0.00163
+book=Mystery,Fantasy,semicolons_per_1000_words,6446,613,0.030273
+book=Mystery,Science Fiction,semicolons_per_1000_words,6446,399,0.021017
+book=Mystery,Romance,semicolons_per_1000_words,6446,791,0.004218
+book=Mystery,Mystery,semicolons_per_1000_words,6446,6446,0.22167
+book=Mystery,Thriller,semicolons_per_1000_words,6446,6013,-0.182866
+book=Mystery,Philosophy,semicolons_per_1000_words,6446,17,0.002678
+book=Mystery,Science,semicolons_per_1000_words,6446,191,0.005882
+book=Mystery,Fantasy,upper_tokens_per_1000_words,6446,613,0.063993
+book=Mystery,Science Fiction,upper_tokens_per_1000_words,6446,399,0.025978
+book=Mystery,Romance,upper_tokens_per_1000_words,6446,791,0.096272
+book=Mystery,Mystery,upper_tokens_per_1000_words,6446,6446,0.253966
+book=Mystery,Thriller,upper_tokens_per_1000_words,6446,6013,-0.221768
+book=Mystery,Philosophy,upper_tokens_per_1000_words,6446,17,-0.002288
+book=Mystery,Science,upper_tokens_per_1000_words,6446,191,0.016495
+book=Mystery,Fantasy,emphatic_runs_per_1000_words,6446,613,0.063958
+book=Mystery,Science Fiction,emphatic_runs_per_1000_words,6446,399,-0.013253
+book=Mystery,Romance,emphatic_runs_per_1000_words,6446,791,0.076748
+book=Mystery,Mystery,emphatic_runs_per_1000_words,6446,6446,0.234355
+book=Mystery,Thriller,emphatic_runs_per_1000_words,6446,6013,-0.169589
+book=Mystery,Philosophy,emphatic_runs_per_1000_words,6446,17,-0.022211
+book=Mystery,Science,emphatic_runs_per_1000_words,6446,191,-0.012827
+book=Mystery,Fantasy,colloquial_tokens_per_1000_words,6446,613,0.103501
+book=Mystery,Science Fiction,colloquial_tokens_per_1000_words,6446,399,0.025829
+book=Mystery,Romance,colloquial_tokens_per_1000_words,6446,791,0.065729
+book=Mystery,Mystery,colloquial_tokens_per_1000_words,6446,6446,0.190153
+book=Mystery,Thriller,colloquial_tokens_per_1000_words,6446,6013,-0.170208
+book=Mystery,Philosophy,colloquial_tokens_per_1000_words,6446,17,-0.004503
+book=Mystery,Science,colloquial_tokens_per_1000_words,6446,191,0.018684
+book=Mystery,Fantasy,subordination_sentence_pct,6446,613,0.026048
+book=Mystery,Science Fiction,subordination_sentence_pct,6446,399,0.011792
+book=Mystery,Romance,subordination_sentence_pct,6446,791,0.022396
+book=Mystery,Mystery,subordination_sentence_pct,6446,6446,0.185108
+book=Mystery,Thriller,subordination_sentence_pct,6446,6013,-0.166775
+book=Mystery,Philosophy,subordination_sentence_pct,6446,17,-0.003168
+book=Mystery,Science,subordination_sentence_pct,6446,191,0.011595
+book=Mystery,Fantasy,hedge_sentence_pct,6446,613,0.057698
+book=Mystery,Science Fiction,hedge_sentence_pct,6446,399,0.006794
+book=Mystery,Romance,hedge_sentence_pct,6446,791,0.020384
+book=Mystery,Mystery,hedge_sentence_pct,6446,6446,0.302142
+book=Mystery,Thriller,hedge_sentence_pct,6446,6013,-0.245387
+book=Mystery,Philosophy,hedge_sentence_pct,6446,17,0.021302
+book=Mystery,Science,hedge_sentence_pct,6446,191,0.005832
+book=Mystery,Fantasy,certainty_sentence_pct,6446,613,0.081972
+book=Mystery,Science Fiction,certainty_sentence_pct,6446,399,0.036808
+book=Mystery,Romance,certainty_sentence_pct,6446,791,0.069704
+book=Mystery,Mystery,certainty_sentence_pct,6446,6446,0.275456
+book=Mystery,Thriller,certainty_sentence_pct,6446,6013,-0.2197
+book=Mystery,Philosophy,certainty_sentence_pct,6446,17,-0.007163
+book=Mystery,Science,certainty_sentence_pct,6446,191,-0.018297
+book=Mystery,Fantasy,causal_sentence_pct,6446,613,0.05653
+book=Mystery,Science Fiction,causal_sentence_pct,6446,399,0.008591
+book=Mystery,Romance,causal_sentence_pct,6446,791,0.030745
+book=Mystery,Mystery,causal_sentence_pct,6446,6446,0.29489
+book=Mystery,Thriller,causal_sentence_pct,6446,6013,-0.225819
+book=Mystery,Philosophy,causal_sentence_pct,6446,17,0.006696
+book=Mystery,Science,causal_sentence_pct,6446,191,0.004101
+book=Mystery,Fantasy,contrast_sentence_pct,6446,613,0.003617
+book=Mystery,Science Fiction,contrast_sentence_pct,6446,399,0.02395
+book=Mystery,Romance,contrast_sentence_pct,6446,791,-0.035656
+book=Mystery,Mystery,contrast_sentence_pct,6446,6446,0.092119
+book=Mystery,Thriller,contrast_sentence_pct,6446,6013,-0.073258
+book=Mystery,Philosophy,contrast_sentence_pct,6446,17,0.016308
+book=Mystery,Science,contrast_sentence_pct,6446,191,0.017926
+book=Mystery,Fantasy,example_sentence_pct,6446,613,0.036322
+book=Mystery,Science Fiction,example_sentence_pct,6446,399,0.03874
+book=Mystery,Romance,example_sentence_pct,6446,791,0.020462
+book=Mystery,Mystery,example_sentence_pct,6446,6446,0.198011
+book=Mystery,Thriller,example_sentence_pct,6446,6013,-0.178903
+book=Mystery,Philosophy,example_sentence_pct,6446,17,0.012458
+book=Mystery,Science,example_sentence_pct,6446,191,0.004098
+book=Mystery,Fantasy,reading_experience_sentence_pct,6446,613,0.041648
+book=Mystery,Science Fiction,reading_experience_sentence_pct,6446,399,-0.008613
+book=Mystery,Romance,reading_experience_sentence_pct,6446,791,0.007898
+book=Mystery,Mystery,reading_experience_sentence_pct,6446,6446,0.259207
+book=Mystery,Thriller,reading_experience_sentence_pct,6446,6013,-0.178493
+book=Mystery,Philosophy,reading_experience_sentence_pct,6446,17,0.004379
+book=Mystery,Science,reading_experience_sentence_pct,6446,191,0.028049
+book=Mystery,Fantasy,recommendation_sentence_pct,6446,613,0.056241
+book=Mystery,Science Fiction,recommendation_sentence_pct,6446,399,0.023102
+book=Mystery,Romance,recommendation_sentence_pct,6446,791,0.057832
+book=Mystery,Mystery,recommendation_sentence_pct,6446,6446,0.232018
+book=Mystery,Thriller,recommendation_sentence_pct,6446,6013,-0.158609
+book=Mystery,Philosophy,recommendation_sentence_pct,6446,17,-0.001094
+book=Mystery,Science,recommendation_sentence_pct,6446,191,0.002668
+book=Mystery,Fantasy,plot_description_sentence_pct,6446,613,0.060867
+book=Mystery,Science Fiction,plot_description_sentence_pct,6446,399,0.035496
+book=Mystery,Romance,plot_description_sentence_pct,6446,791,0.038322
+book=Mystery,Mystery,plot_description_sentence_pct,6446,6446,0.217897
+book=Mystery,Thriller,plot_description_sentence_pct,6446,6013,-0.183335
+book=Mystery,Philosophy,plot_description_sentence_pct,6446,17,0.018242
+book=Mystery,Science,plot_description_sentence_pct,6446,191,0.010562
+book=Mystery,Fantasy,evaluation_sentence_pct,6446,613,0.05431
+book=Mystery,Science Fiction,evaluation_sentence_pct,6446,399,0.006373
+book=Mystery,Romance,evaluation_sentence_pct,6446,791,0.049835
+book=Mystery,Mystery,evaluation_sentence_pct,6446,6446,0.198003
+book=Mystery,Thriller,evaluation_sentence_pct,6446,6013,-0.123181
+book=Mystery,Philosophy,evaluation_sentence_pct,6446,17,-0.010037
+book=Mystery,Science,evaluation_sentence_pct,6446,191,-0.006025
+book=Mystery,Fantasy,sd_sentence_words,6406,611,0.044385
+book=Mystery,Science Fiction,sd_sentence_words,6406,395,0.026204
+book=Mystery,Romance,sd_sentence_words,6406,788,0.030171
+book=Mystery,Mystery,sd_sentence_words,6406,6406,0.3018
+book=Mystery,Thriller,sd_sentence_words,6406,5973,-0.280479
+book=Mystery,Philosophy,sd_sentence_words,6406,17,0.003771
+book=Mystery,Science,sd_sentence_words,6406,187,0.0069
+book=Philosophy,Fantasy,words_per_review,43,3,-0.267808
+book=Philosophy,Science Fiction,words_per_review,43,1,-0.186533
+book=Philosophy,Romance,words_per_review,43,0,
+book=Philosophy,Mystery,words_per_review,43,17,-0.616945
+book=Philosophy,Thriller,words_per_review,43,20,-0.655941
+book=Philosophy,Philosophy,words_per_review,43,43,0.603298
+book=Philosophy,Science,words_per_review,43,12,0.345706
+book=Philosophy,Fantasy,sentences_per_review,43,3,-0.193284
+book=Philosophy,Science Fiction,sentences_per_review,43,1,-0.136982
+book=Philosophy,Romance,sentences_per_review,43,0,
+book=Philosophy,Mystery,sentences_per_review,43,17,-0.512649
+book=Philosophy,Thriller,sentences_per_review,43,20,-0.576884
+book=Philosophy,Philosophy,sentences_per_review,43,43,0.541858
+book=Philosophy,Science,sentences_per_review,43,12,0.316103
+book=Philosophy,Fantasy,paragraphs_per_review,43,3,-0.249028
+book=Philosophy,Science Fiction,paragraphs_per_review,43,1,-0.14042
+book=Philosophy,Romance,paragraphs_per_review,43,0,
+book=Philosophy,Mystery,paragraphs_per_review,43,17,-0.418333
+book=Philosophy,Thriller,paragraphs_per_review,43,20,-0.419195
+book=Philosophy,Philosophy,paragraphs_per_review,43,43,0.468299
+book=Philosophy,Science,paragraphs_per_review,43,12,0.248504
+book=Philosophy,Fantasy,words_per_paragraph,43,3,-0.09874
+book=Philosophy,Science Fiction,words_per_paragraph,43,1,-0.149243
+book=Philosophy,Romance,words_per_paragraph,43,0,
+book=Philosophy,Mystery,words_per_paragraph,43,17,-0.415479
+book=Philosophy,Thriller,words_per_paragraph,43,20,-0.45461
+book=Philosophy,Philosophy,words_per_paragraph,43,43,0.38374
+book=Philosophy,Science,words_per_paragraph,43,12,0.150815
+book=Philosophy,Fantasy,mean_sentence_words,43,3,-0.240626
+book=Philosophy,Science Fiction,mean_sentence_words,43,1,-0.248711
+book=Philosophy,Romance,mean_sentence_words,43,0,
+book=Philosophy,Mystery,mean_sentence_words,43,17,-0.576309
+book=Philosophy,Thriller,mean_sentence_words,43,20,-0.595243
+book=Philosophy,Philosophy,mean_sentence_words,43,43,0.531345
+book=Philosophy,Science,mean_sentence_words,43,12,0.155678
+book=Philosophy,Fantasy,question_ending_pct,43,3,-0.248768
+book=Philosophy,Science Fiction,question_ending_pct,43,1,-0.140273
+book=Philosophy,Romance,question_ending_pct,43,0,
+book=Philosophy,Mystery,question_ending_pct,43,17,-0.44055
+book=Philosophy,Thriller,question_ending_pct,43,20,-0.633645
+book=Philosophy,Philosophy,question_ending_pct,43,43,0.423006
+book=Philosophy,Science,question_ending_pct,43,12,0.433475
+book=Philosophy,Fantasy,vocabulary_diversity_20_pct,43,3,0.129333
+book=Philosophy,Science Fiction,vocabulary_diversity_20_pct,43,1,0.143106
+book=Philosophy,Romance,vocabulary_diversity_20_pct,43,0,
+book=Philosophy,Mystery,vocabulary_diversity_20_pct,43,17,0.090274
+book=Philosophy,Thriller,vocabulary_diversity_20_pct,43,20,0.162382
+book=Philosophy,Philosophy,vocabulary_diversity_20_pct,43,43,-0.145668
+book=Philosophy,Science,vocabulary_diversity_20_pct,43,12,-0.157172
+book=Philosophy,Fantasy,first_singular_per_1000_words,43,3,0.305357
+book=Philosophy,Science Fiction,first_singular_per_1000_words,43,1,0.248729
+book=Philosophy,Romance,first_singular_per_1000_words,43,0,
+book=Philosophy,Mystery,first_singular_per_1000_words,43,17,0.32319
+book=Philosophy,Thriller,first_singular_per_1000_words,43,20,0.302487
+book=Philosophy,Philosophy,first_singular_per_1000_words,43,43,-0.373062
+book=Philosophy,Science,first_singular_per_1000_words,43,12,0.053539
+book=Philosophy,Fantasy,first_plural_per_1000_words,43,3,-0.286326
+book=Philosophy,Science Fiction,first_plural_per_1000_words,43,1,-0.161451
+book=Philosophy,Romance,first_plural_per_1000_words,43,0,
+book=Philosophy,Mystery,first_plural_per_1000_words,43,17,-0.066864
+book=Philosophy,Thriller,first_plural_per_1000_words,43,20,-0.423404
+book=Philosophy,Philosophy,first_plural_per_1000_words,43,43,0.196553
+book=Philosophy,Science,first_plural_per_1000_words,43,12,0.26525
+book=Philosophy,Fantasy,second_person_per_1000_words,43,3,0.223332
+book=Philosophy,Science Fiction,second_person_per_1000_words,43,1,-0.156078
+book=Philosophy,Romance,second_person_per_1000_words,43,0,
+book=Philosophy,Mystery,second_person_per_1000_words,43,17,-0.129564
+book=Philosophy,Thriller,second_person_per_1000_words,43,20,-0.143195
+book=Philosophy,Philosophy,second_person_per_1000_words,43,43,0.219718
+book=Philosophy,Science,second_person_per_1000_words,43,12,0.14311
+book=Philosophy,Fantasy,contractions_per_1000_words,43,3,0.344066
+book=Philosophy,Science Fiction,contractions_per_1000_words,43,1,0.18808
+book=Philosophy,Romance,contractions_per_1000_words,43,0,
+book=Philosophy,Mystery,contractions_per_1000_words,43,17,0.154491
+book=Philosophy,Thriller,contractions_per_1000_words,43,20,0.291153
+book=Philosophy,Philosophy,contractions_per_1000_words,43,43,-0.229276
+book=Philosophy,Science,contractions_per_1000_words,43,12,0.046599
+book=Philosophy,Fantasy,exclamations_per_1000_words,43,3,0.528893
+book=Philosophy,Science Fiction,exclamations_per_1000_words,43,1,0.298716
+book=Philosophy,Romance,exclamations_per_1000_words,43,0,
+book=Philosophy,Mystery,exclamations_per_1000_words,43,17,0.096802
+book=Philosophy,Thriller,exclamations_per_1000_words,43,20,-0.006745
+book=Philosophy,Philosophy,exclamations_per_1000_words,43,43,-0.120175
+book=Philosophy,Science,exclamations_per_1000_words,43,12,-0.254764
+book=Philosophy,Fantasy,ellipses_per_1000_words,43,3,0.041876
+book=Philosophy,Science Fiction,ellipses_per_1000_words,43,1,-0.104522
+book=Philosophy,Romance,ellipses_per_1000_words,43,0,
+book=Philosophy,Mystery,ellipses_per_1000_words,43,17,-0.305291
+book=Philosophy,Thriller,ellipses_per_1000_words,43,20,-0.414131
+book=Philosophy,Philosophy,ellipses_per_1000_words,43,43,0.271126
+book=Philosophy,Science,ellipses_per_1000_words,43,12,0.1574
+book=Philosophy,Fantasy,colons_per_1000_words,43,3,-0.276796
+book=Philosophy,Science Fiction,colons_per_1000_words,43,1,-0.156078
+book=Philosophy,Romance,colons_per_1000_words,43,0,
+book=Philosophy,Mystery,colons_per_1000_words,43,17,-0.344312
+book=Philosophy,Thriller,colons_per_1000_words,43,20,-0.532862
+book=Philosophy,Philosophy,colons_per_1000_words,43,43,0.563848
+book=Philosophy,Science,colons_per_1000_words,43,12,0.031424
+book=Philosophy,Fantasy,semicolons_per_1000_words,43,3,-0.212346
+book=Philosophy,Science Fiction,semicolons_per_1000_words,43,1,-0.119736
+book=Philosophy,Romance,semicolons_per_1000_words,43,0,
+book=Philosophy,Mystery,semicolons_per_1000_words,43,17,-0.375763
+book=Philosophy,Thriller,semicolons_per_1000_words,43,20,-0.457636
+book=Philosophy,Philosophy,semicolons_per_1000_words,43,43,0.434683
+book=Philosophy,Science,semicolons_per_1000_words,43,12,0.113211
+book=Philosophy,Fantasy,upper_tokens_per_1000_words,43,3,-0.230451
+book=Philosophy,Science Fiction,upper_tokens_per_1000_words,43,1,-0.129945
+book=Philosophy,Romance,upper_tokens_per_1000_words,43,0,
+book=Philosophy,Mystery,upper_tokens_per_1000_words,43,17,-0.206786
+book=Philosophy,Thriller,upper_tokens_per_1000_words,43,20,-0.190769
+book=Philosophy,Philosophy,upper_tokens_per_1000_words,43,43,0.408156
+book=Philosophy,Science,upper_tokens_per_1000_words,43,12,-0.2126
+book=Philosophy,Fantasy,emphatic_runs_per_1000_words,43,3,-0.060422
+book=Philosophy,Science Fiction,emphatic_runs_per_1000_words,43,1,-0.03407
+book=Philosophy,Romance,emphatic_runs_per_1000_words,43,0,
+book=Philosophy,Mystery,emphatic_runs_per_1000_words,43,17,0.122584
+book=Philosophy,Thriller,emphatic_runs_per_1000_words,43,20,-0.064765
+book=Philosophy,Philosophy,emphatic_runs_per_1000_words,43,43,-0.047859
+book=Philosophy,Science,emphatic_runs_per_1000_words,43,12,-0.135269
+book=Philosophy,Fantasy,colloquial_tokens_per_1000_words,43,3,-0.042225
+book=Philosophy,Science Fiction,colloquial_tokens_per_1000_words,43,1,-0.02381
+book=Philosophy,Romance,colloquial_tokens_per_1000_words,43,0,
+book=Philosophy,Mystery,colloquial_tokens_per_1000_words,43,17,-0.119736
+book=Philosophy,Thriller,colloquial_tokens_per_1000_words,43,20,-0.135152
+book=Philosophy,Philosophy,colloquial_tokens_per_1000_words,43,43,0.20545
+book=Philosophy,Science,colloquial_tokens_per_1000_words,43,12,-0.094531
+book=Philosophy,Fantasy,subordination_sentence_pct,43,3,-0.07338
+book=Philosophy,Science Fiction,subordination_sentence_pct,43,1,0.088018
+book=Philosophy,Romance,subordination_sentence_pct,43,0,
+book=Philosophy,Mystery,subordination_sentence_pct,43,17,-0.333122
+book=Philosophy,Thriller,subordination_sentence_pct,43,20,-0.43497
+book=Philosophy,Philosophy,subordination_sentence_pct,43,43,0.25026
+book=Philosophy,Science,subordination_sentence_pct,43,12,0.392173
+book=Philosophy,Fantasy,hedge_sentence_pct,43,3,-0.276956
+book=Philosophy,Science Fiction,hedge_sentence_pct,43,1,-0.156168
+book=Philosophy,Romance,hedge_sentence_pct,43,0,
+book=Philosophy,Mystery,hedge_sentence_pct,43,17,-0.069072
+book=Philosophy,Thriller,hedge_sentence_pct,43,20,-0.183264
+book=Philosophy,Philosophy,hedge_sentence_pct,43,43,0.004234
+book=Philosophy,Science,hedge_sentence_pct,43,12,0.168177
+book=Philosophy,Fantasy,certainty_sentence_pct,43,3,-0.139525
+book=Philosophy,Science Fiction,certainty_sentence_pct,43,1,-0.078674
+book=Philosophy,Romance,certainty_sentence_pct,43,0,
+book=Philosophy,Mystery,certainty_sentence_pct,43,17,-0.395645
+book=Philosophy,Thriller,certainty_sentence_pct,43,20,-0.281798
+book=Philosophy,Philosophy,certainty_sentence_pct,43,43,0.320432
+book=Philosophy,Science,certainty_sentence_pct,43,12,-0.006659
+book=Philosophy,Fantasy,causal_sentence_pct,43,3,-0.221398
+book=Philosophy,Science Fiction,causal_sentence_pct,43,1,-0.12484
+book=Philosophy,Romance,causal_sentence_pct,43,0,
+book=Philosophy,Mystery,causal_sentence_pct,43,17,-0.343488
+book=Philosophy,Thriller,causal_sentence_pct,43,20,-0.517473
+book=Philosophy,Philosophy,causal_sentence_pct,43,43,0.33196
+book=Philosophy,Science,causal_sentence_pct,43,12,0.272803
+book=Philosophy,Fantasy,contrast_sentence_pct,43,3,-0.169023
+book=Philosophy,Science Fiction,contrast_sentence_pct,43,1,0.069892
+book=Philosophy,Romance,contrast_sentence_pct,43,0,
+book=Philosophy,Mystery,contrast_sentence_pct,43,17,-0.4
+book=Philosophy,Thriller,contrast_sentence_pct,43,20,-0.304847
+book=Philosophy,Philosophy,contrast_sentence_pct,43,43,0.203658
+book=Philosophy,Science,contrast_sentence_pct,43,12,0.092498
+book=Philosophy,Fantasy,example_sentence_pct,43,3,-0.185364
+book=Philosophy,Science Fiction,example_sentence_pct,43,1,-0.104522
+book=Philosophy,Romance,example_sentence_pct,43,0,
+book=Philosophy,Mystery,example_sentence_pct,43,17,-0.460094
+book=Philosophy,Thriller,example_sentence_pct,43,20,-0.463211
+book=Philosophy,Philosophy,example_sentence_pct,43,43,0.502755
+book=Philosophy,Science,example_sentence_pct,43,12,0.063305
+book=Philosophy,Fantasy,reading_experience_sentence_pct,43,3,-0.120049
+book=Philosophy,Science Fiction,reading_experience_sentence_pct,43,1,-0.067692
+book=Philosophy,Romance,reading_experience_sentence_pct,43,0,
+book=Philosophy,Mystery,reading_experience_sentence_pct,43,17,-0.206766
+book=Philosophy,Thriller,reading_experience_sentence_pct,43,20,-0.281037
+book=Philosophy,Philosophy,reading_experience_sentence_pct,43,43,0.378058
+book=Philosophy,Science,reading_experience_sentence_pct,43,12,-0.26876
+book=Philosophy,Fantasy,recommendation_sentence_pct,43,3,-0.139525
+book=Philosophy,Science Fiction,recommendation_sentence_pct,43,1,-0.078674
+book=Philosophy,Romance,recommendation_sentence_pct,43,0,
+book=Philosophy,Mystery,recommendation_sentence_pct,43,17,-0.245361
+book=Philosophy,Thriller,recommendation_sentence_pct,43,20,-0.275913
+book=Philosophy,Philosophy,recommendation_sentence_pct,43,43,0.315861
+book=Philosophy,Science,recommendation_sentence_pct,43,12,-0.019708
+book=Philosophy,Fantasy,plot_description_sentence_pct,43,3,-0.060422
+book=Philosophy,Science Fiction,plot_description_sentence_pct,43,1,-0.03407
+book=Philosophy,Romance,plot_description_sentence_pct,43,0,
+book=Philosophy,Mystery,plot_description_sentence_pct,43,17,-0.171336
+book=Philosophy,Thriller,plot_description_sentence_pct,43,20,-0.193395
+book=Philosophy,Philosophy,plot_description_sentence_pct,43,43,0.325895
+book=Philosophy,Science,plot_description_sentence_pct,43,12,-0.135269
+book=Philosophy,Fantasy,evaluation_sentence_pct,43,3,0.232336
+book=Philosophy,Science Fiction,evaluation_sentence_pct,43,1,-0.049343
+book=Philosophy,Romance,evaluation_sentence_pct,43,0,
+book=Philosophy,Mystery,evaluation_sentence_pct,43,17,0.047694
+book=Philosophy,Thriller,evaluation_sentence_pct,43,20,0.010422
+book=Philosophy,Philosophy,evaluation_sentence_pct,43,43,-0.094667
+book=Philosophy,Science,evaluation_sentence_pct,43,12,-0.025058
+book=Philosophy,Fantasy,sd_sentence_words,43,3,-0.304103
+book=Philosophy,Science Fiction,sd_sentence_words,43,1,-0.236248
+book=Philosophy,Romance,sd_sentence_words,43,0,
+book=Philosophy,Mystery,sd_sentence_words,43,17,-0.56183
+book=Philosophy,Thriller,sd_sentence_words,43,20,-0.663541
+book=Philosophy,Philosophy,sd_sentence_words,43,43,0.582965
+book=Philosophy,Science,sd_sentence_words,43,12,0.145232
+book=Romance,Fantasy,words_per_review,2418,522,-0.023424
+book=Romance,Science Fiction,words_per_review,2418,173,-0.036288
+book=Romance,Romance,words_per_review,2418,2418,0.315027
+book=Romance,Mystery,words_per_review,2418,774,-0.191922
+book=Romance,Thriller,words_per_review,2418,1773,-0.301007
+book=Romance,Philosophy,words_per_review,2418,0,
+book=Romance,Science,words_per_review,2418,22,-0.032677
+book=Romance,Fantasy,sentences_per_review,2418,522,-0.028032
+book=Romance,Science Fiction,sentences_per_review,2418,173,-0.036979
+book=Romance,Romance,sentences_per_review,2418,2418,0.309021
+book=Romance,Mystery,sentences_per_review,2418,774,-0.210744
+book=Romance,Thriller,sentences_per_review,2418,1773,-0.276046
+book=Romance,Philosophy,sentences_per_review,2418,0,
+book=Romance,Science,sentences_per_review,2418,22,-0.031511
+book=Romance,Fantasy,paragraphs_per_review,2418,522,0.011495
+book=Romance,Science Fiction,paragraphs_per_review,2418,173,-0.027838
+book=Romance,Romance,paragraphs_per_review,2418,2418,0.270272
+book=Romance,Mystery,paragraphs_per_review,2418,774,-0.160459
+book=Romance,Thriller,paragraphs_per_review,2418,1773,-0.261461
+book=Romance,Philosophy,paragraphs_per_review,2418,0,
+book=Romance,Science,paragraphs_per_review,2418,22,-0.005249
+book=Romance,Fantasy,words_per_paragraph,2418,522,-0.022673
+book=Romance,Science Fiction,words_per_paragraph,2418,173,-0.019601
+book=Romance,Romance,words_per_paragraph,2418,2418,0.143316
+book=Romance,Mystery,words_per_paragraph,2418,774,-0.10304
+book=Romance,Thriller,words_per_paragraph,2418,1773,-0.103282
+book=Romance,Philosophy,words_per_paragraph,2418,0,
+book=Romance,Science,words_per_paragraph,2418,22,-0.041932
+book=Romance,Fantasy,mean_sentence_words,2418,522,0.00525
+book=Romance,Science Fiction,mean_sentence_words,2418,173,0.002279
+book=Romance,Romance,mean_sentence_words,2418,2418,0.1079
+book=Romance,Mystery,mean_sentence_words,2418,774,-0.017499
+book=Romance,Thriller,mean_sentence_words,2418,1773,-0.145467
+book=Romance,Philosophy,mean_sentence_words,2418,0,
+book=Romance,Science,mean_sentence_words,2418,22,-0.002542
+book=Romance,Fantasy,question_ending_pct,2418,522,0.003394
+book=Romance,Science Fiction,question_ending_pct,2418,173,-0.013284
+book=Romance,Romance,question_ending_pct,2418,2418,0.320962
+book=Romance,Mystery,question_ending_pct,2418,774,-0.192228
+book=Romance,Thriller,question_ending_pct,2418,1773,-0.236661
+book=Romance,Philosophy,question_ending_pct,2418,0,
+book=Romance,Science,question_ending_pct,2418,22,-0.027712
+book=Romance,Fantasy,vocabulary_diversity_20_pct,2418,522,0.006744
+book=Romance,Science Fiction,vocabulary_diversity_20_pct,2418,173,-0.023992
+book=Romance,Romance,vocabulary_diversity_20_pct,2418,2418,0.020445
+book=Romance,Mystery,vocabulary_diversity_20_pct,2418,774,-0.012163
+book=Romance,Thriller,vocabulary_diversity_20_pct,2418,1773,-0.017799
+book=Romance,Philosophy,vocabulary_diversity_20_pct,2418,0,
+book=Romance,Science,vocabulary_diversity_20_pct,2418,22,-0.01646
+book=Romance,Fantasy,first_singular_per_1000_words,2418,522,0.009692
+book=Romance,Science Fiction,first_singular_per_1000_words,2418,173,-0.018399
+book=Romance,Romance,first_singular_per_1000_words,2418,2418,-0.020873
+book=Romance,Mystery,first_singular_per_1000_words,2418,774,-0.049272
+book=Romance,Thriller,first_singular_per_1000_words,2418,1773,0.042776
+book=Romance,Philosophy,first_singular_per_1000_words,2418,0,
+book=Romance,Science,first_singular_per_1000_words,2418,22,0.011046
+book=Romance,Fantasy,first_plural_per_1000_words,2418,522,-0.008943
+book=Romance,Science Fiction,first_plural_per_1000_words,2418,173,-0.048633
+book=Romance,Romance,first_plural_per_1000_words,2418,2418,0.403905
+book=Romance,Mystery,first_plural_per_1000_words,2418,774,-0.241703
+book=Romance,Thriller,first_plural_per_1000_words,2418,1773,-0.286204
+book=Romance,Philosophy,first_plural_per_1000_words,2418,0,
+book=Romance,Science,first_plural_per_1000_words,2418,22,-0.061864
+book=Romance,Fantasy,second_person_per_1000_words,2418,522,-0.043808
+book=Romance,Science Fiction,second_person_per_1000_words,2418,173,-0.036577
+book=Romance,Romance,second_person_per_1000_words,2418,2418,0.240623
+book=Romance,Mystery,second_person_per_1000_words,2418,774,-0.209408
+book=Romance,Thriller,second_person_per_1000_words,2418,1773,-0.124688
+book=Romance,Philosophy,second_person_per_1000_words,2418,0,
+book=Romance,Science,second_person_per_1000_words,2418,22,-0.053622
+book=Romance,Fantasy,contractions_per_1000_words,2418,522,0.013382
+book=Romance,Science Fiction,contractions_per_1000_words,2418,173,-0.036253
+book=Romance,Romance,contractions_per_1000_words,2418,2418,0.144681
+book=Romance,Mystery,contractions_per_1000_words,2418,774,-0.124468
+book=Romance,Thriller,contractions_per_1000_words,2418,1773,-0.094958
+book=Romance,Philosophy,contractions_per_1000_words,2418,0,
+book=Romance,Science,contractions_per_1000_words,2418,22,-0.015247
+book=Romance,Fantasy,exclamations_per_1000_words,2418,522,0.03483
+book=Romance,Science Fiction,exclamations_per_1000_words,2418,173,-0.05448
+book=Romance,Romance,exclamations_per_1000_words,2418,2418,0.251221
+book=Romance,Mystery,exclamations_per_1000_words,2418,774,-0.217627
+book=Romance,Thriller,exclamations_per_1000_words,2418,1773,-0.114468
+book=Romance,Philosophy,exclamations_per_1000_words,2418,0,
+book=Romance,Science,exclamations_per_1000_words,2418,22,-0.055586
+book=Romance,Fantasy,ellipses_per_1000_words,2418,522,0.024636
+book=Romance,Science Fiction,ellipses_per_1000_words,2418,173,-0.023322
+book=Romance,Romance,ellipses_per_1000_words,2418,2418,0.299622
+book=Romance,Mystery,ellipses_per_1000_words,2418,774,-0.196958
+book=Romance,Thriller,ellipses_per_1000_words,2418,1773,-0.219585
+book=Romance,Philosophy,ellipses_per_1000_words,2418,0,
+book=Romance,Science,ellipses_per_1000_words,2418,22,-0.022778
+book=Romance,Fantasy,colons_per_1000_words,2418,522,0.056619
+book=Romance,Science Fiction,colons_per_1000_words,2418,173,0.026368
+book=Romance,Romance,colons_per_1000_words,2418,2418,0.267241
+book=Romance,Mystery,colons_per_1000_words,2418,774,-0.124068
+book=Romance,Thriller,colons_per_1000_words,2418,1773,-0.256758
+book=Romance,Philosophy,colons_per_1000_words,2418,0,
+book=Romance,Science,colons_per_1000_words,2418,22,-0.026372
+book=Romance,Fantasy,semicolons_per_1000_words,2418,522,0.025463
+book=Romance,Science Fiction,semicolons_per_1000_words,2418,173,0.018051
+book=Romance,Romance,semicolons_per_1000_words,2418,2418,0.248453
+book=Romance,Mystery,semicolons_per_1000_words,2418,774,-0.127833
+book=Romance,Thriller,semicolons_per_1000_words,2418,1773,-0.216347
+book=Romance,Philosophy,semicolons_per_1000_words,2418,0,
+book=Romance,Science,semicolons_per_1000_words,2418,22,-0.035756
+book=Romance,Fantasy,upper_tokens_per_1000_words,2418,522,0.011818
+book=Romance,Science Fiction,upper_tokens_per_1000_words,2418,173,-0.038839
+book=Romance,Romance,upper_tokens_per_1000_words,2418,2418,0.294469
+book=Romance,Mystery,upper_tokens_per_1000_words,2418,774,-0.21481
+book=Romance,Thriller,upper_tokens_per_1000_words,2418,1773,-0.190051
+book=Romance,Philosophy,upper_tokens_per_1000_words,2418,0,
+book=Romance,Science,upper_tokens_per_1000_words,2418,22,-0.013863
+book=Romance,Fantasy,emphatic_runs_per_1000_words,2418,522,0.029233
+book=Romance,Science Fiction,emphatic_runs_per_1000_words,2418,173,-0.051048
+book=Romance,Romance,emphatic_runs_per_1000_words,2418,2418,0.335622
+book=Romance,Mystery,emphatic_runs_per_1000_words,2418,774,-0.245181
+book=Romance,Thriller,emphatic_runs_per_1000_words,2418,1773,-0.193445
+book=Romance,Philosophy,emphatic_runs_per_1000_words,2418,0,
+book=Romance,Science,emphatic_runs_per_1000_words,2418,22,-0.063586
+book=Romance,Fantasy,colloquial_tokens_per_1000_words,2418,522,0.059489
+book=Romance,Science Fiction,colloquial_tokens_per_1000_words,2418,173,0.024343
+book=Romance,Romance,colloquial_tokens_per_1000_words,2418,2418,0.29805
+book=Romance,Mystery,colloquial_tokens_per_1000_words,2418,774,-0.196441
+book=Romance,Thriller,colloquial_tokens_per_1000_words,2418,1773,-0.192588
+book=Romance,Philosophy,colloquial_tokens_per_1000_words,2418,0,
+book=Romance,Science,colloquial_tokens_per_1000_words,2418,22,-0.01353
+book=Romance,Fantasy,subordination_sentence_pct,2418,522,-0.018473
+book=Romance,Science Fiction,subordination_sentence_pct,2418,173,-0.031525
+book=Romance,Romance,subordination_sentence_pct,2418,2418,0.145153
+book=Romance,Mystery,subordination_sentence_pct,2418,774,-0.049825
+book=Romance,Thriller,subordination_sentence_pct,2418,1773,-0.161374
+book=Romance,Philosophy,subordination_sentence_pct,2418,0,
+book=Romance,Science,subordination_sentence_pct,2418,22,-0.028931
+book=Romance,Fantasy,hedge_sentence_pct,2418,522,0.002484
+book=Romance,Science Fiction,hedge_sentence_pct,2418,173,-0.019771
+book=Romance,Romance,hedge_sentence_pct,2418,2418,0.320803
+book=Romance,Mystery,hedge_sentence_pct,2418,774,-0.164202
+book=Romance,Thriller,hedge_sentence_pct,2418,1773,-0.273632
+book=Romance,Philosophy,hedge_sentence_pct,2418,0,
+book=Romance,Science,hedge_sentence_pct,2418,22,-0.037677
+book=Romance,Fantasy,certainty_sentence_pct,2418,522,0.020808
+book=Romance,Science Fiction,certainty_sentence_pct,2418,173,-0.048989
+book=Romance,Romance,certainty_sentence_pct,2418,2418,0.308494
+book=Romance,Mystery,certainty_sentence_pct,2418,774,-0.177101
+book=Romance,Thriller,certainty_sentence_pct,2418,1773,-0.212617
+book=Romance,Philosophy,certainty_sentence_pct,2418,0,
+book=Romance,Science,certainty_sentence_pct,2418,22,-0.034374
+book=Romance,Fantasy,causal_sentence_pct,2418,522,0.021574
+book=Romance,Science Fiction,causal_sentence_pct,2418,173,-0.003696
+book=Romance,Romance,causal_sentence_pct,2418,2418,0.340918
+book=Romance,Mystery,causal_sentence_pct,2418,774,-0.187867
+book=Romance,Thriller,causal_sentence_pct,2418,1773,-0.266016
+book=Romance,Philosophy,causal_sentence_pct,2418,0,
+book=Romance,Science,causal_sentence_pct,2418,22,-0.019197
+book=Romance,Fantasy,contrast_sentence_pct,2418,522,-0.010722
+book=Romance,Science Fiction,contrast_sentence_pct,2418,173,0.00944
+book=Romance,Romance,contrast_sentence_pct,2418,2418,0.123538
+book=Romance,Mystery,contrast_sentence_pct,2418,774,-0.058656
+book=Romance,Thriller,contrast_sentence_pct,2418,1773,-0.111512
+book=Romance,Philosophy,contrast_sentence_pct,2418,0,
+book=Romance,Science,contrast_sentence_pct,2418,22,0.012037
+book=Romance,Fantasy,example_sentence_pct,2418,522,0.045773
+book=Romance,Science Fiction,example_sentence_pct,2418,173,0.029442
+book=Romance,Romance,example_sentence_pct,2418,2418,0.12867
+book=Romance,Mystery,example_sentence_pct,2418,774,-0.018357
+book=Romance,Thriller,example_sentence_pct,2418,1773,-0.139736
+book=Romance,Philosophy,example_sentence_pct,2418,0,
+book=Romance,Science,example_sentence_pct,2418,22,-0.022736
+book=Romance,Fantasy,reading_experience_sentence_pct,2418,522,0.006368
+book=Romance,Science Fiction,reading_experience_sentence_pct,2418,173,-0.010282
+book=Romance,Romance,reading_experience_sentence_pct,2418,2418,0.313733
+book=Romance,Mystery,reading_experience_sentence_pct,2418,774,-0.160388
+book=Romance,Thriller,reading_experience_sentence_pct,2418,1773,-0.232817
+book=Romance,Philosophy,reading_experience_sentence_pct,2418,0,
+book=Romance,Science,reading_experience_sentence_pct,2418,22,-0.004228
+book=Romance,Fantasy,recommendation_sentence_pct,2418,522,0.013518
+book=Romance,Science Fiction,recommendation_sentence_pct,2418,173,0.033772
+book=Romance,Romance,recommendation_sentence_pct,2418,2418,0.284505
+book=Romance,Mystery,recommendation_sentence_pct,2418,774,-0.132592
+book=Romance,Thriller,recommendation_sentence_pct,2418,1773,-0.196541
+book=Romance,Philosophy,recommendation_sentence_pct,2418,0,
+book=Romance,Science,recommendation_sentence_pct,2418,22,-0.043578
+book=Romance,Fantasy,plot_description_sentence_pct,2418,522,0.01879
+book=Romance,Science Fiction,plot_description_sentence_pct,2418,173,0.020071
+book=Romance,Romance,plot_description_sentence_pct,2418,2418,0.234537
+book=Romance,Mystery,plot_description_sentence_pct,2418,774,-0.087514
+book=Romance,Thriller,plot_description_sentence_pct,2418,1773,-0.211563
+book=Romance,Philosophy,plot_description_sentence_pct,2418,0,
+book=Romance,Science,plot_description_sentence_pct,2418,22,-0.02024
+book=Romance,Fantasy,evaluation_sentence_pct,2418,522,0.041941
+book=Romance,Science Fiction,evaluation_sentence_pct,2418,173,-0.000576
+book=Romance,Romance,evaluation_sentence_pct,2418,2418,0.197379
+book=Romance,Mystery,evaluation_sentence_pct,2418,774,-0.118484
+book=Romance,Thriller,evaluation_sentence_pct,2418,1773,-0.083895
+book=Romance,Philosophy,evaluation_sentence_pct,2418,0,
+book=Romance,Science,evaluation_sentence_pct,2418,22,0.004769
+book=Romance,Fantasy,sd_sentence_words,2412,520,-0.003633
+book=Romance,Science Fiction,sd_sentence_words,2412,172,-0.018085
+book=Romance,Romance,sd_sentence_words,2412,2412,0.260532
+book=Romance,Mystery,sd_sentence_words,2412,769,-0.134345
+book=Romance,Thriller,sd_sentence_words,2412,1768,-0.232776
+book=Romance,Philosophy,sd_sentence_words,2412,0,
+book=Romance,Science,sd_sentence_words,2412,22,-0.049464
+book=Science,Fantasy,words_per_review,478,34,0.014528
+book=Science,Science Fiction,words_per_review,478,47,-0.084169
+book=Science,Romance,words_per_review,478,20,-0.056116
+book=Science,Mystery,words_per_review,478,169,-0.388479
+book=Science,Thriller,words_per_review,478,235,-0.551144
+book=Science,Philosophy,words_per_review,478,13,0.072698
+book=Science,Science,words_per_review,478,478,0.541079
+book=Science,Fantasy,sentences_per_review,478,34,0.026064
+book=Science,Science Fiction,sentences_per_review,478,47,-0.0533
+book=Science,Romance,sentences_per_review,478,20,-0.023754
+book=Science,Mystery,sentences_per_review,478,169,-0.338742
+book=Science,Thriller,sentences_per_review,478,235,-0.507263
+book=Science,Philosophy,sentences_per_review,478,13,0.08217
+book=Science,Science,sentences_per_review,478,478,0.484899
+book=Science,Fantasy,paragraphs_per_review,478,34,0.018152
+book=Science,Science Fiction,paragraphs_per_review,478,47,-0.017441
+book=Science,Romance,paragraphs_per_review,478,20,0.020895
+book=Science,Mystery,paragraphs_per_review,478,169,-0.33148
+book=Science,Thriller,paragraphs_per_review,478,235,-0.471435
+book=Science,Philosophy,paragraphs_per_review,478,13,0.1252
+book=Science,Science,paragraphs_per_review,478,478,0.412445
+book=Science,Fantasy,words_per_paragraph,478,34,-0.018947
+book=Science,Science Fiction,words_per_paragraph,478,47,-0.148984
+book=Science,Romance,words_per_paragraph,478,20,-0.121396
+book=Science,Mystery,words_per_paragraph,478,169,-0.276122
+book=Science,Thriller,words_per_paragraph,478,235,-0.375203
+book=Science,Philosophy,words_per_paragraph,478,13,-0.014217
+book=Science,Science,words_per_paragraph,478,478,0.413178
+book=Science,Fantasy,mean_sentence_words,478,34,-0.022406
+book=Science,Science Fiction,mean_sentence_words,478,47,-0.12035
+book=Science,Romance,mean_sentence_words,478,20,-0.087281
+book=Science,Mystery,mean_sentence_words,478,169,-0.292684
+book=Science,Thriller,mean_sentence_words,478,235,-0.380239
+book=Science,Philosophy,mean_sentence_words,478,13,0.018449
+book=Science,Science,mean_sentence_words,478,478,0.375463
+book=Science,Fantasy,question_ending_pct,478,34,-0.037872
+book=Science,Science Fiction,question_ending_pct,478,47,-0.050402
+book=Science,Romance,question_ending_pct,478,20,-0.05696
+book=Science,Mystery,question_ending_pct,478,169,-0.250783
+book=Science,Thriller,question_ending_pct,478,235,-0.356666
+book=Science,Philosophy,question_ending_pct,478,13,0.139765
+book=Science,Science,question_ending_pct,478,478,0.326179
+book=Science,Fantasy,vocabulary_diversity_20_pct,478,34,-0.040512
+book=Science,Science Fiction,vocabulary_diversity_20_pct,478,47,-0.013479
+book=Science,Romance,vocabulary_diversity_20_pct,478,20,0.016825
+book=Science,Mystery,vocabulary_diversity_20_pct,478,169,-0.002996
+book=Science,Thriller,vocabulary_diversity_20_pct,478,235,-0.044505
+book=Science,Philosophy,vocabulary_diversity_20_pct,478,13,-0.018743
+book=Science,Science,vocabulary_diversity_20_pct,478,478,-0.015769
+book=Science,Fantasy,first_singular_per_1000_words,478,34,0.13917
+book=Science,Science Fiction,first_singular_per_1000_words,478,47,0.078938
+book=Science,Romance,first_singular_per_1000_words,478,20,0.07092
+book=Science,Mystery,first_singular_per_1000_words,478,169,0.241113
+book=Science,Thriller,first_singular_per_1000_words,478,235,0.247134
+book=Science,Philosophy,first_singular_per_1000_words,478,13,-0.033951
+book=Science,Science,first_singular_per_1000_words,478,478,-0.287732
+book=Science,Fantasy,first_plural_per_1000_words,478,34,-0.019321
+book=Science,Science Fiction,first_plural_per_1000_words,478,47,0.053078
+book=Science,Romance,first_plural_per_1000_words,478,20,-0.003931
+book=Science,Mystery,first_plural_per_1000_words,478,169,-0.096017
+book=Science,Thriller,first_plural_per_1000_words,478,235,-0.272966
+book=Science,Philosophy,first_plural_per_1000_words,478,13,0.048164
+book=Science,Science,first_plural_per_1000_words,478,478,0.175111
+book=Science,Fantasy,second_person_per_1000_words,478,34,-0.118849
+book=Science,Science Fiction,second_person_per_1000_words,478,47,-0.095333
+book=Science,Romance,second_person_per_1000_words,478,20,-0.060718
+book=Science,Mystery,second_person_per_1000_words,478,169,-0.230855
+book=Science,Thriller,second_person_per_1000_words,478,235,-0.231456
+book=Science,Philosophy,second_person_per_1000_words,478,13,0.047696
+book=Science,Science,second_person_per_1000_words,478,478,0.266758
+book=Science,Fantasy,contractions_per_1000_words,478,34,0.16602
+book=Science,Science Fiction,contractions_per_1000_words,478,47,0.020792
+book=Science,Romance,contractions_per_1000_words,478,20,0.040912
+book=Science,Mystery,contractions_per_1000_words,478,169,-0.01798
+book=Science,Thriller,contractions_per_1000_words,478,235,-0.112922
+book=Science,Philosophy,contractions_per_1000_words,478,13,0.024193
+book=Science,Science,contractions_per_1000_words,478,478,0.033861
+book=Science,Fantasy,exclamations_per_1000_words,478,34,-0.043438
+book=Science,Science Fiction,exclamations_per_1000_words,478,47,-0.144365
+book=Science,Romance,exclamations_per_1000_words,478,20,0.027102
+book=Science,Mystery,exclamations_per_1000_words,478,169,-0.155959
+book=Science,Thriller,exclamations_per_1000_words,478,235,-0.192892
+book=Science,Philosophy,exclamations_per_1000_words,478,13,0.04842
+book=Science,Science,exclamations_per_1000_words,478,478,0.222706
+book=Science,Fantasy,ellipses_per_1000_words,478,34,-0.052499
+book=Science,Science Fiction,ellipses_per_1000_words,478,47,-0.111612
+book=Science,Romance,ellipses_per_1000_words,478,20,-0.038537
+book=Science,Mystery,ellipses_per_1000_words,478,169,-0.185083
+book=Science,Thriller,ellipses_per_1000_words,478,235,-0.325909
+book=Science,Philosophy,ellipses_per_1000_words,478,13,0.029393
+book=Science,Science,ellipses_per_1000_words,478,478,0.357661
+book=Science,Fantasy,colons_per_1000_words,478,34,-0.105618
+book=Science,Science Fiction,colons_per_1000_words,478,47,-0.136125
+book=Science,Romance,colons_per_1000_words,478,20,-0.114138
+book=Science,Mystery,colons_per_1000_words,478,169,-0.385557
+book=Science,Thriller,colons_per_1000_words,478,235,-0.494844
+book=Science,Philosophy,colons_per_1000_words,478,13,0.096469
+book=Science,Science,colons_per_1000_words,478,478,0.508506
+book=Science,Fantasy,semicolons_per_1000_words,478,34,-0.059921
+book=Science,Science Fiction,semicolons_per_1000_words,478,47,-0.070262
+book=Science,Romance,semicolons_per_1000_words,478,20,-0.090063
+book=Science,Mystery,semicolons_per_1000_words,478,169,-0.339528
+book=Science,Thriller,semicolons_per_1000_words,478,235,-0.412692
+book=Science,Philosophy,semicolons_per_1000_words,478,13,0.124005
+book=Science,Science,semicolons_per_1000_words,478,478,0.427816
+book=Science,Fantasy,upper_tokens_per_1000_words,478,34,-0.022316
+book=Science,Science Fiction,upper_tokens_per_1000_words,478,47,-0.122336
+book=Science,Romance,upper_tokens_per_1000_words,478,20,-0.058196
+book=Science,Mystery,upper_tokens_per_1000_words,478,169,-0.293554
+book=Science,Thriller,upper_tokens_per_1000_words,478,235,-0.379779
+book=Science,Philosophy,upper_tokens_per_1000_words,478,13,0.015436
+book=Science,Science,upper_tokens_per_1000_words,478,478,0.382828
+book=Science,Fantasy,emphatic_runs_per_1000_words,478,34,-0.086796
+book=Science,Science Fiction,emphatic_runs_per_1000_words,478,47,-0.080239
+book=Science,Romance,emphatic_runs_per_1000_words,478,20,-0.028445
+book=Science,Mystery,emphatic_runs_per_1000_words,478,169,-0.091558
+book=Science,Thriller,emphatic_runs_per_1000_words,478,235,-0.115919
+book=Science,Philosophy,emphatic_runs_per_1000_words,478,13,0.120053
+book=Science,Science,emphatic_runs_per_1000_words,478,478,0.126194
+book=Science,Fantasy,colloquial_tokens_per_1000_words,478,34,0.076327
+book=Science,Science Fiction,colloquial_tokens_per_1000_words,478,47,0.001538
+book=Science,Romance,colloquial_tokens_per_1000_words,478,20,-0.030535
+book=Science,Mystery,colloquial_tokens_per_1000_words,478,169,-0.079192
+book=Science,Thriller,colloquial_tokens_per_1000_words,478,235,-0.071999
+book=Science,Philosophy,colloquial_tokens_per_1000_words,478,13,0.065411
+book=Science,Science,colloquial_tokens_per_1000_words,478,478,0.114774
+book=Science,Fantasy,subordination_sentence_pct,478,34,-0.074482
+book=Science,Science Fiction,subordination_sentence_pct,478,47,-0.125864
+book=Science,Romance,subordination_sentence_pct,478,20,-0.037258
+book=Science,Mystery,subordination_sentence_pct,478,169,-0.203706
+book=Science,Thriller,subordination_sentence_pct,478,235,-0.216623
+book=Science,Philosophy,subordination_sentence_pct,478,13,0.084258
+book=Science,Science,subordination_sentence_pct,478,478,0.263309
+book=Science,Fantasy,hedge_sentence_pct,478,34,-0.037089
+book=Science,Science Fiction,hedge_sentence_pct,478,47,-0.06765
+book=Science,Romance,hedge_sentence_pct,478,20,-0.122314
+book=Science,Mystery,hedge_sentence_pct,478,169,-0.326083
+book=Science,Thriller,hedge_sentence_pct,478,235,-0.442035
+book=Science,Philosophy,hedge_sentence_pct,478,13,0.035941
+book=Science,Science,hedge_sentence_pct,478,478,0.41752
+book=Science,Fantasy,certainty_sentence_pct,478,34,-0.035467
+book=Science,Science Fiction,certainty_sentence_pct,478,47,-0.12121
+book=Science,Romance,certainty_sentence_pct,478,20,-0.016279
+book=Science,Mystery,certainty_sentence_pct,478,169,-0.269702
+book=Science,Thriller,certainty_sentence_pct,478,235,-0.39785
+book=Science,Philosophy,certainty_sentence_pct,478,13,-0.060892
+book=Science,Science,certainty_sentence_pct,478,478,0.41963
+book=Science,Fantasy,causal_sentence_pct,478,34,-0.076357
+book=Science,Science Fiction,causal_sentence_pct,478,47,-0.108785
+book=Science,Romance,causal_sentence_pct,478,20,-0.019664
+book=Science,Mystery,causal_sentence_pct,478,169,-0.310224
+book=Science,Thriller,causal_sentence_pct,478,235,-0.400776
+book=Science,Philosophy,causal_sentence_pct,478,13,0.133619
+book=Science,Science,causal_sentence_pct,478,478,0.402679
+book=Science,Fantasy,contrast_sentence_pct,478,34,0.022229
+book=Science,Science Fiction,contrast_sentence_pct,478,47,0.020716
+book=Science,Romance,contrast_sentence_pct,478,20,-0.049184
+book=Science,Mystery,contrast_sentence_pct,478,169,-0.132834
+book=Science,Thriller,contrast_sentence_pct,478,235,-0.177345
+book=Science,Philosophy,contrast_sentence_pct,478,13,0.015254
+book=Science,Science,contrast_sentence_pct,478,478,0.210215
+book=Science,Fantasy,example_sentence_pct,478,34,-0.061698
+book=Science,Science Fiction,example_sentence_pct,478,47,-0.079076
+book=Science,Romance,example_sentence_pct,478,20,-0.048717
+book=Science,Mystery,example_sentence_pct,478,169,-0.318454
+book=Science,Thriller,example_sentence_pct,478,235,-0.407633
+book=Science,Philosophy,example_sentence_pct,478,13,0.000598
+book=Science,Science,example_sentence_pct,478,478,0.432634
+book=Science,Fantasy,reading_experience_sentence_pct,478,34,-0.017409
+book=Science,Science Fiction,reading_experience_sentence_pct,478,47,-0.060714
+book=Science,Romance,reading_experience_sentence_pct,478,20,-0.013281
+book=Science,Mystery,reading_experience_sentence_pct,478,169,-0.121355
+book=Science,Thriller,reading_experience_sentence_pct,478,235,-0.255298
+book=Science,Philosophy,reading_experience_sentence_pct,478,13,0.109599
+book=Science,Science,reading_experience_sentence_pct,478,478,0.22117
+book=Science,Fantasy,recommendation_sentence_pct,478,34,-0.080083
+book=Science,Science Fiction,recommendation_sentence_pct,478,47,-0.124669
+book=Science,Romance,recommendation_sentence_pct,478,20,-0.036244
+book=Science,Mystery,recommendation_sentence_pct,478,169,-0.195232
+book=Science,Thriller,recommendation_sentence_pct,478,235,-0.304953
+book=Science,Philosophy,recommendation_sentence_pct,478,13,0.023374
+book=Science,Science,recommendation_sentence_pct,478,478,0.318534
+book=Science,Fantasy,plot_description_sentence_pct,478,34,-0.02574
+book=Science,Science Fiction,plot_description_sentence_pct,478,47,0.022582
+book=Science,Romance,plot_description_sentence_pct,478,20,-0.048011
+book=Science,Mystery,plot_description_sentence_pct,478,169,-0.094023
+book=Science,Thriller,plot_description_sentence_pct,478,235,-0.111191
+book=Science,Philosophy,plot_description_sentence_pct,478,13,0.017874
+book=Science,Science,plot_description_sentence_pct,478,478,0.110484
+book=Science,Fantasy,evaluation_sentence_pct,478,34,-2.6e-05
+book=Science,Science Fiction,evaluation_sentence_pct,478,47,-0.054414
+book=Science,Romance,evaluation_sentence_pct,478,20,0.078968
+book=Science,Mystery,evaluation_sentence_pct,478,169,-0.176175
+book=Science,Thriller,evaluation_sentence_pct,478,235,-0.197546
+book=Science,Philosophy,evaluation_sentence_pct,478,13,-0.013974
+book=Science,Science,evaluation_sentence_pct,478,478,0.210483
+book=Science,Fantasy,sd_sentence_words,473,34,-0.079195
+book=Science,Science Fiction,sd_sentence_words,473,47,-0.154678
+book=Science,Romance,sd_sentence_words,473,20,-0.139473
+book=Science,Mystery,sd_sentence_words,473,164,-0.395834
+book=Science,Thriller,sd_sentence_words,473,230,-0.507795
+book=Science,Philosophy,sd_sentence_words,473,13,0.103805
+book=Science,Science,sd_sentence_words,473,473,0.500605
+book=Science Fiction,Fantasy,words_per_review,1001,336,0.060005
+book=Science Fiction,Science Fiction,words_per_review,1001,1001,0.399668
+book=Science Fiction,Romance,words_per_review,1001,171,-0.066184
+book=Science Fiction,Mystery,words_per_review,1001,391,-0.284706
+book=Science Fiction,Thriller,words_per_review,1001,666,-0.437028
+book=Science Fiction,Philosophy,words_per_review,1001,1,-0.022981
+book=Science Fiction,Science,words_per_review,1001,51,-0.077114
+book=Science Fiction,Fantasy,sentences_per_review,1001,336,0.050441
+book=Science Fiction,Science Fiction,sentences_per_review,1001,1001,0.344183
+book=Science Fiction,Romance,sentences_per_review,1001,171,-0.017832
+book=Science Fiction,Mystery,sentences_per_review,1001,391,-0.250935
+book=Science Fiction,Thriller,sentences_per_review,1001,666,-0.409005
+book=Science Fiction,Philosophy,sentences_per_review,1001,1,0.006679
+book=Science Fiction,Science,sentences_per_review,1001,51,-0.054422
+book=Science Fiction,Fantasy,paragraphs_per_review,1001,336,0.037993
+book=Science Fiction,Science Fiction,paragraphs_per_review,1001,1001,0.25425
+book=Science Fiction,Romance,paragraphs_per_review,1001,171,-0.030689
+book=Science Fiction,Mystery,paragraphs_per_review,1001,391,-0.184069
+book=Science Fiction,Thriller,paragraphs_per_review,1001,666,-0.252632
+book=Science Fiction,Philosophy,paragraphs_per_review,1001,1,-0.002019
+book=Science Fiction,Science,paragraphs_per_review,1001,51,0.001073
+book=Science Fiction,Fantasy,words_per_paragraph,1001,336,0.069628
+book=Science Fiction,Science Fiction,words_per_paragraph,1001,1001,0.282548
+book=Science Fiction,Romance,words_per_paragraph,1001,171,-0.052662
+book=Science Fiction,Mystery,words_per_paragraph,1001,391,-0.213822
+book=Science Fiction,Thriller,words_per_paragraph,1001,666,-0.30944
+book=Science Fiction,Philosophy,words_per_paragraph,1001,1,0.004487
+book=Science Fiction,Science,words_per_paragraph,1001,51,-0.101716
+book=Science Fiction,Fantasy,mean_sentence_words,1001,336,0.040784
+book=Science Fiction,Science Fiction,mean_sentence_words,1001,1001,0.295241
+book=Science Fiction,Romance,mean_sentence_words,1001,171,-0.154224
+book=Science Fiction,Mystery,mean_sentence_words,1001,391,-0.193915
+book=Science Fiction,Thriller,mean_sentence_words,1001,666,-0.222424
+book=Science Fiction,Philosophy,mean_sentence_words,1001,1,-0.048918
+book=Science Fiction,Science,mean_sentence_words,1001,51,-0.093877
+book=Science Fiction,Fantasy,question_ending_pct,1001,336,0.048788
+book=Science Fiction,Science Fiction,question_ending_pct,1001,1001,0.380029
+book=Science Fiction,Romance,question_ending_pct,1001,171,-0.098595
+book=Science Fiction,Mystery,question_ending_pct,1001,391,-0.229538
+book=Science Fiction,Thriller,question_ending_pct,1001,666,-0.321083
+book=Science Fiction,Philosophy,question_ending_pct,1001,1,-0.025308
+book=Science Fiction,Science,question_ending_pct,1001,51,-0.031193
+book=Science Fiction,Fantasy,vocabulary_diversity_20_pct,998,335,-0.005686
+book=Science Fiction,Science Fiction,vocabulary_diversity_20_pct,998,998,0.024745
+book=Science Fiction,Romance,vocabulary_diversity_20_pct,998,169,-0.033713
+book=Science Fiction,Mystery,vocabulary_diversity_20_pct,998,389,-0.013578
+book=Science Fiction,Thriller,vocabulary_diversity_20_pct,998,663,-0.017428
+book=Science Fiction,Philosophy,vocabulary_diversity_20_pct,998,1,-0.019518
+book=Science Fiction,Science,vocabulary_diversity_20_pct,998,51,-0.028586
+book=Science Fiction,Fantasy,first_singular_per_1000_words,1001,336,-0.01456
+book=Science Fiction,Science Fiction,first_singular_per_1000_words,1001,1001,-0.1535
+book=Science Fiction,Romance,first_singular_per_1000_words,1001,171,0.121701
+book=Science Fiction,Mystery,first_singular_per_1000_words,1001,391,0.068555
+book=Science Fiction,Thriller,first_singular_per_1000_words,1001,666,0.100082
+book=Science Fiction,Philosophy,first_singular_per_1000_words,1001,1,0.023916
+book=Science Fiction,Science,first_singular_per_1000_words,1001,51,-0.037488
+book=Science Fiction,Fantasy,first_plural_per_1000_words,1001,336,0.069852
+book=Science Fiction,Science Fiction,first_plural_per_1000_words,1001,1001,0.358334
+book=Science Fiction,Romance,first_plural_per_1000_words,1001,171,-0.082994
+book=Science Fiction,Mystery,first_plural_per_1000_words,1001,391,-0.255158
+book=Science Fiction,Thriller,first_plural_per_1000_words,1001,666,-0.318706
+book=Science Fiction,Philosophy,first_plural_per_1000_words,1001,1,-0.028979
+book=Science Fiction,Science,first_plural_per_1000_words,1001,51,-0.024044
+book=Science Fiction,Fantasy,second_person_per_1000_words,1001,336,-0.000672
+book=Science Fiction,Science Fiction,second_person_per_1000_words,1001,1001,0.17469
+book=Science Fiction,Romance,second_person_per_1000_words,1001,171,-0.053572
+book=Science Fiction,Mystery,second_person_per_1000_words,1001,391,-0.118826
+book=Science Fiction,Thriller,second_person_per_1000_words,1001,666,-0.114911
+book=Science Fiction,Philosophy,second_person_per_1000_words,1001,1,0.009838
+book=Science Fiction,Science,second_person_per_1000_words,1001,51,-0.066168
+book=Science Fiction,Fantasy,contractions_per_1000_words,1001,336,0.080277
+book=Science Fiction,Science Fiction,contractions_per_1000_words,1001,1001,0.092758
+book=Science Fiction,Romance,contractions_per_1000_words,1001,171,-0.02007
+book=Science Fiction,Mystery,contractions_per_1000_words,1001,391,-0.060997
+book=Science Fiction,Thriller,contractions_per_1000_words,1001,666,-0.118336
+book=Science Fiction,Philosophy,contractions_per_1000_words,1001,1,-0.001647
+book=Science Fiction,Science,contractions_per_1000_words,1001,51,-0.061024
+book=Science Fiction,Fantasy,exclamations_per_1000_words,1001,336,0.046952
+book=Science Fiction,Science Fiction,exclamations_per_1000_words,1001,1001,0.067297
+book=Science Fiction,Romance,exclamations_per_1000_words,1001,171,0.093124
+book=Science Fiction,Mystery,exclamations_per_1000_words,1001,391,-0.044671
+book=Science Fiction,Thriller,exclamations_per_1000_words,1001,666,-0.090881
+book=Science Fiction,Philosophy,exclamations_per_1000_words,1001,1,-0.027837
+book=Science Fiction,Science,exclamations_per_1000_words,1001,51,0.000901
+book=Science Fiction,Fantasy,ellipses_per_1000_words,1001,336,0.083413
+book=Science Fiction,Science Fiction,ellipses_per_1000_words,1001,1001,0.362707
+book=Science Fiction,Romance,ellipses_per_1000_words,1001,171,-0.146897
+book=Science Fiction,Mystery,ellipses_per_1000_words,1001,391,-0.202082
+book=Science Fiction,Thriller,ellipses_per_1000_words,1001,666,-0.322707
+book=Science Fiction,Philosophy,ellipses_per_1000_words,1001,1,-0.020438
+book=Science Fiction,Science,ellipses_per_1000_words,1001,51,-0.067424
+book=Science Fiction,Fantasy,colons_per_1000_words,1001,336,0.033333
+book=Science Fiction,Science Fiction,colons_per_1000_words,1001,1001,0.418235
+book=Science Fiction,Romance,colons_per_1000_words,1001,171,-0.168298
+book=Science Fiction,Mystery,colons_per_1000_words,1001,391,-0.228939
+book=Science Fiction,Thriller,colons_per_1000_words,1001,666,-0.356609
+book=Science Fiction,Philosophy,colons_per_1000_words,1001,1,-0.020975
+book=Science Fiction,Science,colons_per_1000_words,1001,51,0.006516
+book=Science Fiction,Fantasy,semicolons_per_1000_words,1001,336,0.028744
+book=Science Fiction,Science Fiction,semicolons_per_1000_words,1001,1001,0.337002
+book=Science Fiction,Romance,semicolons_per_1000_words,1001,171,-0.10443
+book=Science Fiction,Mystery,semicolons_per_1000_words,1001,391,-0.190491
+book=Science Fiction,Thriller,semicolons_per_1000_words,1001,666,-0.271322
+book=Science Fiction,Philosophy,semicolons_per_1000_words,1001,1,-0.015672
+book=Science Fiction,Science,semicolons_per_1000_words,1001,51,-0.02296
+book=Science Fiction,Fantasy,upper_tokens_per_1000_words,1001,336,0.060425
+book=Science Fiction,Science Fiction,upper_tokens_per_1000_words,1001,1001,0.333342
+book=Science Fiction,Romance,upper_tokens_per_1000_words,1001,171,-0.069552
+book=Science Fiction,Mystery,upper_tokens_per_1000_words,1001,391,-0.212862
+book=Science Fiction,Thriller,upper_tokens_per_1000_words,1001,666,-0.275956
+book=Science Fiction,Philosophy,upper_tokens_per_1000_words,1001,1,0.003875
+book=Science Fiction,Science,upper_tokens_per_1000_words,1001,51,-0.039344
+book=Science Fiction,Fantasy,emphatic_runs_per_1000_words,1001,336,0.013756
+book=Science Fiction,Science Fiction,emphatic_runs_per_1000_words,1001,1001,0.092883
+book=Science Fiction,Romance,emphatic_runs_per_1000_words,1001,171,0.020904
+book=Science Fiction,Mystery,emphatic_runs_per_1000_words,1001,391,-0.049263
+book=Science Fiction,Thriller,emphatic_runs_per_1000_words,1001,666,-0.115703
+book=Science Fiction,Philosophy,emphatic_runs_per_1000_words,1001,1,-0.011856
+book=Science Fiction,Science,emphatic_runs_per_1000_words,1001,51,-0.017602
+book=Science Fiction,Fantasy,colloquial_tokens_per_1000_words,1001,336,0.060511
+book=Science Fiction,Science Fiction,colloquial_tokens_per_1000_words,1001,1001,0.236379
+book=Science Fiction,Romance,colloquial_tokens_per_1000_words,1001,171,-0.079966
+book=Science Fiction,Mystery,colloquial_tokens_per_1000_words,1001,391,-0.124447
+book=Science Fiction,Thriller,colloquial_tokens_per_1000_words,1001,666,-0.189658
+book=Science Fiction,Philosophy,colloquial_tokens_per_1000_words,1001,1,-0.010803
+book=Science Fiction,Science,colloquial_tokens_per_1000_words,1001,51,-0.021297
+book=Science Fiction,Fantasy,subordination_sentence_pct,1001,336,0.041368
+book=Science Fiction,Science Fiction,subordination_sentence_pct,1001,1001,0.196955
+book=Science Fiction,Romance,subordination_sentence_pct,1001,171,-0.095391
+book=Science Fiction,Mystery,subordination_sentence_pct,1001,391,-0.132184
+book=Science Fiction,Thriller,subordination_sentence_pct,1001,666,-0.176505
+book=Science Fiction,Philosophy,subordination_sentence_pct,1001,1,-0.013418
+book=Science Fiction,Science,subordination_sentence_pct,1001,51,-0.061975
+book=Science Fiction,Fantasy,hedge_sentence_pct,1001,336,0.075733
+book=Science Fiction,Science Fiction,hedge_sentence_pct,1001,1001,0.407401
+book=Science Fiction,Romance,hedge_sentence_pct,1001,171,-0.174301
+book=Science Fiction,Mystery,hedge_sentence_pct,1001,391,-0.270816
+book=Science Fiction,Thriller,hedge_sentence_pct,1001,666,-0.361257
+book=Science Fiction,Philosophy,hedge_sentence_pct,1001,1,0.042821
+book=Science Fiction,Science,hedge_sentence_pct,1001,51,0.006993
+book=Science Fiction,Fantasy,certainty_sentence_pct,1001,336,0.052432
+book=Science Fiction,Science Fiction,certainty_sentence_pct,1001,1001,0.282092
+book=Science Fiction,Romance,certainty_sentence_pct,1001,171,-0.037733
+book=Science Fiction,Mystery,certainty_sentence_pct,1001,391,-0.119353
+book=Science Fiction,Thriller,certainty_sentence_pct,1001,666,-0.216428
+book=Science Fiction,Philosophy,certainty_sentence_pct,1001,1,-0.018953
+book=Science Fiction,Science,certainty_sentence_pct,1001,51,-0.001541
+book=Science Fiction,Fantasy,causal_sentence_pct,1001,336,0.064307
+book=Science Fiction,Science Fiction,causal_sentence_pct,1001,1001,0.346457
+book=Science Fiction,Romance,causal_sentence_pct,1001,171,-0.086919
+book=Science Fiction,Mystery,causal_sentence_pct,1001,391,-0.177642
+book=Science Fiction,Thriller,causal_sentence_pct,1001,666,-0.304868
+book=Science Fiction,Philosophy,causal_sentence_pct,1001,1,0.049644
+book=Science Fiction,Science,causal_sentence_pct,1001,51,-0.043371
+book=Science Fiction,Fantasy,contrast_sentence_pct,1001,336,0.103747
+book=Science Fiction,Science Fiction,contrast_sentence_pct,1001,1001,0.188653
+book=Science Fiction,Romance,contrast_sentence_pct,1001,171,-0.075504
+book=Science Fiction,Mystery,contrast_sentence_pct,1001,391,-0.119779
+book=Science Fiction,Thriller,contrast_sentence_pct,1001,666,-0.218809
+book=Science Fiction,Philosophy,contrast_sentence_pct,1001,1,-0.011767
+book=Science Fiction,Science,contrast_sentence_pct,1001,51,-0.053828
+book=Science Fiction,Fantasy,example_sentence_pct,1001,336,0.049749
+book=Science Fiction,Science Fiction,example_sentence_pct,1001,1001,0.367518
+book=Science Fiction,Romance,example_sentence_pct,1001,171,-0.133746
+book=Science Fiction,Mystery,example_sentence_pct,1001,391,-0.192888
+book=Science Fiction,Thriller,example_sentence_pct,1001,666,-0.317244
+book=Science Fiction,Philosophy,example_sentence_pct,1001,1,-0.012703
+book=Science Fiction,Science,example_sentence_pct,1001,51,-0.038912
+book=Science Fiction,Fantasy,reading_experience_sentence_pct,1001,336,-0.002489
+book=Science Fiction,Science Fiction,reading_experience_sentence_pct,1001,1001,0.285561
+book=Science Fiction,Romance,reading_experience_sentence_pct,1001,171,-0.116705
+book=Science Fiction,Mystery,reading_experience_sentence_pct,1001,391,-0.164586
+book=Science Fiction,Thriller,reading_experience_sentence_pct,1001,666,-0.212424
+book=Science Fiction,Philosophy,reading_experience_sentence_pct,1001,1,0.033963
+book=Science Fiction,Science,reading_experience_sentence_pct,1001,51,-0.034641
+book=Science Fiction,Fantasy,recommendation_sentence_pct,1001,336,0.025534
+book=Science Fiction,Science Fiction,recommendation_sentence_pct,1001,1001,0.254372
+book=Science Fiction,Romance,recommendation_sentence_pct,1001,171,-0.045349
+book=Science Fiction,Mystery,recommendation_sentence_pct,1001,391,-0.097261
+book=Science Fiction,Thriller,recommendation_sentence_pct,1001,666,-0.169896
+book=Science Fiction,Philosophy,recommendation_sentence_pct,1001,1,-0.01666
+book=Science Fiction,Science,recommendation_sentence_pct,1001,51,-0.013813
+book=Science Fiction,Fantasy,plot_description_sentence_pct,1001,336,0.063424
+book=Science Fiction,Science Fiction,plot_description_sentence_pct,1001,1001,0.268131
+book=Science Fiction,Romance,plot_description_sentence_pct,1001,171,-0.044897
+book=Science Fiction,Mystery,plot_description_sentence_pct,1001,391,-0.123533
+book=Science Fiction,Thriller,plot_description_sentence_pct,1001,666,-0.230284
+book=Science Fiction,Philosophy,plot_description_sentence_pct,1001,1,-0.011964
+book=Science Fiction,Science,plot_description_sentence_pct,1001,51,0.050458
+book=Science Fiction,Fantasy,evaluation_sentence_pct,1001,336,0.068629
+book=Science Fiction,Science Fiction,evaluation_sentence_pct,1001,1001,0.134531
+book=Science Fiction,Romance,evaluation_sentence_pct,1001,171,0.093752
+book=Science Fiction,Mystery,evaluation_sentence_pct,1001,391,-0.102178
+book=Science Fiction,Thriller,evaluation_sentence_pct,1001,666,-0.15471
+book=Science Fiction,Philosophy,evaluation_sentence_pct,1001,1,-0.02684
+book=Science Fiction,Science,evaluation_sentence_pct,1001,51,-0.003555
+book=Science Fiction,Fantasy,sd_sentence_words,996,336,0.092427
+book=Science Fiction,Science Fiction,sd_sentence_words,996,996,0.414602
+book=Science Fiction,Romance,sd_sentence_words,996,170,-0.160806
+book=Science Fiction,Mystery,sd_sentence_words,996,387,-0.248204
+book=Science Fiction,Thriller,sd_sentence_words,996,661,-0.348257
+book=Science Fiction,Philosophy,sd_sentence_words,996,1,-0.046144
+book=Science Fiction,Science,sd_sentence_words,996,51,-0.059587
+book=Thriller,Fantasy,words_per_review,10238,922,0.078324
+book=Thriller,Science Fiction,words_per_review,10238,678,0.065294
+book=Thriller,Romance,words_per_review,10238,1793,0.180369
+book=Thriller,Mystery,words_per_review,10238,6081,-0.128978
+book=Thriller,Thriller,words_per_review,10238,10238,-0.268011
+book=Thriller,Philosophy,words_per_review,10238,22,-0.009116
+book=Thriller,Science,words_per_review,10238,270,-0.036725
+book=Thriller,Fantasy,sentences_per_review,10238,922,0.083639
+book=Thriller,Science Fiction,sentences_per_review,10238,678,0.058367
+book=Thriller,Romance,sentences_per_review,10238,1793,0.211657
+book=Thriller,Mystery,sentences_per_review,10238,6081,-0.138793
+book=Thriller,Thriller,sentences_per_review,10238,10238,-0.244014
+book=Thriller,Philosophy,sentences_per_review,10238,22,-0.007374
+book=Thriller,Science,sentences_per_review,10238,270,-0.04014
+book=Thriller,Fantasy,paragraphs_per_review,10238,922,0.067667
+book=Thriller,Science Fiction,paragraphs_per_review,10238,678,0.066069
+book=Thriller,Romance,paragraphs_per_review,10238,1793,0.143999
+book=Thriller,Mystery,paragraphs_per_review,10238,6081,-0.12679
+book=Thriller,Thriller,paragraphs_per_review,10238,10238,-0.126583
+book=Thriller,Philosophy,paragraphs_per_review,10238,22,0.002119
+book=Thriller,Science,paragraphs_per_review,10238,270,-0.018999
+book=Thriller,Fantasy,words_per_paragraph,10238,922,0.017978
+book=Thriller,Science Fiction,words_per_paragraph,10238,678,0.017979
+book=Thriller,Romance,words_per_paragraph,10238,1793,0.060002
+book=Thriller,Mystery,words_per_paragraph,10238,6081,-0.042215
+book=Thriller,Thriller,words_per_paragraph,10238,10238,-0.165181
+book=Thriller,Philosophy,words_per_paragraph,10238,22,-0.005607
+book=Thriller,Science,words_per_paragraph,10238,270,-0.023534
+book=Thriller,Fantasy,mean_sentence_words,10238,922,0.027297
+book=Thriller,Science Fiction,mean_sentence_words,10238,678,0.048776
+book=Thriller,Romance,mean_sentence_words,10238,1793,-0.0002
+book=Thriller,Mystery,mean_sentence_words,10238,6081,-0.026874
+book=Thriller,Thriller,mean_sentence_words,10238,10238,-0.171803
+book=Thriller,Philosophy,mean_sentence_words,10238,22,-0.004256
+book=Thriller,Science,mean_sentence_words,10238,270,-0.010564
+book=Thriller,Fantasy,question_ending_pct,10238,922,-0.03092
+book=Thriller,Science Fiction,question_ending_pct,10238,678,-0.005512
+book=Thriller,Romance,question_ending_pct,10238,1793,-0.030363
+book=Thriller,Mystery,question_ending_pct,10238,6081,-0.038073
+book=Thriller,Thriller,question_ending_pct,10238,10238,0.073506
+book=Thriller,Philosophy,question_ending_pct,10238,22,0.003744
+book=Thriller,Science,question_ending_pct,10238,270,0.012496
+book=Thriller,Fantasy,vocabulary_diversity_20_pct,10238,922,-0.005363
+book=Thriller,Science Fiction,vocabulary_diversity_20_pct,10238,678,0.010764
+book=Thriller,Romance,vocabulary_diversity_20_pct,10238,1793,-0.012462
+book=Thriller,Mystery,vocabulary_diversity_20_pct,10238,6081,-0.003744
+book=Thriller,Thriller,vocabulary_diversity_20_pct,10238,10238,-0.032552
+book=Thriller,Philosophy,vocabulary_diversity_20_pct,10238,22,0.007207
+book=Thriller,Science,vocabulary_diversity_20_pct,10238,270,0.006682
+book=Thriller,Fantasy,first_singular_per_1000_words,10238,922,-0.010386
+book=Thriller,Science Fiction,first_singular_per_1000_words,10238,678,-0.07107
+book=Thriller,Romance,first_singular_per_1000_words,10238,1793,0.047501
+book=Thriller,Mystery,first_singular_per_1000_words,10238,6081,-0.013945
+book=Thriller,Thriller,first_singular_per_1000_words,10238,10238,0.013425
+book=Thriller,Philosophy,first_singular_per_1000_words,10238,22,-0.008504
+book=Thriller,Science,first_singular_per_1000_words,10238,270,-0.013874
+book=Thriller,Fantasy,first_plural_per_1000_words,10238,922,-0.022546
+book=Thriller,Science Fiction,first_plural_per_1000_words,10238,678,0.019793
+book=Thriller,Romance,first_plural_per_1000_words,10238,1793,-0.058999
+book=Thriller,Mystery,first_plural_per_1000_words,10238,6081,-0.073479
+book=Thriller,Thriller,first_plural_per_1000_words,10238,10238,0.109989
+book=Thriller,Philosophy,first_plural_per_1000_words,10238,22,-0.00029
+book=Thriller,Science,first_plural_per_1000_words,10238,270,0.00567
+book=Thriller,Fantasy,second_person_per_1000_words,10238,922,-0.03908
+book=Thriller,Science Fiction,second_person_per_1000_words,10238,678,-0.012252
+book=Thriller,Romance,second_person_per_1000_words,10238,1793,0.014758
+book=Thriller,Mystery,second_person_per_1000_words,10238,6081,-0.050938
+book=Thriller,Thriller,second_person_per_1000_words,10238,10238,0.119673
+book=Thriller,Philosophy,second_person_per_1000_words,10238,22,-0.002581
+book=Thriller,Science,second_person_per_1000_words,10238,270,-0.007485
+book=Thriller,Fantasy,contractions_per_1000_words,10238,922,0.002023
+book=Thriller,Science Fiction,contractions_per_1000_words,10238,678,-0.012231
+book=Thriller,Romance,contractions_per_1000_words,10238,1793,0.044429
+book=Thriller,Mystery,contractions_per_1000_words,10238,6081,-0.047547
+book=Thriller,Thriller,contractions_per_1000_words,10238,10238,0.000606
+book=Thriller,Philosophy,contractions_per_1000_words,10238,22,0.009187
+book=Thriller,Science,contractions_per_1000_words,10238,270,-0.000219
+book=Thriller,Fantasy,exclamations_per_1000_words,10238,922,-0.004713
+book=Thriller,Science Fiction,exclamations_per_1000_words,10238,678,-0.055432
+book=Thriller,Romance,exclamations_per_1000_words,10238,1793,0.117826
+book=Thriller,Mystery,exclamations_per_1000_words,10238,6081,-0.06772
+book=Thriller,Thriller,exclamations_per_1000_words,10238,10238,0.087167
+book=Thriller,Philosophy,exclamations_per_1000_words,10238,22,-0.011487
+book=Thriller,Science,exclamations_per_1000_words,10238,270,-0.026216
+book=Thriller,Fantasy,ellipses_per_1000_words,10238,922,-0.022043
+book=Thriller,Science Fiction,ellipses_per_1000_words,10238,678,-0.025711
+book=Thriller,Romance,ellipses_per_1000_words,10238,1793,-0.004309
+book=Thriller,Mystery,ellipses_per_1000_words,10238,6081,-0.056537
+book=Thriller,Thriller,ellipses_per_1000_words,10238,10238,0.096877
+book=Thriller,Philosophy,ellipses_per_1000_words,10238,22,-0.008192
+book=Thriller,Science,ellipses_per_1000_words,10238,270,0.007351
+book=Thriller,Fantasy,colons_per_1000_words,10238,922,-0.015672
+book=Thriller,Science Fiction,colons_per_1000_words,10238,678,0.035079
+book=Thriller,Romance,colons_per_1000_words,10238,1793,-0.06683
+book=Thriller,Mystery,colons_per_1000_words,10238,6081,-0.007853
+book=Thriller,Thriller,colons_per_1000_words,10238,10238,0.022893
+book=Thriller,Philosophy,colons_per_1000_words,10238,22,0.007023
+book=Thriller,Science,colons_per_1000_words,10238,270,0.010618
+book=Thriller,Fantasy,semicolons_per_1000_words,10238,922,-0.023108
+book=Thriller,Science Fiction,semicolons_per_1000_words,10238,678,0.004917
+book=Thriller,Romance,semicolons_per_1000_words,10238,1793,-0.091731
+book=Thriller,Mystery,semicolons_per_1000_words,10238,6081,-0.003957
+book=Thriller,Thriller,semicolons_per_1000_words,10238,10238,0.074193
+book=Thriller,Philosophy,semicolons_per_1000_words,10238,22,0.01511
+book=Thriller,Science,semicolons_per_1000_words,10238,270,0.034141
+book=Thriller,Fantasy,upper_tokens_per_1000_words,10238,922,0.003664
+book=Thriller,Science Fiction,upper_tokens_per_1000_words,10238,678,-0.004692
+book=Thriller,Romance,upper_tokens_per_1000_words,10238,1793,0.082762
+book=Thriller,Mystery,upper_tokens_per_1000_words,10238,6081,-0.080203
+book=Thriller,Thriller,upper_tokens_per_1000_words,10238,10238,0.06667
+book=Thriller,Philosophy,upper_tokens_per_1000_words,10238,22,-0.011806
+book=Thriller,Science,upper_tokens_per_1000_words,10238,270,-0.013311
+book=Thriller,Fantasy,emphatic_runs_per_1000_words,10238,922,0.006361
+book=Thriller,Science Fiction,emphatic_runs_per_1000_words,10238,678,-0.054205
+book=Thriller,Romance,emphatic_runs_per_1000_words,10238,1793,0.112349
+book=Thriller,Mystery,emphatic_runs_per_1000_words,10238,6081,-0.072665
+book=Thriller,Thriller,emphatic_runs_per_1000_words,10238,10238,0.12993
+book=Thriller,Philosophy,emphatic_runs_per_1000_words,10238,22,-0.016903
+book=Thriller,Science,emphatic_runs_per_1000_words,10238,270,-0.01534
+book=Thriller,Fantasy,colloquial_tokens_per_1000_words,10238,922,0.032911
+book=Thriller,Science Fiction,colloquial_tokens_per_1000_words,10238,678,0.008333
+book=Thriller,Romance,colloquial_tokens_per_1000_words,10238,1793,0.084627
+book=Thriller,Mystery,colloquial_tokens_per_1000_words,10238,6081,-0.054534
+book=Thriller,Thriller,colloquial_tokens_per_1000_words,10238,10238,0.084869
+book=Thriller,Philosophy,colloquial_tokens_per_1000_words,10238,22,-0.003106
+book=Thriller,Science,colloquial_tokens_per_1000_words,10238,270,-0.016108
+book=Thriller,Fantasy,subordination_sentence_pct,10238,922,0.014064
+book=Thriller,Science Fiction,subordination_sentence_pct,10238,678,0.018568
+book=Thriller,Romance,subordination_sentence_pct,10238,1793,0.02286
+book=Thriller,Mystery,subordination_sentence_pct,10238,6081,-0.046303
+book=Thriller,Thriller,subordination_sentence_pct,10238,10238,-0.106643
+book=Thriller,Philosophy,subordination_sentence_pct,10238,22,0.000382
+book=Thriller,Science,subordination_sentence_pct,10238,270,-0.006151
+book=Thriller,Fantasy,hedge_sentence_pct,10238,922,-0.060495
+book=Thriller,Science Fiction,hedge_sentence_pct,10238,678,-0.008778
+book=Thriller,Romance,hedge_sentence_pct,10238,1793,-0.161629
+book=Thriller,Mystery,hedge_sentence_pct,10238,6081,-0.018416
+book=Thriller,Thriller,hedge_sentence_pct,10238,10238,0.091317
+book=Thriller,Philosophy,hedge_sentence_pct,10238,22,0.010536
+book=Thriller,Science,hedge_sentence_pct,10238,270,0.036588
+book=Thriller,Fantasy,certainty_sentence_pct,10238,922,-0.007576
+book=Thriller,Science Fiction,certainty_sentence_pct,10238,678,-0.023581
+book=Thriller,Romance,certainty_sentence_pct,10238,1793,-0.00345
+book=Thriller,Mystery,certainty_sentence_pct,10238,6081,-0.052676
+book=Thriller,Thriller,certainty_sentence_pct,10238,10238,0.133074
+book=Thriller,Philosophy,certainty_sentence_pct,10238,22,-0.001681
+book=Thriller,Science,certainty_sentence_pct,10238,270,-0.002437
+book=Thriller,Fantasy,causal_sentence_pct,10238,922,-0.033416
+book=Thriller,Science Fiction,causal_sentence_pct,10238,678,-0.026071
+book=Thriller,Romance,causal_sentence_pct,10238,1793,-0.046818
+book=Thriller,Mystery,causal_sentence_pct,10238,6081,-0.060523
+book=Thriller,Thriller,causal_sentence_pct,10238,10238,0.075959
+book=Thriller,Philosophy,causal_sentence_pct,10238,22,-0.016623
+book=Thriller,Science,causal_sentence_pct,10238,270,0.01223
+book=Thriller,Fantasy,contrast_sentence_pct,10238,922,-0.021345
+book=Thriller,Science Fiction,contrast_sentence_pct,10238,678,-0.004536
+book=Thriller,Romance,contrast_sentence_pct,10238,1793,-0.043356
+book=Thriller,Mystery,contrast_sentence_pct,10238,6081,-0.02453
+book=Thriller,Thriller,contrast_sentence_pct,10238,10238,-0.04301
+book=Thriller,Philosophy,contrast_sentence_pct,10238,22,0.005378
+book=Thriller,Science,contrast_sentence_pct,10238,270,0.012247
+book=Thriller,Fantasy,example_sentence_pct,10238,922,-0.009665
+book=Thriller,Science Fiction,example_sentence_pct,10238,678,0.039327
+book=Thriller,Romance,example_sentence_pct,10238,1793,-0.077605
+book=Thriller,Mystery,example_sentence_pct,10238,6081,0.003836
+book=Thriller,Thriller,example_sentence_pct,10238,10238,0.060206
+book=Thriller,Philosophy,example_sentence_pct,10238,22,0.002539
+book=Thriller,Science,example_sentence_pct,10238,270,0.033643
+book=Thriller,Fantasy,reading_experience_sentence_pct,10238,922,-0.073146
+book=Thriller,Science Fiction,reading_experience_sentence_pct,10238,678,-0.052521
+book=Thriller,Romance,reading_experience_sentence_pct,10238,1793,-0.1305
+book=Thriller,Mystery,reading_experience_sentence_pct,10238,6081,-0.006095
+book=Thriller,Thriller,reading_experience_sentence_pct,10238,10238,0.18605
+book=Thriller,Philosophy,reading_experience_sentence_pct,10238,22,0.007235
+book=Thriller,Science,reading_experience_sentence_pct,10238,270,0.013088
+book=Thriller,Fantasy,recommendation_sentence_pct,10238,922,-0.036566
+book=Thriller,Science Fiction,recommendation_sentence_pct,10238,678,-0.015443
+book=Thriller,Romance,recommendation_sentence_pct,10238,1793,-0.055313
+book=Thriller,Mystery,recommendation_sentence_pct,10238,6081,0.002842
+book=Thriller,Thriller,recommendation_sentence_pct,10238,10238,0.176415
+book=Thriller,Philosophy,recommendation_sentence_pct,10238,22,-0.016476
+book=Thriller,Science,recommendation_sentence_pct,10238,270,0.000362
+book=Thriller,Fantasy,plot_description_sentence_pct,10238,922,0.023345
+book=Thriller,Science Fiction,plot_description_sentence_pct,10238,678,0.033536
+book=Thriller,Romance,plot_description_sentence_pct,10238,1793,-0.008734
+book=Thriller,Mystery,plot_description_sentence_pct,10238,6081,0.011978
+book=Thriller,Thriller,plot_description_sentence_pct,10238,10238,0.063572
+book=Thriller,Philosophy,plot_description_sentence_pct,10238,22,-0.01209
+book=Thriller,Science,plot_description_sentence_pct,10238,270,0.000891
+book=Thriller,Fantasy,evaluation_sentence_pct,10238,922,-0.004764
+book=Thriller,Science Fiction,evaluation_sentence_pct,10238,678,-0.042983
+book=Thriller,Romance,evaluation_sentence_pct,10238,1793,-0.022309
+book=Thriller,Mystery,evaluation_sentence_pct,10238,6081,0.003041
+book=Thriller,Thriller,evaluation_sentence_pct,10238,10238,0.130465
+book=Thriller,Philosophy,evaluation_sentence_pct,10238,22,-0.007744
+book=Thriller,Science,evaluation_sentence_pct,10238,270,0.004088
+book=Thriller,Fantasy,sd_sentence_words,10230,919,-0.012156
+book=Thriller,Science Fiction,sd_sentence_words,10230,675,0.017631
+book=Thriller,Romance,sd_sentence_words,10230,1792,-0.064033
+book=Thriller,Mystery,sd_sentence_words,10230,6077,-0.053945
+book=Thriller,Thriller,sd_sentence_words,10230,10230,-0.059573
+book=Thriller,Philosophy,sd_sentence_words,10230,22,0.004845
+book=Thriller,Science,sd_sentence_words,10230,270,-0.002536

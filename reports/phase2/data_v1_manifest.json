@@ -1,0 +1,177 @@
+{
+  "version": "eda-v1",
+  "rules": {
+    "version": "eda-v1",
+    "purpose": "Exploratory linguistic profiles of reviewers grouped by observed genre engagement",
+    "minimum_genre_books": 3,
+    "minimum_share_all_books": 0.5,
+    "minimum_mapping_coverage": 0.5,
+    "minimum_dated_genre_books": 3,
+    "minimum_active_quarters": 2,
+    "minimum_span_days": 180,
+    "minimum_review_tokens": 20,
+    "minimum_user_tokens": 1000,
+    "minimum_user_reviews": 3,
+    "review_selection": "longest_body_per_user_parent_asin_then_sha256",
+    "text_scope": "all_observed_books",
+    "membership_evidence_scope": "whole_history",
+    "split_seed": "DA-eda-v1-user-split-2026-11-19",
+    "train_fraction": 0.7,
+    "validation_fraction": 0.15,
+    "weighting": "none",
+    "genre_exclusions": [],
+    "expected_source_rows": 29475453
+  },
+  "inputs": {
+    "data\\raw\\Books.jsonl.gz": {
+      "bytes": 6216820644,
+      "sha256": "4de7e24e360344719136c9a5728a18b16548bb0d79aa2ccae62c7e3ef5df0482"
+    },
+    "data\\user_genre_profiles\\user_genre_profiles.csv": {
+      "bytes": 394470457,
+      "sha256": "cf812095a25662368bc0707426b0188ee714a3137ade76d3a7913aef90132a14"
+    },
+    "data\\cohort_feasibility\\user_text.csv": {
+      "bytes": 93226171,
+      "sha256": "8483ac7348ff78786c32a1685edd3f6f4e8676494defb2629ca3b0834dd99efb"
+    },
+    "data\\genre_coverage\\book_genres.csv": {
+      "bytes": 10422983,
+      "sha256": "d88727fe3de28993ea11e32cc772087b2459a81bad69140d9630a728b1dcd30b"
+    },
+    "reports\\phase2\\data_v1_rules.json": {
+      "bytes": 755,
+      "sha256": "265c1d306216354f05e7482d5025d8d4e9ff490f28db4b162ff12dcca2c8b60e"
+    },
+    "src\\freeze_analysis_data.py": {
+      "bytes": 22075,
+      "sha256": "0dc5223d661730f0c8e152d94264ad1aa17c0a1fc51d57b9f716731ca7ae76d2"
+    },
+    "src\\audit.py": {
+      "bytes": 12221,
+      "sha256": "08a6ebcf581866863b5bfe3bd53ca7cc369b9fbbf3300ef2af01f3d64723d16b"
+    },
+    "src\\user_genre_profiles.py": {
+      "bytes": 22181,
+      "sha256": "4cbf6f14e0fee7bc2b8f418a7a10927741613a459a802630cca0ddb6723b59ed"
+    }
+  },
+  "runtime": {
+    "python": "3.14.3",
+    "zlib": "1.3.1.zlib-ng"
+  },
+  "source_scan": {
+    "source_rows": 29475453,
+    "candidate_source_rows": 626113,
+    "eligible_source_rows": 596125
+  },
+  "summary": {
+    "candidate_users": 17351,
+    "retained_users": 17022,
+    "removed_after_short_text_filter": 329,
+    "overlapping_memberships": 6,
+    "splits": {
+      "train": {
+        "reviews": 405815,
+        "tokens": 45914308,
+        "users": 11912
+      },
+      "validation": {
+        "reviews": 89250,
+        "tokens": 10433112,
+        "users": 2570
+      },
+      "test": {
+        "reviews": 89291,
+        "tokens": 10742038,
+        "users": 2540
+      }
+    },
+    "genres": {
+      "Fantasy": {
+        "users": 374,
+        "train_users": 258,
+        "test_users": 58,
+        "validation_users": 58,
+        "all_genre_reviews": 4594,
+        "all_genre_tokens": 1200859,
+        "target_genre_reviews": 2701,
+        "target_genre_tokens": 715104
+      },
+      "Science Fiction": {
+        "users": 524,
+        "train_users": 377,
+        "test_users": 74,
+        "validation_users": 73,
+        "all_genre_reviews": 8218,
+        "all_genre_tokens": 1825316,
+        "target_genre_reviews": 4998,
+        "target_genre_tokens": 1120675
+      },
+      "Romance": {
+        "users": 1766,
+        "train_users": 1252,
+        "test_users": 257,
+        "validation_users": 257,
+        "all_genre_reviews": 49785,
+        "all_genre_tokens": 9493988,
+        "target_genre_reviews": 30466,
+        "target_genre_tokens": 5883064
+      },
+      "Mystery": {
+        "users": 1544,
+        "train_users": 1040,
+        "test_users": 241,
+        "validation_users": 263,
+        "all_genre_reviews": 58530,
+        "all_genre_tokens": 7333936,
+        "target_genre_reviews": 40184,
+        "target_genre_tokens": 5062232
+      },
+      "Thriller": {
+        "users": 12446,
+        "train_users": 8737,
+        "test_users": 1852,
+        "validation_users": 1857,
+        "all_genre_reviews": 458049,
+        "all_genre_tokens": 45858598,
+        "target_genre_reviews": 329110,
+        "target_genre_tokens": 30660383
+      },
+      "Philosophy": {
+        "users": 19,
+        "train_users": 15,
+        "validation_users": 3,
+        "test_users": 1,
+        "all_genre_reviews": 165,
+        "all_genre_tokens": 56164,
+        "target_genre_reviews": 100,
+        "target_genre_tokens": 37893
+      },
+      "Science": {
+        "users": 355,
+        "train_users": 239,
+        "validation_users": 59,
+        "test_users": 57,
+        "all_genre_reviews": 5061,
+        "all_genre_tokens": 1330939,
+        "target_genre_reviews": 3115,
+        "target_genre_tokens": 843721
+      }
+    }
+  },
+  "outputs": {
+    "data\\analysis\\eda-v1\\users.csv": {
+      "bytes": 979481,
+      "sha256": "43dfe1b7813d31d8a676e2aa538b1bbe0d9591fa42aa9b7e100a9efb00a469b1"
+    },
+    "data\\analysis\\eda-v1\\memberships.csv": {
+      "bytes": 1987400,
+      "sha256": "d2b8b3d9915cbf8914ebac83673764c7ef5a59f6b15e55a536177be5bf3198cd"
+    },
+    "data\\analysis\\eda-v1\\reviews.jsonl.gz": {
+      "bytes": 157219271,
+      "sha256": "88343d0f42f80165ce80b7677a6a7a865ad55289c24a24e77135784095be7622"
+    }
+  }
+}

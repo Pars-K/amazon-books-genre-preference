@@ -1,0 +1,19 @@
+{
+  "original_train": 768,
+  "retained_train": 674,
+  "removed_train": 94,
+  "evaluation": 157,
+  "train_books": 560,
+  "evaluation_books": 147,
+  "train_by_genre": {
+    "Romance": 565,
+    "Science Fiction": 109
+  },
+  "evaluation_by_genre": {
+    "Romance": 135,
+    "Science Fiction": 22
+  },
+  "book_overlap": 0,
+  "author_overlap": 0,
+  "exact_body_overlap": 0
+}

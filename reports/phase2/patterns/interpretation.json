@@ -1,0 +1,14 @@
+{
+  "users": 11912,
+  "independent_single": 10968,
+  "independent_none": 939,
+  "independent_multi": 5,
+  "style_k": 2,
+  "style_qualified": true,
+  "style_text_ari": 0.3103627402955341,
+  "distinct_books": 9620,
+  "rating_missing": 0,
+  "unmapped": 2877,
+  "no_english_anchors": 7,
+  "price_conflicts": 0
+}

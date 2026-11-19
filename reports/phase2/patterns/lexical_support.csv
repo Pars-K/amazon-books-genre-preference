@@ -1,0 +1,15 @@
+scope,genre,users,other_users,terms_eligible
+all,Fantasy,189,10779,883
+all,Science Fiction,295,10673,1239
+all,Romance,1104,9864,2736
+all,Mystery,948,10020,2081
+all,Thriller,8229,2739,3874
+all,Philosophy,10,10958,10
+all,Science,193,10775,842
+book=Thriller,Fantasy,3,5740,0
+book=Thriller,Science Fiction,12,5731,11
+book=Thriller,Romance,68,5675,232
+book=Thriller,Mystery,80,5663,199
+book=Thriller,Thriller,5579,164,483
+book=Thriller,Philosophy,0,5743,0
+book=Thriller,Science,1,5742,0

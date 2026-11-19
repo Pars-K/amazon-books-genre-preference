@@ -1,0 +1,22 @@
+{
+  "version": "eda-v1",
+  "purpose": "Exploratory linguistic profiles of reviewers grouped by observed genre engagement",
+  "minimum_genre_books": 3,
+  "minimum_share_all_books": 0.5,
+  "minimum_mapping_coverage": 0.5,
+  "minimum_dated_genre_books": 3,
+  "minimum_active_quarters": 2,
+  "minimum_span_days": 180,
+  "minimum_review_tokens": 20,
+  "minimum_user_tokens": 1000,
+  "minimum_user_reviews": 3,
+  "review_selection": "longest_body_per_user_parent_asin_then_sha256",
+  "text_scope": "all_observed_books",
+  "membership_evidence_scope": "whole_history",
+  "split_seed": "DA-eda-v1-user-split-2026-11-19",
+  "train_fraction": 0.7,
+  "validation_fraction": 0.15,
+  "weighting": "none",
+  "genre_exclusions": [],
+  "expected_source_rows": 29475453
+}

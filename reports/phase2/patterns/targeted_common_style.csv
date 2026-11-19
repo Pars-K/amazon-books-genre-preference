@@ -1,0 +1,59 @@
+genre,metric,users,valid_users,p25,median,p75
+Romance,words_per_review,657,657,70.0,122.0,212.0
+Romance,sentences_per_review,657,657,5.0,8.0,13.0
+Romance,paragraphs_per_review,657,657,1.0,1.0,3.0
+Romance,words_per_paragraph,657,657,41.5,62.0,102.0
+Romance,mean_sentence_words,657,657,11.5,14.148148148148149,18.23076923076923
+Romance,question_ending_pct,657,657,0.0,0.0,0.0
+Romance,vocabulary_diversity_20_pct,657,657,90.0,92.0,93.75
+Romance,first_singular_per_1000_words,657,657,20.0,36.144578313253014,57.971014492753625
+Romance,first_plural_per_1000_words,657,657,0.0,0.0,0.0
+Romance,second_person_per_1000_words,657,657,0.0,4.3478260869565215,16.666666666666668
+Romance,contractions_per_1000_words,657,657,0.0,12.345679012345679,24.0
+Romance,exclamations_per_1000_words,657,657,0.0,2.7027027027027026,20.408163265306122
+Romance,ellipses_per_1000_words,657,657,0.0,0.0,0.0
+Romance,colons_per_1000_words,657,657,0.0,0.0,0.0
+Romance,semicolons_per_1000_words,657,657,0.0,0.0,0.0
+Romance,upper_tokens_per_1000_words,657,657,0.0,0.0,9.615384615384615
+Romance,emphatic_runs_per_1000_words,657,657,0.0,0.0,0.0
+Romance,colloquial_tokens_per_1000_words,657,657,0.0,0.0,0.0
+Romance,subordination_sentence_pct,657,657,0.0,11.11111111111111,21.428571428571427
+Romance,hedge_sentence_pct,657,657,0.0,0.0,0.0
+Romance,certainty_sentence_pct,657,657,0.0,0.0,0.0
+Romance,causal_sentence_pct,657,657,0.0,0.0,0.0
+Romance,contrast_sentence_pct,657,657,0.0,11.11111111111111,20.0
+Romance,example_sentence_pct,657,657,0.0,0.0,0.0
+Romance,reading_experience_sentence_pct,657,657,0.0,0.0,0.0
+Romance,recommendation_sentence_pct,657,657,0.0,0.0,0.0
+Romance,plot_description_sentence_pct,657,657,0.0,0.0,0.0
+Romance,evaluation_sentence_pct,657,657,0.0,0.0,8.333333333333334
+Romance,sd_sentence_words,657,652,4.874017475393773,6.698580536288946,8.848550028797924
+Science Fiction,words_per_review,111,111,57.0,125.0,206.0
+Science Fiction,sentences_per_review,111,111,4.0,7.0,12.5
+Science Fiction,paragraphs_per_review,111,111,1.0,1.0,3.0
+Science Fiction,words_per_paragraph,111,111,43.0,62.75,103.9
+Science Fiction,mean_sentence_words,111,111,12.857142857142858,15.875,20.320512820512818
+Science Fiction,question_ending_pct,111,111,0.0,0.0,0.0
+Science Fiction,vocabulary_diversity_20_pct,111,111,90.0,92.14285714285714,94.22619047619048
+Science Fiction,first_singular_per_1000_words,111,111,7.908227056764191,23.529411764705884,38.46786125267138
+Science Fiction,first_plural_per_1000_words,111,111,0.0,0.0,2.9762959288523545
+Science Fiction,second_person_per_1000_words,111,111,0.0,2.9585798816568047,12.344268538164409
+Science Fiction,contractions_per_1000_words,111,111,0.0,9.523809523809524,21.980676328502415
+Science Fiction,exclamations_per_1000_words,111,111,0.0,0.0,0.0
+Science Fiction,ellipses_per_1000_words,111,111,0.0,0.0,0.0
+Science Fiction,colons_per_1000_words,111,111,0.0,0.0,0.0
+Science Fiction,semicolons_per_1000_words,111,111,0.0,0.0,0.0
+Science Fiction,upper_tokens_per_1000_words,111,111,0.0,0.0,3.254475232312177
+Science Fiction,emphatic_runs_per_1000_words,111,111,0.0,0.0,0.0
+Science Fiction,colloquial_tokens_per_1000_words,111,111,0.0,0.0,0.0
+Science Fiction,subordination_sentence_pct,111,111,0.0,11.11111111111111,25.0
+Science Fiction,hedge_sentence_pct,111,111,0.0,0.0,0.0
+Science Fiction,certainty_sentence_pct,111,111,0.0,0.0,0.0
+Science Fiction,causal_sentence_pct,111,111,0.0,0.0,0.0
+Science Fiction,contrast_sentence_pct,111,111,0.0,11.11111111111111,24.03846153846154
+Science Fiction,example_sentence_pct,111,111,0.0,0.0,0.0
+Science Fiction,reading_experience_sentence_pct,111,111,0.0,0.0,0.0
+Science Fiction,recommendation_sentence_pct,111,111,0.0,0.0,0.0
+Science Fiction,plot_description_sentence_pct,111,111,0.0,0.0,0.0
+Science Fiction,evaluation_sentence_pct,111,111,0.0,0.0,0.0
+Science Fiction,sd_sentence_words,111,108,5.660171352874709,7.349039709136868,9.754990395164427

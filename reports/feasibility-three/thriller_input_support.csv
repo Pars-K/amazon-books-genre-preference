@@ -1,0 +1,10 @@
+scheme,fold,genre,train,test
+thriller_input,0,Mystery,54,26
+thriller_input,0,Thriller,3707,1872
+thriller_input,0,Romance,46,22
+thriller_input,1,Mystery,50,30
+thriller_input,1,Thriller,3705,1874
+thriller_input,1,Romance,47,21
+thriller_input,2,Mystery,56,24
+thriller_input,2,Thriller,3746,1833
+thriller_input,2,Romance,43,25

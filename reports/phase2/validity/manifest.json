@@ -1,0 +1,53 @@
+{
+  "created_utc": "2026-11-19T05:39:04.291895+00:00",
+  "baseline_analysis_commit": "dfd8b18",
+  "code_review_baseline": "123c505",
+  "discovery_users": 10968,
+  "comparison_validation_authors": {
+    "Romance": 135,
+    "Science_Fiction": 22
+  },
+  "global_word_test_family": 84000,
+  "fixed_replication_words": 24,
+  "fixed_style_hypotheses": 2,
+  "additional_style_hypotheses": 29,
+  "word_rank_bootstraps": 200,
+  "rank_permutations": 9999,
+  "median_bootstraps": 2000,
+  "book_bootstraps": 2000,
+  "normalized_gaussian_repeats": 39,
+  "inputs": {
+    "reports\\phase2\\completion_manifest.json": "2d24044127abd7293348a03e1724f31bde8effc04c74c53610fa06e3409d6e48",
+    "reports\\phase2\\patterns\\targeted_common_terms.csv": "7b78b02cb42ae3565d5392d478df4a0ef71b6b6dc901c62f97e810b0b5a4625f",
+    "reports\\phase2\\patterns\\distinctive_terms.csv": "92800d17db1d7c2ef195d00cc3dd73337c6a9504cd215d9ccebc83db8ee71de0",
+    "reports\\phase2\\patterns\\review_repeatability.csv": "4d22bdf4e89166f6fc295cf6f7b0ecf00354a486401064b8fc9251148ac00161",
+    "reports\\phase2\\patterns\\style_support.csv": "9714f365ee554b84f3a6477b557e6d46da11aeb3deb2ed781a94c9ec57f9745e",
+    "data\\analysis\\phase2-final\\lexical_fit.npz": "7562e029f7db5dbed1ee742a03d3475a40a1da5b34db4e2a338a508283eb2fdd",
+    "data\\analysis\\phase2-final\\tfidf.npz": "8d3d707ac8fa7e0d215b091d873d3a228ff12eccb8fe8858374054f21997ca60",
+    "data\\analysis\\phase2-final\\common_genre_style.csv.gz": "82d995088ed75cd23a2cd1c6b24c2d3c8ffc908fb996cc00f1cbf53c07b41515",
+    "data\\analysis\\eda-v1\\users.csv": "43dfe1b7813d31d8a676e2aa538b1bbe0d9591fa42aa9b7e100a9efb00a469b1",
+    "data\\analysis\\eda-v1\\reviews.jsonl.gz": "88343d0f42f80165ce80b7677a6a7a865ad55289c24a24e77135784095be7622"
+  },
+  "source_sha256_lf": {
+    "src\\audit_phase2_validity.py": "b436370fc597535a636c2198fcf276de11fea77b637023b615fde6ea7ead22b3",
+    "src\\build_validity_report.py": "bd91ab0b6955283583a5fcbf21c13ba42fe2cffa69b053614bbdd311350f5727",
+    "tests\\test_phase2_validity.py": "8136a266e30cf726487410bf3b685fc1e82d09bc3217d6305072750a6c6ffccd"
+  },
+  "outputs": {
+    "reports\\phase2\\validity\\book_sensitivity.csv": "996074e23dc1c55654d2f354e6df8893ea1c15edb4690b21d208ec3e0781aa1b",
+    "reports\\phase2\\validity\\cluster_evidence.json": "a5b7a8919ac645f0753990915d90e512bafebcce7c50c0e8e0f5d11576be74be",
+    "reports\\phase2\\validity\\common_style_evidence.csv": "90fc29359241c67f2be64e37f9400b59b2ac17ed1154c2bad6bb672395e26c6c",
+    "reports\\phase2\\validity\\discovery_summary.csv": "acd1c460ec848e646056cbbca2121d6dd5be219a69cb51ef42639efe4338630c",
+    "reports\\phase2\\validity\\discovery_words.csv": "ec17cee311abcc4ce3738e732effd71a2bbfd86f3aba5e09200f6167fc63d0fd",
+    "reports\\phase2\\validity\\indicator_evidence.csv": "f04d4225237fdd6ca53ee8ef7abe1078be92d0ee6aa0760a2abde260ce6401ce",
+    "reports\\phase2\\validity\\observed_patterns.png": "c712be2685db8c7eac420574f9eda7ec4a8d7f99c28b2a3aa38bcf2e89dd532c",
+    "reports\\phase2\\validity\\protocol.json": "2515ad980e24e55d990022525d0e45ff623f9c0a49543ea113147711fc76eeb2",
+    "reports\\phase2\\validity\\report-fa.md": "310503e2c068d24c0f06c4a4a819e4b877eacd8353e43741d2aa11d95d2a94b0",
+    "reports\\phase2\\validity\\word_replication.csv": "a82ae334d254b5f5633080d72fc4109dcb2886c343e06ec3e222d17d2792477b",
+    "data\\analysis\\validity-v1\\all_word_tests.npz": "c9c21d81aac27f3c00fa46680355146c9a59f2db6c8550146b46b699f6d17dc2",
+    "data\\analysis\\validity-v1\\single_gaussian_silhouettes.npy": "65337077dcc7cf017159cff8010d915d7751048ba39c682384562e208160576d",
+    "data\\analysis\\validity-v1\\validation_common.jsonl": "53005e366357cdc71a919db358dca771387f921a2113a5c3100069127f8c77a9",
+    "data\\analysis\\validity-v1\\validation_common_style.csv": "7725718d32dd0dd0784340367ac99b091927b67d7da8cfd72b9032296da32e38",
+    "data\\analysis\\validity-v1\\validation_random.jsonl": "f2fbb4838d28431084af98956d600cb73fe1a3b084889a179e95d1acff1e617c"
+  }
+}
